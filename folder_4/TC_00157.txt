@@ -1,0 +1,31 @@
+Test Case ID : TC_00157
+Module       : Search
+Timestamp    : 2026-01-10 08:37:00
+Build Number : 2361
+Status       : FAIL
+
+Failure Reason : NullPointerException
+Failure Details:
+yBszmq3LzJIyZ7ppza3JNsrH7Lvv62SlETLSahvFemPlr5VvauQGZk9cV1NX3rcSxitQGgSk7jDAKpGxou8vGcWshfEVAIS9DZalIohCzNXBcu6W1YlFSPqcypNzjlVf5rG1bEDwQvUOplKf1DRc4lof8eGjfaDlO7fTdC8GEtep2frO3O5W8kcQ 8ENKXthYOf0 4f1NlP6qeWCvmNPk3sjWGl11cMiAzLtwMhx66UXR2OaT1cEdSe87hyuvmRahzfh0efcvTJMiHGmUJpgYViA 0NSpiJEb10Gc5VNv BGqsx0vNo4DHlGUEdX6CaNeg3Q5PIvQqCzitu7u4y7rchkGqDpM2R9FtSMk ffuz5HVSHYqsvx9KiMQm4KbF4k2FB2lP6nPyIhaB7m
+
+Stack Trace:
+    at com.app.SearchClass.method0(File.java:274)
+    at com.app.SearchClass.method1(File.java:223)
+    at com.app.SearchClass.method2(File.java:969)
+    at com.app.SearchClass.method3(File.java:586)
+    at com.app.SearchClass.method4(File.java:584)
+    at com.app.SearchClass.method5(File.java:403)
+    at com.app.SearchClass.method6(File.java:507)
+    at com.app.SearchClass.method7(File.java:890)
+    at com.app.SearchClass.method8(File.java:183)
+    at com.app.SearchClass.method9(File.java:792)
+    at com.app.SearchClass.method10(File.java:644)
+    at com.app.SearchClass.method11(File.java:278)
+    at com.app.SearchClass.method12(File.java:776)
+    at com.app.SearchClass.method13(File.java:258)
+    at com.app.SearchClass.method14(File.java:628)
+    at com.app.SearchClass.method15(File.java:739)
+    at com.app.SearchClass.method16(File.java:395)
+    at com.app.SearchClass.method17(File.java:807)
+    at com.app.SearchClass.method18(File.java:612)
+    at com.app.SearchClass.method19(File.java:544)

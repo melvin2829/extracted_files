@@ -1,0 +1,31 @@
+Test Case ID : TC_00130
+Module       : File Upload
+Timestamp    : 2026-01-10 08:10:00
+Build Number : 2034
+Status       : FAIL
+
+Failure Reason : Data Mismatch
+Failure Details:
+sE83LWXe1uwPPIRV9KigW9ZbVUZWCXag6zU7mkm3XlIXsTjIUD407EAI wnVNPNvbSWSnuKzAcoL7YMvtg YUyz4Qpixv9R6QdwpmcqEjjob4flhJEluCIqMANM0280VFRSagoxtcU3kCu39ejTuUfmmaP2MYlAqnlI0dn4zDPOZyQ0xfWS14NyCaPOtUJyDFzjDPPjY2YpdbIYx3qOZmQHlY6XvLEjVm0LQ0Kp3T6SOsTI4fHO5VAftdOFyZIDXk1G9AVyJUlfA3Ya8VmRLabM 2Uc54kMhKuWiYaqvc0fwOZasRm63cyIacJ e8yLVzty6oHyvlFYpYNhc3pDytgwPME2pSQg2jiXVg7NdH1e6sHA6bub9hsjPeBgvsPSsK5ixMVBI0M6NBEDl
+
+Stack Trace:
+    at com.app.FileUploadClass.method0(File.java:975)
+    at com.app.FileUploadClass.method1(File.java:32)
+    at com.app.FileUploadClass.method2(File.java:522)
+    at com.app.FileUploadClass.method3(File.java:525)
+    at com.app.FileUploadClass.method4(File.java:927)
+    at com.app.FileUploadClass.method5(File.java:655)
+    at com.app.FileUploadClass.method6(File.java:978)
+    at com.app.FileUploadClass.method7(File.java:380)
+    at com.app.FileUploadClass.method8(File.java:719)
+    at com.app.FileUploadClass.method9(File.java:852)
+    at com.app.FileUploadClass.method10(File.java:628)
+    at com.app.FileUploadClass.method11(File.java:778)
+    at com.app.FileUploadClass.method12(File.java:463)
+    at com.app.FileUploadClass.method13(File.java:212)
+    at com.app.FileUploadClass.method14(File.java:337)
+    at com.app.FileUploadClass.method15(File.java:436)
+    at com.app.FileUploadClass.method16(File.java:68)
+    at com.app.FileUploadClass.method17(File.java:401)
+    at com.app.FileUploadClass.method18(File.java:155)
+    at com.app.FileUploadClass.method19(File.java:214)

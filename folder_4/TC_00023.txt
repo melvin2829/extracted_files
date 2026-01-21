@@ -1,0 +1,31 @@
+Test Case ID : TC_00023
+Module       : API Authentication
+Timestamp    : 2026-01-10 06:23:00
+Build Number : 2580
+Status       : FAIL
+
+Failure Reason : API 401 Unauthorized
+Failure Details:
+i0IeMYQdim2JQBNYNcN8Uj6LZbFWGq2abSVoh4zeJ67WxncpgwEL4osDqj3JJScWLfSgPA7m msZsripxuAtXB 8 0xhycUMgrkcOSBVGkgsylCQSFFiKmveDrUoxSv3NnUvk h8Say84bLArPFatDtaGt7p7iD GXwo6peg2nwhiUvfDZIMt9te09FbYGw3QlEGA9JgZvTX926 tUJVYVKAM4ailJjYpuI09eW oqz08TqtLez2Ow2QB3dnZAADk3CGYfWZrQzjDtIxYsbnNCrALwj77Ta13xfwMKr4LD iVdvHKp8HQqiJH6yHdFeGhIpWvWB0IG ZcMvJfoU8IiwYFdoPLV3RTwfzTWwPYDZfpXw5djKeSIv8FZnJe92Sd4OKys5bArM dYsB
+
+Stack Trace:
+    at com.app.APIAuthenticationClass.method0(File.java:17)
+    at com.app.APIAuthenticationClass.method1(File.java:52)
+    at com.app.APIAuthenticationClass.method2(File.java:939)
+    at com.app.APIAuthenticationClass.method3(File.java:651)
+    at com.app.APIAuthenticationClass.method4(File.java:731)
+    at com.app.APIAuthenticationClass.method5(File.java:832)
+    at com.app.APIAuthenticationClass.method6(File.java:536)
+    at com.app.APIAuthenticationClass.method7(File.java:617)
+    at com.app.APIAuthenticationClass.method8(File.java:552)
+    at com.app.APIAuthenticationClass.method9(File.java:329)
+    at com.app.APIAuthenticationClass.method10(File.java:509)
+    at com.app.APIAuthenticationClass.method11(File.java:267)
+    at com.app.APIAuthenticationClass.method12(File.java:362)
+    at com.app.APIAuthenticationClass.method13(File.java:710)
+    at com.app.APIAuthenticationClass.method14(File.java:601)
+    at com.app.APIAuthenticationClass.method15(File.java:31)
+    at com.app.APIAuthenticationClass.method16(File.java:715)
+    at com.app.APIAuthenticationClass.method17(File.java:462)
+    at com.app.APIAuthenticationClass.method18(File.java:447)
+    at com.app.APIAuthenticationClass.method19(File.java:971)

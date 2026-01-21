@@ -1,0 +1,31 @@
+Test Case ID : TC_00431
+Module       : Sort
+Timestamp    : 2026-01-10 13:11:00
+Build Number : 1412
+Status       : FAIL
+
+Failure Reason : Database Connection Failed
+Failure Details:
+1OKenm7aQPxIqd14P6RSv6Bmn9rCYyqn GUGjyAdnC3rY9 OBswu9xP4vr72ezKv6UzqhLy5XL VUDPrgfg2xiMkW6XFnyuZcqPqCqsCebWHjTa8zFvx8VEfjQdAgGjGEECSgyrSBbGhhSCcJ5HuQJEMDuxy83NRSQtpSSsy61DpJOWqgoqMm5oMjSNj7Zj3SLy7jwGMePa8j8PYoMnoMfFWApx UktcUR8MxVbXlbpCeUKm7oxkqzYcPUwTFRJn19mheVNKISkMspPYZpcs 8Ie63Yg sCqRRzX8vm W7oeUpBqFYyNxc5PEn4B9pQCshp5HDqNzmzUqdrmRgrzfc9mc5RlHuqY6WH5omta6FF0Bz6jehn5ijrKBLhX6r6P2mjbZ7hfPaPc9BVo
+
+Stack Trace:
+    at com.app.SortClass.method0(File.java:853)
+    at com.app.SortClass.method1(File.java:941)
+    at com.app.SortClass.method2(File.java:920)
+    at com.app.SortClass.method3(File.java:274)
+    at com.app.SortClass.method4(File.java:599)
+    at com.app.SortClass.method5(File.java:233)
+    at com.app.SortClass.method6(File.java:332)
+    at com.app.SortClass.method7(File.java:591)
+    at com.app.SortClass.method8(File.java:922)
+    at com.app.SortClass.method9(File.java:534)
+    at com.app.SortClass.method10(File.java:274)
+    at com.app.SortClass.method11(File.java:935)
+    at com.app.SortClass.method12(File.java:855)
+    at com.app.SortClass.method13(File.java:889)
+    at com.app.SortClass.method14(File.java:239)
+    at com.app.SortClass.method15(File.java:215)
+    at com.app.SortClass.method16(File.java:290)
+    at com.app.SortClass.method17(File.java:210)
+    at com.app.SortClass.method18(File.java:495)
+    at com.app.SortClass.method19(File.java:42)

@@ -1,0 +1,31 @@
+Test Case ID : TC_00030
+Module       : Report Generation
+Timestamp    : 2026-01-10 06:30:00
+Build Number : 4849
+Status       : FAIL
+
+Failure Reason : Data Mismatch
+Failure Details:
+X19FzyEURzowhxPPeHlfsS1DTY2RuUxQwWuthKac6KRYctscWPUUZDhCTqLqHiMWlGGtzPr4Xb3CQK lldxvuRzoWMLnyWOquhSyV6Ir0FlZAOiwzVgnwVD7IovIRHkzaqAvrPGM3Wnl17rThnzJnxNUjooByvunTqrjM7gNz2cH44V 172rGnnSwpKPQE7Xh5nSe9A5r0iTbqdO3cvG6y3sGfSqzJaGkVhXV7F1ODRyGf6U2yAbcBeu0Ekdw1CJ8686lbGoXTVn71KgxYrgFaS19VvI0LoLcSFIslTQO20WhxBivGEzHT2XjUw4j2YJ69 4GQn4mgQBOo8ErVk3V1Nt Sy8VmXSHhuUVRRvKdON 52dQcUXFVIZ1eHDmQODUeYui7aqal9wlEUG
+
+Stack Trace:
+    at com.app.ReportGenerationClass.method0(File.java:295)
+    at com.app.ReportGenerationClass.method1(File.java:999)
+    at com.app.ReportGenerationClass.method2(File.java:576)
+    at com.app.ReportGenerationClass.method3(File.java:694)
+    at com.app.ReportGenerationClass.method4(File.java:595)
+    at com.app.ReportGenerationClass.method5(File.java:27)
+    at com.app.ReportGenerationClass.method6(File.java:93)
+    at com.app.ReportGenerationClass.method7(File.java:929)
+    at com.app.ReportGenerationClass.method8(File.java:279)
+    at com.app.ReportGenerationClass.method9(File.java:65)
+    at com.app.ReportGenerationClass.method10(File.java:437)
+    at com.app.ReportGenerationClass.method11(File.java:105)
+    at com.app.ReportGenerationClass.method12(File.java:83)
+    at com.app.ReportGenerationClass.method13(File.java:610)
+    at com.app.ReportGenerationClass.method14(File.java:494)
+    at com.app.ReportGenerationClass.method15(File.java:296)
+    at com.app.ReportGenerationClass.method16(File.java:344)
+    at com.app.ReportGenerationClass.method17(File.java:604)
+    at com.app.ReportGenerationClass.method18(File.java:244)
+    at com.app.ReportGenerationClass.method19(File.java:539)

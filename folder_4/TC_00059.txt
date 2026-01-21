@@ -1,0 +1,31 @@
+Test Case ID : TC_00059
+Module       : File Download
+Timestamp    : 2026-01-10 06:59:00
+Build Number : 4370
+Status       : FAIL
+
+Failure Reason : TimeoutException
+Failure Details:
+upBSNe5w 5eU9MW7UES4QWGu8FjWdCm2z6gXcYz0looc64xTqVx4PSt7la8t2GKT3IZEwN87erdhDIquo1uOlUEM8Fo5Up61yYKPAsyqqDRAyLv4hHUb2S QSiX8zlGK7jsmdiKk31xtL9q4LucHUVzDOLWkDNbaDv5D4npKiy8qY7H3h3AzbX8ZDno1YpoE6Fzg9cgpmiSCGfSphTiFgU6E7IsEiqsAknDnCCi8BpCX4BiP5pi6jgCogRJMkuoDUcrYdM9h8FEZ7BU0UfsNB7YzpiTVGgUBqBGK0SxhzYsxRHNG9MEFl6iiUfhG0FRazm0mOh9mxf7T2iMs87ODkJVaGHe2Eq mkryCDS66fBVLftzMsPvJOsX1I6gzbt5uM8C7uLGMD4V3QyH4
+
+Stack Trace:
+    at com.app.FileDownloadClass.method0(File.java:143)
+    at com.app.FileDownloadClass.method1(File.java:612)
+    at com.app.FileDownloadClass.method2(File.java:926)
+    at com.app.FileDownloadClass.method3(File.java:974)
+    at com.app.FileDownloadClass.method4(File.java:868)
+    at com.app.FileDownloadClass.method5(File.java:737)
+    at com.app.FileDownloadClass.method6(File.java:26)
+    at com.app.FileDownloadClass.method7(File.java:791)
+    at com.app.FileDownloadClass.method8(File.java:472)
+    at com.app.FileDownloadClass.method9(File.java:128)
+    at com.app.FileDownloadClass.method10(File.java:599)
+    at com.app.FileDownloadClass.method11(File.java:35)
+    at com.app.FileDownloadClass.method12(File.java:348)
+    at com.app.FileDownloadClass.method13(File.java:750)
+    at com.app.FileDownloadClass.method14(File.java:413)
+    at com.app.FileDownloadClass.method15(File.java:623)
+    at com.app.FileDownloadClass.method16(File.java:953)
+    at com.app.FileDownloadClass.method17(File.java:701)
+    at com.app.FileDownloadClass.method18(File.java:744)
+    at com.app.FileDownloadClass.method19(File.java:687)

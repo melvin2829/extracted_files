@@ -1,0 +1,31 @@
+Test Case ID : TC_00181
+Module       : Login
+Timestamp    : 2026-01-10 09:01:00
+Build Number : 3012
+Status       : FAIL
+
+Failure Reason : API 401 Unauthorized
+Failure Details:
+ iLHRSp7sbd64hSbYBlUkTKzZmbyQRcUWjEOGHK0imjUFQXaLbtI5ZfYWwA3Z1Ny4fOWBzLvIAhsoeYDty pwQUmgrchhchqt7zysjVtNhw5CqxzK yXZyOtPXZjJhrIVUlyRb9lEs7lzOPCO9K80SXkF72JaF 6YidjQqFfvx7fh2E9Mk7zfjNnQjeDs2I7q2h3 b7zEv5 KzQaoz0Lhm3OZapf6nREQgXAbjXwIMcd1aPHUwfBylN2JDWvouFKEK8PdvbGCzcJL8n93rxuRcWEKWR1cDRxY8Sls VzGtwsxYz6rTqBtoL91Z7CXchQGta0eoD0yTpTgndfi8OwYcEMUPn4HK9FVwuK3YBi47QUlmEVwB dZDdqyQ4cAtMGAmFjO0laPJfpU2O6
+
+Stack Trace:
+    at com.app.LoginClass.method0(File.java:513)
+    at com.app.LoginClass.method1(File.java:163)
+    at com.app.LoginClass.method2(File.java:654)
+    at com.app.LoginClass.method3(File.java:19)
+    at com.app.LoginClass.method4(File.java:829)
+    at com.app.LoginClass.method5(File.java:964)
+    at com.app.LoginClass.method6(File.java:731)
+    at com.app.LoginClass.method7(File.java:866)
+    at com.app.LoginClass.method8(File.java:176)
+    at com.app.LoginClass.method9(File.java:584)
+    at com.app.LoginClass.method10(File.java:867)
+    at com.app.LoginClass.method11(File.java:72)
+    at com.app.LoginClass.method12(File.java:126)
+    at com.app.LoginClass.method13(File.java:636)
+    at com.app.LoginClass.method14(File.java:678)
+    at com.app.LoginClass.method15(File.java:321)
+    at com.app.LoginClass.method16(File.java:872)
+    at com.app.LoginClass.method17(File.java:941)
+    at com.app.LoginClass.method18(File.java:243)
+    at com.app.LoginClass.method19(File.java:304)

@@ -1,0 +1,31 @@
+Test Case ID : TC_00019
+Module       : Dashboard Load
+Timestamp    : 2026-01-10 06:19:00
+Build Number : 3459
+Status       : FAIL
+
+Failure Reason : API 500 Internal Server Error
+Failure Details:
+6Cye1OLoQnCrgGxgVXnJy5uTnfQ9XdQeEtfyqc0Umc0cubbw72wa4jb5DT3VsDl5rDlIwr5iAZzZzAtmeV21ga5pwiq8OU8d6ZLwMXTRl6HwPoMTbLsKNpuvBJor6ulPOXpX jZZPyEf2PLFb9EEtNxSWKvjSKCBe1Pbdg2hyXTZqT8kEkhK2HhAC0nQPD9y8fbvWeBXiM ztjwr4uS400lHRt4YB9EXBA5fuYW2WeEIsQSqndDruVgfccWBDqYdY2kShr AbjoxXBm1le83YKsgSeNBNmH6Tow3S89pHWzuRyM33kS0Mpn0Ks0PdDlb1FxEY4nFYz7Hfm57P796scb8sQf5Xx70Oc5W971ubNmtCEVYpoLCo4QvjaEM5XVEf1dNVCrClLytYry3
+
+Stack Trace:
+    at com.app.DashboardLoadClass.method0(File.java:949)
+    at com.app.DashboardLoadClass.method1(File.java:765)
+    at com.app.DashboardLoadClass.method2(File.java:481)
+    at com.app.DashboardLoadClass.method3(File.java:910)
+    at com.app.DashboardLoadClass.method4(File.java:350)
+    at com.app.DashboardLoadClass.method5(File.java:875)
+    at com.app.DashboardLoadClass.method6(File.java:276)
+    at com.app.DashboardLoadClass.method7(File.java:21)
+    at com.app.DashboardLoadClass.method8(File.java:423)
+    at com.app.DashboardLoadClass.method9(File.java:470)
+    at com.app.DashboardLoadClass.method10(File.java:965)
+    at com.app.DashboardLoadClass.method11(File.java:671)
+    at com.app.DashboardLoadClass.method12(File.java:153)
+    at com.app.DashboardLoadClass.method13(File.java:589)
+    at com.app.DashboardLoadClass.method14(File.java:812)
+    at com.app.DashboardLoadClass.method15(File.java:320)
+    at com.app.DashboardLoadClass.method16(File.java:930)
+    at com.app.DashboardLoadClass.method17(File.java:471)
+    at com.app.DashboardLoadClass.method18(File.java:928)
+    at com.app.DashboardLoadClass.method19(File.java:119)

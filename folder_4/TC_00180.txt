@@ -1,0 +1,31 @@
+Test Case ID : TC_00180
+Module       : Audit Logs
+Timestamp    : 2026-01-10 09:00:00
+Build Number : 3653
+Status       : FAIL
+
+Failure Reason : API 401 Unauthorized
+Failure Details:
+3QPE68GqL4WlRwn92OtJcxJUduxKP uHqFDnvHePumroe0svILZXsxdZq san1DIhHNy4okb02B7AbRFnmOq59CNYUeJtVZee305F7LK5061JeQN76Pxaxw31GES5AzCNHi0ShGS3247XeEIc9IeMHJWFCbxOGoYJhscavIIN8zTSbaC9HO88HvNob f8kXWuyWIUR7mZIo44XBaugGp2mdLuN5Z3P7HBGCGmuSZbO7FR8b2d5fTk6zkyzCYPZzEvfzeK3ZBh5 h7R5IWwnJJmFDzQOPL9HZqGWWOwVnhd DhBFWmwuFZUXWZF8Fj73teEZ91E4mbwSq00NLIbp6vVtRb8zHovMyDvdXVOgS c61M7aLeZGlPuuogW00cuxYIhLMczKgSXseaS4S
+
+Stack Trace:
+    at com.app.AuditLogsClass.method0(File.java:349)
+    at com.app.AuditLogsClass.method1(File.java:61)
+    at com.app.AuditLogsClass.method2(File.java:344)
+    at com.app.AuditLogsClass.method3(File.java:35)
+    at com.app.AuditLogsClass.method4(File.java:468)
+    at com.app.AuditLogsClass.method5(File.java:209)
+    at com.app.AuditLogsClass.method6(File.java:538)
+    at com.app.AuditLogsClass.method7(File.java:609)
+    at com.app.AuditLogsClass.method8(File.java:472)
+    at com.app.AuditLogsClass.method9(File.java:671)
+    at com.app.AuditLogsClass.method10(File.java:236)
+    at com.app.AuditLogsClass.method11(File.java:182)
+    at com.app.AuditLogsClass.method12(File.java:524)
+    at com.app.AuditLogsClass.method13(File.java:507)
+    at com.app.AuditLogsClass.method14(File.java:305)
+    at com.app.AuditLogsClass.method15(File.java:323)
+    at com.app.AuditLogsClass.method16(File.java:568)
+    at com.app.AuditLogsClass.method17(File.java:430)
+    at com.app.AuditLogsClass.method18(File.java:827)
+    at com.app.AuditLogsClass.method19(File.java:38)

@@ -1,0 +1,31 @@
+Test Case ID : TC_00466
+Module       : Audit Logs
+Timestamp    : 2026-01-10 13:46:00
+Build Number : 2467
+Status       : FAIL
+
+Failure Reason : AssertionError
+Failure Details:
+V1a0wGFHN4r7MmYhcXd1DN3glhpmP6VUkRF75Rbunp60G3egbEcTfkSiX1jVTn6vmi4CRfMsfe692OCdgarC6wQdikfzY0hVVWPL4iYhpWvvPVMKCaOqxOvLTRxo oNpmGF2EpsEaWigmdAbaU7wCcHpl4ssxwgCq4qI7XtRudFHcJMqIxmU9lWt3fwaY06rqSWuDNng9Sb1ziU3oCDUr2OyGCx5x1KMKWrTz8MFbKAQa 5mkJqTKObZbMXKWPV2ApX49ZfTj8dQI 2wmYdQAHHOKUD1AEjf7 XzBKD3otN2kiX4VnlRZ19TG MMj4sM4GGwvMkwztQGixll7Ne0bzlq8lzSz5FnOFzuf5oU2TEDanlsAKT9Rj4Wxs5bv3y4OemXK47f0DGvhkkt
+
+Stack Trace:
+    at com.app.AuditLogsClass.method0(File.java:570)
+    at com.app.AuditLogsClass.method1(File.java:940)
+    at com.app.AuditLogsClass.method2(File.java:438)
+    at com.app.AuditLogsClass.method3(File.java:37)
+    at com.app.AuditLogsClass.method4(File.java:118)
+    at com.app.AuditLogsClass.method5(File.java:298)
+    at com.app.AuditLogsClass.method6(File.java:427)
+    at com.app.AuditLogsClass.method7(File.java:474)
+    at com.app.AuditLogsClass.method8(File.java:40)
+    at com.app.AuditLogsClass.method9(File.java:417)
+    at com.app.AuditLogsClass.method10(File.java:721)
+    at com.app.AuditLogsClass.method11(File.java:532)
+    at com.app.AuditLogsClass.method12(File.java:482)
+    at com.app.AuditLogsClass.method13(File.java:57)
+    at com.app.AuditLogsClass.method14(File.java:285)
+    at com.app.AuditLogsClass.method15(File.java:479)
+    at com.app.AuditLogsClass.method16(File.java:886)
+    at com.app.AuditLogsClass.method17(File.java:175)
+    at com.app.AuditLogsClass.method18(File.java:268)
+    at com.app.AuditLogsClass.method19(File.java:327)

@@ -1,0 +1,8 @@
+Test Case ID : TC_00327
+Module       : Notification Service
+Timestamp    : 2026-01-10 11:27:00
+Build Number : 2692
+Status       : PASS
+
+Execution Log:
+4OuZhRIDQFIIvGzouqrbcElFbKHfO03AkqlGqiEv0ymf3lxM1TF4LRG NwFNBAjKrQr1nMd2lxU uxJxmYAFz0ni wPP3jrOrKA2rguBvMiGd1daJUY5flMJYjqKWaP2IVyaAD0gUYt7DbwpK0idAMjhy43TNwH4fIwZ327TmkjSmhf3C3m0YVSL2qS CeQWGgZCKGl0

@@ -1,0 +1,31 @@
+Test Case ID : TC_00044
+Module       : Search
+Timestamp    : 2026-01-10 06:44:00
+Build Number : 2843
+Status       : FAIL
+
+Failure Reason : Incorrect Response Code
+Failure Details:
+GVTOCoTLI7lA9p8OMNq4idaOFQD2DbcQQPC5WdclSIaq9lgS1TbcU6I6bMmmsgZHqrE 2zf39NXtVIruv TGzYlZ6py2Go7f7UdgxWq2YPC0gZ33lWDxZYZtxEUu98BgTsuh0LPb2JhvGZCRctsNIbGJyl77QT86dIP4gckI13rZVj2n1dc nGcg6iQo7bQQSVOf3FpEnpAjdcY 9vwL3LENhD6wi1SxNcoNRigqVmPUyUxoQLBKyf9jUiKmWXg3gH6yrzciXqm7r20FzAv8TpoP4CP9Mkl88TNeI0pFKv2f8FulMmJim211ADf ZXwY7uYdLsDv54NlfjVBrjIxMoTxqND3yc8pP32Pnh7tyDFsrFcIk13x aV0L2Ab24JZSgyyP 1BRcxcrCun
+
+Stack Trace:
+    at com.app.SearchClass.method0(File.java:771)
+    at com.app.SearchClass.method1(File.java:91)
+    at com.app.SearchClass.method2(File.java:824)
+    at com.app.SearchClass.method3(File.java:922)
+    at com.app.SearchClass.method4(File.java:81)
+    at com.app.SearchClass.method5(File.java:641)
+    at com.app.SearchClass.method6(File.java:918)
+    at com.app.SearchClass.method7(File.java:859)
+    at com.app.SearchClass.method8(File.java:748)
+    at com.app.SearchClass.method9(File.java:216)
+    at com.app.SearchClass.method10(File.java:331)
+    at com.app.SearchClass.method11(File.java:455)
+    at com.app.SearchClass.method12(File.java:286)
+    at com.app.SearchClass.method13(File.java:904)
+    at com.app.SearchClass.method14(File.java:870)
+    at com.app.SearchClass.method15(File.java:670)
+    at com.app.SearchClass.method16(File.java:474)
+    at com.app.SearchClass.method17(File.java:520)
+    at com.app.SearchClass.method18(File.java:854)
+    at com.app.SearchClass.method19(File.java:753)

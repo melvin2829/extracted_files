@@ -1,0 +1,31 @@
+Test Case ID : TC_00176
+Module       : File Download
+Timestamp    : 2026-01-10 08:56:00
+Build Number : 1868
+Status       : FAIL
+
+Failure Reason : Incorrect Response Code
+Failure Details:
+Mxoewfkye8HFrph1nOM4h8BdnEm59WVUdSv4nYRzKbnDvPUcnAc1aZ67sj9PFtUmggWCAOFgPQ6Nb8rrm7VDyL4smxxJlciBGMei9l0 6dyZtpPWbmGLUWV7dCwXKNGSWON 92Scps2Fznl4TT0TiEwDM2OZbbKTffQIcnzw8QCB33V9UfdyHXnCaAXAEACue2z24dIAMfcunP8P6wp0s2Xj1NpiZwhBsu5VcyQaJT6vSl4q6asz9mmjtVvo2i6YMBLOp6rYIVfn5h7f2h1ZpDVmdV6dyiQIiCUZ1fXv4UE4anfkA9SpNW0Jc2tx8dEE5iUknIF2PJkQb5SpVTD4I zW2NdmHnUk8nkQgDEuyzdHyQ9MVYfkgySG1 Pxe9wsejxuD7X8xUSCyFGm
+
+Stack Trace:
+    at com.app.FileDownloadClass.method0(File.java:845)
+    at com.app.FileDownloadClass.method1(File.java:438)
+    at com.app.FileDownloadClass.method2(File.java:119)
+    at com.app.FileDownloadClass.method3(File.java:461)
+    at com.app.FileDownloadClass.method4(File.java:883)
+    at com.app.FileDownloadClass.method5(File.java:885)
+    at com.app.FileDownloadClass.method6(File.java:504)
+    at com.app.FileDownloadClass.method7(File.java:196)
+    at com.app.FileDownloadClass.method8(File.java:180)
+    at com.app.FileDownloadClass.method9(File.java:276)
+    at com.app.FileDownloadClass.method10(File.java:436)
+    at com.app.FileDownloadClass.method11(File.java:47)
+    at com.app.FileDownloadClass.method12(File.java:795)
+    at com.app.FileDownloadClass.method13(File.java:825)
+    at com.app.FileDownloadClass.method14(File.java:272)
+    at com.app.FileDownloadClass.method15(File.java:853)
+    at com.app.FileDownloadClass.method16(File.java:470)
+    at com.app.FileDownloadClass.method17(File.java:688)
+    at com.app.FileDownloadClass.method18(File.java:159)
+    at com.app.FileDownloadClass.method19(File.java:667)

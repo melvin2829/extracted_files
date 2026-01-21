@@ -1,0 +1,31 @@
+Test Case ID : TC_00470
+Module       : Search
+Timestamp    : 2026-01-10 13:50:00
+Build Number : 1507
+Status       : FAIL
+
+Failure Reason : API 500 Internal Server Error
+Failure Details:
+mzlKppCtNQp2C7PglbgJUfHrfkRqJXsZTblaNNyDDHYnpOb7ctqwL5BWJUfYrBh7IRX1xrK4FLFI6SoDhpAlrvWq8 hvusRjH3Q2JbMQdeU5ET3vV8wCLFmjXKuTSkwmOgsKbXlMVMiT1zav5vZULC2jeVcfgNXSy176jUR34KrBKwCJHgs gvrajzQ mRmFCkV7D3ni0Se14tN2OgGUj7LhNa1TY282QCt  2nOr1wUvzHkrhFTSajDLf2XbLS3gjOpmrRrHH0JMt6aHYEAVt1Jm1MOAcEdWdrHJFHTj8bigzC1igfngdk4gaHtUPGmo1NOJhCH00RirgyR20KWyiMlBOBzHCGgrFLgpvQTx7kAkjQ8fUKe39M7VHeuQA0G6XkRyetiLQPUwmp5
+
+Stack Trace:
+    at com.app.SearchClass.method0(File.java:468)
+    at com.app.SearchClass.method1(File.java:904)
+    at com.app.SearchClass.method2(File.java:357)
+    at com.app.SearchClass.method3(File.java:21)
+    at com.app.SearchClass.method4(File.java:65)
+    at com.app.SearchClass.method5(File.java:572)
+    at com.app.SearchClass.method6(File.java:997)
+    at com.app.SearchClass.method7(File.java:845)
+    at com.app.SearchClass.method8(File.java:504)
+    at com.app.SearchClass.method9(File.java:725)
+    at com.app.SearchClass.method10(File.java:629)
+    at com.app.SearchClass.method11(File.java:348)
+    at com.app.SearchClass.method12(File.java:470)
+    at com.app.SearchClass.method13(File.java:63)
+    at com.app.SearchClass.method14(File.java:144)
+    at com.app.SearchClass.method15(File.java:323)
+    at com.app.SearchClass.method16(File.java:24)
+    at com.app.SearchClass.method17(File.java:199)
+    at com.app.SearchClass.method18(File.java:633)
+    at com.app.SearchClass.method19(File.java:574)

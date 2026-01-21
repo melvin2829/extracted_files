@@ -1,0 +1,31 @@
+Test Case ID : TC_00195
+Module       : Notification Service
+Timestamp    : 2026-01-10 09:15:00
+Build Number : 3113
+Status       : FAIL
+
+Failure Reason : NullPointerException
+Failure Details:
+hrciHAmyFmfP3 l3sbbS jC88o9bVsTuDcMAey2p6ep43Qm7sQeTvYhgP8rvg IRlrQGVwa3w7irVcz3srGTLTBZskVu7ejHLGsASr2nIRKmn5JLIOwkJImJQZwVMNWSBtd75Jncu ZlXIhz0BAMpUFitAr7 hL7c9a62zZqZZcFqzlHjN1RQSnevqxGzWJycsdHDqvGFYffnOduUx6OcgtC3YkAgoyJ9IRbj2JRm4n7AbKYhdjrCGxDMJrHXvccg0pgW5tgSmkHRKxkNYLIQxFApZxc8vk7u54d8sw57k75ndbxGOqx6OHBh9TYAUsdhQBldv8Rl2gyj66B129D30Lco19XKgZxK3ETMbXKdFavfsKhDubUyjtxZl6XwvaeGaEKPKAUGfzdi0uo
+
+Stack Trace:
+    at com.app.NotificationServiceClass.method0(File.java:368)
+    at com.app.NotificationServiceClass.method1(File.java:937)
+    at com.app.NotificationServiceClass.method2(File.java:504)
+    at com.app.NotificationServiceClass.method3(File.java:275)
+    at com.app.NotificationServiceClass.method4(File.java:813)
+    at com.app.NotificationServiceClass.method5(File.java:874)
+    at com.app.NotificationServiceClass.method6(File.java:111)
+    at com.app.NotificationServiceClass.method7(File.java:688)
+    at com.app.NotificationServiceClass.method8(File.java:467)
+    at com.app.NotificationServiceClass.method9(File.java:875)
+    at com.app.NotificationServiceClass.method10(File.java:586)
+    at com.app.NotificationServiceClass.method11(File.java:883)
+    at com.app.NotificationServiceClass.method12(File.java:268)
+    at com.app.NotificationServiceClass.method13(File.java:199)
+    at com.app.NotificationServiceClass.method14(File.java:335)
+    at com.app.NotificationServiceClass.method15(File.java:724)
+    at com.app.NotificationServiceClass.method16(File.java:624)
+    at com.app.NotificationServiceClass.method17(File.java:533)
+    at com.app.NotificationServiceClass.method18(File.java:78)
+    at com.app.NotificationServiceClass.method19(File.java:920)

@@ -1,0 +1,31 @@
+Test Case ID : TC_00330
+Module       : Email Trigger
+Timestamp    : 2026-01-10 11:30:00
+Build Number : 1929
+Status       : FAIL
+
+Failure Reason : Data Mismatch
+Failure Details:
+JPlYO3oGDY8gmQOba3wNER1ZXa5qgJgCmyWrxSuHKofR7TNpr6crduv7wrWEGbNnAuNULlj0W7TjtMYKdoYhjwApOVExTR9gMJbPRpn8 D3owccRrr98C8z3C8J0PrnbGA6qfy4RM75rbN97cwpwzauZkPAuuR4HN59aDB60mr73GgLA4HOsaOqQukDwxPLP9XD3G02hnV3ShdTK4wglBbZa4qbE5NRQXE9UQOEzAVqoK7CXbNF1z7SRYO3LfILJ1tcrRNN DroIN91orAqsxh9NLF5SMLYtYtGZUatFKj27HTUIlDZFZfF8uausbuzJy7zeiYGHP kxZnmQuPt06sOKaV5ry3h9ocrKTteROhe2IqDSLrwXF 5Yr tZPnFpYj4DjqJpE1kVxlbc
+
+Stack Trace:
+    at com.app.EmailTriggerClass.method0(File.java:896)
+    at com.app.EmailTriggerClass.method1(File.java:188)
+    at com.app.EmailTriggerClass.method2(File.java:165)
+    at com.app.EmailTriggerClass.method3(File.java:763)
+    at com.app.EmailTriggerClass.method4(File.java:206)
+    at com.app.EmailTriggerClass.method5(File.java:92)
+    at com.app.EmailTriggerClass.method6(File.java:136)
+    at com.app.EmailTriggerClass.method7(File.java:626)
+    at com.app.EmailTriggerClass.method8(File.java:160)
+    at com.app.EmailTriggerClass.method9(File.java:870)
+    at com.app.EmailTriggerClass.method10(File.java:272)
+    at com.app.EmailTriggerClass.method11(File.java:223)
+    at com.app.EmailTriggerClass.method12(File.java:707)
+    at com.app.EmailTriggerClass.method13(File.java:689)
+    at com.app.EmailTriggerClass.method14(File.java:398)
+    at com.app.EmailTriggerClass.method15(File.java:338)
+    at com.app.EmailTriggerClass.method16(File.java:293)
+    at com.app.EmailTriggerClass.method17(File.java:249)
+    at com.app.EmailTriggerClass.method18(File.java:239)
+    at com.app.EmailTriggerClass.method19(File.java:371)

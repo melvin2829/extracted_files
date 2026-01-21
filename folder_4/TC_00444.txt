@@ -1,0 +1,31 @@
+Test Case ID : TC_00444
+Module       : Role Management
+Timestamp    : 2026-01-10 13:24:00
+Build Number : 2002
+Status       : FAIL
+
+Failure Reason : NullPointerException
+Failure Details:
+zPjnZT0YF G3ffi2O bpO5vJen5g3AzBtBsvw9l8Wd0x5gzNhoksUxpA6tsC EfcaCxA9ffKyXMiE1y 7FKDjF1zPHVCDFPgl9Ol8rDfwbgWr1DlHJqneMPpRJ0VoJARw7CpwprLMn81h5DJ1kY1Lc1zXOgKWR6N8fksEM7B3yYSrs88EmJJeerPMVXRn7Cm8w9BLRQYViu0GnSLqdlyHWFq1TDqJXvnc9tgXES2fZAIJFoB0LEZRO6wGDsQkJSF6xs3HFd7vOuiVV4JuIKP5ye s emjc0ygxUwQA7SYRWDmG5f3VeAcELIRudB0ExnMF5tyFdRBQAQ86vt3Uc5blFJLKYHcg6B09CXxiOhsHRjSV7 zrynENCgK2XtPlyAzLXgP9hvFGcxUNuj
+
+Stack Trace:
+    at com.app.RoleManagementClass.method0(File.java:770)
+    at com.app.RoleManagementClass.method1(File.java:950)
+    at com.app.RoleManagementClass.method2(File.java:392)
+    at com.app.RoleManagementClass.method3(File.java:374)
+    at com.app.RoleManagementClass.method4(File.java:375)
+    at com.app.RoleManagementClass.method5(File.java:625)
+    at com.app.RoleManagementClass.method6(File.java:937)
+    at com.app.RoleManagementClass.method7(File.java:486)
+    at com.app.RoleManagementClass.method8(File.java:303)
+    at com.app.RoleManagementClass.method9(File.java:579)
+    at com.app.RoleManagementClass.method10(File.java:459)
+    at com.app.RoleManagementClass.method11(File.java:732)
+    at com.app.RoleManagementClass.method12(File.java:78)
+    at com.app.RoleManagementClass.method13(File.java:570)
+    at com.app.RoleManagementClass.method14(File.java:621)
+    at com.app.RoleManagementClass.method15(File.java:844)
+    at com.app.RoleManagementClass.method16(File.java:210)
+    at com.app.RoleManagementClass.method17(File.java:125)
+    at com.app.RoleManagementClass.method18(File.java:213)
+    at com.app.RoleManagementClass.method19(File.java:873)

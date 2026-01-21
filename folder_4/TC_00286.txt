@@ -1,0 +1,31 @@
+Test Case ID : TC_00286
+Module       : Report Generation
+Timestamp    : 2026-01-10 10:46:00
+Build Number : 1667
+Status       : FAIL
+
+Failure Reason : Database Connection Failed
+Failure Details:
+Qz1vT8NyHvASrusgWKJw8jJSyFMl1JfAAI2pWozdzEHBtlFNvJo5LLhpBgwDOpEL SnRqiuh0kcLNNKS65kLOgvpFa57U4msRljHOk6nywyu2a1A0Zhk HjjrDy4oun0edplTOkHS6oHB5kwTmRhiOdylU6PEjNMmIA3tqj8qEKP48cPZyofjq692v4aADisobciEboo0qJEbFkseh0BKwkOhmrNxjX0Nce91InsJR O2KpyxFPOYdX8YK6T02ZANiErZPsyuc5TcXqIqIICnRH8QQxnJjG6ko8Pg41rQN6hvmXoXkrbAjUPVZPt0s0u6yxRUkVdE3VaUGVGZbM8UjJY67FjorOdtPIUZPSMvh89kM4zKDBsnTYdGMhUCsUzE8COOa7ht3OY3pEz
+
+Stack Trace:
+    at com.app.ReportGenerationClass.method0(File.java:759)
+    at com.app.ReportGenerationClass.method1(File.java:861)
+    at com.app.ReportGenerationClass.method2(File.java:147)
+    at com.app.ReportGenerationClass.method3(File.java:288)
+    at com.app.ReportGenerationClass.method4(File.java:875)
+    at com.app.ReportGenerationClass.method5(File.java:374)
+    at com.app.ReportGenerationClass.method6(File.java:602)
+    at com.app.ReportGenerationClass.method7(File.java:263)
+    at com.app.ReportGenerationClass.method8(File.java:961)
+    at com.app.ReportGenerationClass.method9(File.java:516)
+    at com.app.ReportGenerationClass.method10(File.java:795)
+    at com.app.ReportGenerationClass.method11(File.java:819)
+    at com.app.ReportGenerationClass.method12(File.java:98)
+    at com.app.ReportGenerationClass.method13(File.java:420)
+    at com.app.ReportGenerationClass.method14(File.java:181)
+    at com.app.ReportGenerationClass.method15(File.java:427)
+    at com.app.ReportGenerationClass.method16(File.java:903)
+    at com.app.ReportGenerationClass.method17(File.java:514)
+    at com.app.ReportGenerationClass.method18(File.java:710)
+    at com.app.ReportGenerationClass.method19(File.java:690)

@@ -1,0 +1,31 @@
+Test Case ID : TC_00164
+Module       : Third-party Integration
+Timestamp    : 2026-01-10 08:44:00
+Build Number : 3859
+Status       : FAIL
+
+Failure Reason : ElementNotFound
+Failure Details:
+XWCv4Hh3ok0CKgpgCUf55Ru1ik0KPYXEq53apZ6gSiBifZVkFz3fh3tPMlipeMvoLFID9c8yW9IpW226cp1Tne2ERIsVesBHbUg6Jqpf0onJrmV19fcxHCkRFCliWcGa32jcJOfzHas3wBpJtgx68aaHD8GNPnJcerlnOnTJWAKYMo9eylJUPIVG3FGky6LgQtqCrBnauO9xP7UXytV RXeVJlH5zAgNr8rncITpABVl4nSR2xOUIqn3XnZjxxWrmaWRvoXIYGMNntnPUiI7FI1l1JxnaCErb48C9l1lElBtvfzzLmits1ySYik868xB5rVJeCJO2xLzWMYrJu76r0IBEG2HK2qoxbOJCUkB3vxBRQhlFm5XoTCkm50qnYzJ0DcsUu0nh c5WTAZ
+
+Stack Trace:
+    at com.app.Third-partyIntegrationClass.method0(File.java:125)
+    at com.app.Third-partyIntegrationClass.method1(File.java:130)
+    at com.app.Third-partyIntegrationClass.method2(File.java:112)
+    at com.app.Third-partyIntegrationClass.method3(File.java:899)
+    at com.app.Third-partyIntegrationClass.method4(File.java:182)
+    at com.app.Third-partyIntegrationClass.method5(File.java:617)
+    at com.app.Third-partyIntegrationClass.method6(File.java:342)
+    at com.app.Third-partyIntegrationClass.method7(File.java:318)
+    at com.app.Third-partyIntegrationClass.method8(File.java:510)
+    at com.app.Third-partyIntegrationClass.method9(File.java:856)
+    at com.app.Third-partyIntegrationClass.method10(File.java:459)
+    at com.app.Third-partyIntegrationClass.method11(File.java:601)
+    at com.app.Third-partyIntegrationClass.method12(File.java:971)
+    at com.app.Third-partyIntegrationClass.method13(File.java:310)
+    at com.app.Third-partyIntegrationClass.method14(File.java:452)
+    at com.app.Third-partyIntegrationClass.method15(File.java:211)
+    at com.app.Third-partyIntegrationClass.method16(File.java:64)
+    at com.app.Third-partyIntegrationClass.method17(File.java:852)
+    at com.app.Third-partyIntegrationClass.method18(File.java:719)
+    at com.app.Third-partyIntegrationClass.method19(File.java:577)

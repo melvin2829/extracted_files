@@ -1,0 +1,31 @@
+Test Case ID : TC_00244
+Module       : File Download
+Timestamp    : 2026-01-10 10:04:00
+Build Number : 3366
+Status       : FAIL
+
+Failure Reason : API 500 Internal Server Error
+Failure Details:
+q7lP0pplLAvmpGqUEk5Vg7F43U5A5LewTG xi6CZhG7t0iYg5CUYXE6Mxj5Qpsh9mMA16qmX66MWuxkOl7TlXC h5ydD5NS0nCFwnHtNXifC6nQvy95HFnllgZz8IACM88cTLj7wDxR8BASYaEdEEIunutibiPkr4Q0d71G2TZKAdYb7UJjrKcFhcUhxxEI3Q4NloZZYwj1BCuQoHpe3DxpgHv8WxBKQA12E9kD8HZ8yPjijHbTrKw1Np hQTzjQYWLL9lMW 4TULA4x82hPEfE5y88DUWF06ivB1FWHVvyCkivxdyt9dFFzOKI1LplN4KlWeSzEVOTZbfd2bFTL4oHuwnRvykdUGvGNyby4Q0b0ubJQIvBWFoXRrZOJjFQzjy 27v7KT6BpoQrl
+
+Stack Trace:
+    at com.app.FileDownloadClass.method0(File.java:328)
+    at com.app.FileDownloadClass.method1(File.java:963)
+    at com.app.FileDownloadClass.method2(File.java:716)
+    at com.app.FileDownloadClass.method3(File.java:375)
+    at com.app.FileDownloadClass.method4(File.java:371)
+    at com.app.FileDownloadClass.method5(File.java:580)
+    at com.app.FileDownloadClass.method6(File.java:267)
+    at com.app.FileDownloadClass.method7(File.java:840)
+    at com.app.FileDownloadClass.method8(File.java:358)
+    at com.app.FileDownloadClass.method9(File.java:736)
+    at com.app.FileDownloadClass.method10(File.java:729)
+    at com.app.FileDownloadClass.method11(File.java:41)
+    at com.app.FileDownloadClass.method12(File.java:207)
+    at com.app.FileDownloadClass.method13(File.java:619)
+    at com.app.FileDownloadClass.method14(File.java:852)
+    at com.app.FileDownloadClass.method15(File.java:275)
+    at com.app.FileDownloadClass.method16(File.java:245)
+    at com.app.FileDownloadClass.method17(File.java:709)
+    at com.app.FileDownloadClass.method18(File.java:140)
+    at com.app.FileDownloadClass.method19(File.java:531)

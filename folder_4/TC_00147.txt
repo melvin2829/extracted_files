@@ -1,0 +1,31 @@
+Test Case ID : TC_00147
+Module       : Email Trigger
+Timestamp    : 2026-01-10 08:27:00
+Build Number : 3962
+Status       : FAIL
+
+Failure Reason : Database Connection Failed
+Failure Details:
+sI86amKux6jOOr0mOnDA5qyDrxZohLUATaCJyZQr68dgIyCoeYYfe1bZPy2RiLeLE J72AAw6fYg0usr5BM4NtjSwJCDemJ1PciovhArQdNBhT7rdNOGtmsKCqgPIuZn99YkzxTxeVDqIiyZcuE5HlX2NWD66VtM1k8m0YHNGZ4q IPI3rhoT3Ka0NB0Ifaj Az3X9liMiBa2qRijAlQFC8YV56Qngp9zrcNvpcTzssmPkbIqNHC05yBhtSqfKSTN7B3i6rfPwDH2waxri20wEZsiPFk2XrOoWxkxRMIzgtRUEtoWp7dxpwxZhIEhdrPnUqpiLfYDwJscX7FGEXngFrK1FF6wqmnBV87ReiYqd3pFG8xoaOMGNYRTUke5390FVbM0evFiHY8CPlP
+
+Stack Trace:
+    at com.app.EmailTriggerClass.method0(File.java:268)
+    at com.app.EmailTriggerClass.method1(File.java:591)
+    at com.app.EmailTriggerClass.method2(File.java:624)
+    at com.app.EmailTriggerClass.method3(File.java:292)
+    at com.app.EmailTriggerClass.method4(File.java:795)
+    at com.app.EmailTriggerClass.method5(File.java:248)
+    at com.app.EmailTriggerClass.method6(File.java:579)
+    at com.app.EmailTriggerClass.method7(File.java:792)
+    at com.app.EmailTriggerClass.method8(File.java:649)
+    at com.app.EmailTriggerClass.method9(File.java:199)
+    at com.app.EmailTriggerClass.method10(File.java:525)
+    at com.app.EmailTriggerClass.method11(File.java:935)
+    at com.app.EmailTriggerClass.method12(File.java:504)
+    at com.app.EmailTriggerClass.method13(File.java:742)
+    at com.app.EmailTriggerClass.method14(File.java:546)
+    at com.app.EmailTriggerClass.method15(File.java:67)
+    at com.app.EmailTriggerClass.method16(File.java:667)
+    at com.app.EmailTriggerClass.method17(File.java:865)
+    at com.app.EmailTriggerClass.method18(File.java:959)
+    at com.app.EmailTriggerClass.method19(File.java:767)

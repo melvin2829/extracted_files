@@ -1,0 +1,31 @@
+Test Case ID : TC_00314
+Module       : Role Management
+Timestamp    : 2026-01-10 11:14:00
+Build Number : 3422
+Status       : FAIL
+
+Failure Reason : Data Mismatch
+Failure Details:
+wGG3My6XDVpH3wQf eseCdeiM1hqfjC9MYidap2pH7ZO8eYKrsaPmUbLNisd6ahhqDDoTdS29okufDDUQCZNRnnJyNRnDTTNWqnxhcLqheh9VEXaZjxCMFBfEM6qg04rAwqjTktmeNEwo8iX5FaDVU6CVy0 1F7CPB9thhA3Kgp 8Ap3CmnTayTfSrwtI3T1YkQPfsX4phJekYbWhMXNpnopWLLAOwKF4n0Epryx6H1vNOM6h0lrBiwQKDJ JcHCiAMOvp6ZJSkRIwpWF0bygFKJGhCQw9R9coQ7qx1eOQ5t886jyjZZFHai3MUFeQ0 dUV7b V5sFTfgjJ7dJUAifMrC 4I adfZgujb5kpp8tQyraba37Kq15KMApZh4aJXPgRvSJzJ2dyRme3
+
+Stack Trace:
+    at com.app.RoleManagementClass.method0(File.java:192)
+    at com.app.RoleManagementClass.method1(File.java:129)
+    at com.app.RoleManagementClass.method2(File.java:865)
+    at com.app.RoleManagementClass.method3(File.java:173)
+    at com.app.RoleManagementClass.method4(File.java:178)
+    at com.app.RoleManagementClass.method5(File.java:410)
+    at com.app.RoleManagementClass.method6(File.java:984)
+    at com.app.RoleManagementClass.method7(File.java:606)
+    at com.app.RoleManagementClass.method8(File.java:974)
+    at com.app.RoleManagementClass.method9(File.java:974)
+    at com.app.RoleManagementClass.method10(File.java:816)
+    at com.app.RoleManagementClass.method11(File.java:268)
+    at com.app.RoleManagementClass.method12(File.java:181)
+    at com.app.RoleManagementClass.method13(File.java:992)
+    at com.app.RoleManagementClass.method14(File.java:681)
+    at com.app.RoleManagementClass.method15(File.java:335)
+    at com.app.RoleManagementClass.method16(File.java:914)
+    at com.app.RoleManagementClass.method17(File.java:567)
+    at com.app.RoleManagementClass.method18(File.java:15)
+    at com.app.RoleManagementClass.method19(File.java:131)

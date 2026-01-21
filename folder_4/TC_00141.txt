@@ -1,0 +1,31 @@
+Test Case ID : TC_00141
+Module       : Filter
+Timestamp    : 2026-01-10 08:21:00
+Build Number : 3671
+Status       : FAIL
+
+Failure Reason : ElementNotFound
+Failure Details:
+bqVwgH1wV2pZa5GNHVRNt1XFJMrqcxyedSac8MGYImtfqBtJeWo39SxsGjp2nYNn9QuQFLVRd0KN8MH0TKTIKl6ydfanDL6S0uqg14 EcrVK DcF7xK1zymJZinLfI19SH0JYVEgs8WdjwuCaWWoj3c9Thvdmu4lA7CCbsC4Nh6dI37eENBhcYVIHE9lvVDdbEkE3 wyyF0jWgkdZuOIjU9a8c56jsU 1OoZ ylJGunIBYcbf11zYKnCC0nP2Ez50bgGcIoVoFVU9mHe6EilGWeGb8GfJJdO2zkdTTY095DtPSepiL4Y068X9WM8B3WaSKpE474mPWYlJV8b3JsDyKdjNHkj4RgLw9izFkhEFr59CqA7QIa8GpwrUhICiG7xTkrUTV7ZgdbHfF41
+
+Stack Trace:
+    at com.app.FilterClass.method0(File.java:852)
+    at com.app.FilterClass.method1(File.java:850)
+    at com.app.FilterClass.method2(File.java:979)
+    at com.app.FilterClass.method3(File.java:363)
+    at com.app.FilterClass.method4(File.java:917)
+    at com.app.FilterClass.method5(File.java:226)
+    at com.app.FilterClass.method6(File.java:270)
+    at com.app.FilterClass.method7(File.java:414)
+    at com.app.FilterClass.method8(File.java:953)
+    at com.app.FilterClass.method9(File.java:497)
+    at com.app.FilterClass.method10(File.java:255)
+    at com.app.FilterClass.method11(File.java:726)
+    at com.app.FilterClass.method12(File.java:308)
+    at com.app.FilterClass.method13(File.java:832)
+    at com.app.FilterClass.method14(File.java:202)
+    at com.app.FilterClass.method15(File.java:410)
+    at com.app.FilterClass.method16(File.java:778)
+    at com.app.FilterClass.method17(File.java:787)
+    at com.app.FilterClass.method18(File.java:900)
+    at com.app.FilterClass.method19(File.java:701)

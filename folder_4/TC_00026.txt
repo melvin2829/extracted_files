@@ -1,0 +1,31 @@
+Test Case ID : TC_00026
+Module       : Dashboard Load
+Timestamp    : 2026-01-10 06:26:00
+Build Number : 4991
+Status       : FAIL
+
+Failure Reason : TimeoutException
+Failure Details:
+kXjWPau5BEyB4c5QERDnqGw68DpEcFpxxMkggYbtcEsrgxalYFfEGu9ykYm6Tbue5z8gBJdLlV2zPMJTPrGKLGRiO4WpWLKNEUVBpQD qvuVzucKGKehzLNE0vf3Hx2hduMvctzXzPVUdQZ9bj7tmlldbQd6L3L17p9TORIYIU8XVXZCWemzc8bBNIpJJf4O5ZQ5BlBqRe5idPtA3sm2VixR0w3NO7lernO4hNUz1rm8mn1Jj9skHTyDAt6JWd2CsYzO61VhWqB6NK9fQnWoReYB4H244rgHKgTsbNeLeBJVox pRW2VyqwlVnileO5nNQVrGDsxsI7M9BDJHqchuF1xZIo4vBypdhUcahcuTA7B8 ZnVo4UXvWtd80a6lESL sjWAaQfPJBfNdM
+
+Stack Trace:
+    at com.app.DashboardLoadClass.method0(File.java:713)
+    at com.app.DashboardLoadClass.method1(File.java:13)
+    at com.app.DashboardLoadClass.method2(File.java:925)
+    at com.app.DashboardLoadClass.method3(File.java:675)
+    at com.app.DashboardLoadClass.method4(File.java:710)
+    at com.app.DashboardLoadClass.method5(File.java:135)
+    at com.app.DashboardLoadClass.method6(File.java:426)
+    at com.app.DashboardLoadClass.method7(File.java:270)
+    at com.app.DashboardLoadClass.method8(File.java:692)
+    at com.app.DashboardLoadClass.method9(File.java:339)
+    at com.app.DashboardLoadClass.method10(File.java:150)
+    at com.app.DashboardLoadClass.method11(File.java:343)
+    at com.app.DashboardLoadClass.method12(File.java:779)
+    at com.app.DashboardLoadClass.method13(File.java:181)
+    at com.app.DashboardLoadClass.method14(File.java:953)
+    at com.app.DashboardLoadClass.method15(File.java:46)
+    at com.app.DashboardLoadClass.method16(File.java:715)
+    at com.app.DashboardLoadClass.method17(File.java:650)
+    at com.app.DashboardLoadClass.method18(File.java:531)
+    at com.app.DashboardLoadClass.method19(File.java:369)

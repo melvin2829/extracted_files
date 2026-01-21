@@ -1,0 +1,31 @@
+Test Case ID : TC_00237
+Module       : Role Management
+Timestamp    : 2026-01-10 09:57:00
+Build Number : 2301
+Status       : FAIL
+
+Failure Reason : API 500 Internal Server Error
+Failure Details:
+nKLoePy4dSyMThvTT7ERQfuMJWB8heLxpUIbH5 YZLSy0P expYpK IND7IaJo4GzW7dWuM1kA8D03tGuW V4HSRjf8qIjL6TkuWI8WEUjeB7bG5c Pu5Pb84MnKfRdXxxyZVWNIe5ETLzfKY64MKfwxZIiY2aP8DzXOHvdlToqAcKuoG 9cexhiA8xxDnDqQ2tq1XL Jrci 04S5pEDyT0DGVO10cAuKp5Vbh5sXxvUZjOtJtf7ie7feGT0gTz0U1sDIuXVNPuZmary8vwbqEFYReYmK69acRUCRgLf4UwTZJvdrH2t7kH347ZvL8hDLLrAjpKRShFcrnYTOw00nYbaX3pSVL72uwQRBnmtVrhgbQzsW8R6FFX3ianRo5BoT079agOsUGpMK72K
+
+Stack Trace:
+    at com.app.RoleManagementClass.method0(File.java:84)
+    at com.app.RoleManagementClass.method1(File.java:526)
+    at com.app.RoleManagementClass.method2(File.java:209)
+    at com.app.RoleManagementClass.method3(File.java:339)
+    at com.app.RoleManagementClass.method4(File.java:858)
+    at com.app.RoleManagementClass.method5(File.java:965)
+    at com.app.RoleManagementClass.method6(File.java:63)
+    at com.app.RoleManagementClass.method7(File.java:180)
+    at com.app.RoleManagementClass.method8(File.java:484)
+    at com.app.RoleManagementClass.method9(File.java:90)
+    at com.app.RoleManagementClass.method10(File.java:348)
+    at com.app.RoleManagementClass.method11(File.java:912)
+    at com.app.RoleManagementClass.method12(File.java:263)
+    at com.app.RoleManagementClass.method13(File.java:970)
+    at com.app.RoleManagementClass.method14(File.java:106)
+    at com.app.RoleManagementClass.method15(File.java:137)
+    at com.app.RoleManagementClass.method16(File.java:360)
+    at com.app.RoleManagementClass.method17(File.java:152)
+    at com.app.RoleManagementClass.method18(File.java:882)
+    at com.app.RoleManagementClass.method19(File.java:287)

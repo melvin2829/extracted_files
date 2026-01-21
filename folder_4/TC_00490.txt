@@ -1,0 +1,31 @@
+Test Case ID : TC_00490
+Module       : Login
+Timestamp    : 2026-01-10 14:10:00
+Build Number : 4851
+Status       : FAIL
+
+Failure Reason : Data Mismatch
+Failure Details:
+LnWP0qq6VJ48F9WaiExF1sw5O5f8cs51giQ9E5ACY101lf0xIsvpTZ2ULMxuXvpMT8pp1lvGgVajSGMmPE354HZLibfKJBxiskkKEWQ9jguGnOb0mg5QBSisgk3dUOHEojFg4MmbUsWjycLHCszNJoNk5ysld0xa6iV7SNXrP3n4nXUx3 h79dU5ieUdlzLDoDnsQb82jeOpqMgEXf5gB98iOCr1UVPdavHm3RuKUkVL3FYdKDejEsSFAFIMW6PLyjna4exPbVxRd87XyQ9NoeqGG5hN7fmzQL92HYIlex6rfoDPHCBKTs5RyGekepYWYiaqnbZD5DrrnOqcSQ8NoOaQVL2aUbdwa501cTc8PuCRTcEm AeCZ4RPWOomkFk mapx9L4jNBhpn5TY
+
+Stack Trace:
+    at com.app.LoginClass.method0(File.java:884)
+    at com.app.LoginClass.method1(File.java:130)
+    at com.app.LoginClass.method2(File.java:298)
+    at com.app.LoginClass.method3(File.java:444)
+    at com.app.LoginClass.method4(File.java:224)
+    at com.app.LoginClass.method5(File.java:778)
+    at com.app.LoginClass.method6(File.java:302)
+    at com.app.LoginClass.method7(File.java:641)
+    at com.app.LoginClass.method8(File.java:658)
+    at com.app.LoginClass.method9(File.java:830)
+    at com.app.LoginClass.method10(File.java:16)
+    at com.app.LoginClass.method11(File.java:374)
+    at com.app.LoginClass.method12(File.java:862)
+    at com.app.LoginClass.method13(File.java:422)
+    at com.app.LoginClass.method14(File.java:732)
+    at com.app.LoginClass.method15(File.java:771)
+    at com.app.LoginClass.method16(File.java:378)
+    at com.app.LoginClass.method17(File.java:160)
+    at com.app.LoginClass.method18(File.java:975)
+    at com.app.LoginClass.method19(File.java:301)

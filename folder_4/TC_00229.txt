@@ -1,0 +1,31 @@
+Test Case ID : TC_00229
+Module       : File Upload
+Timestamp    : 2026-01-10 09:49:00
+Build Number : 1827
+Status       : FAIL
+
+Failure Reason : Incorrect Response Code
+Failure Details:
+K67HupGfhO4hY6tgrdxhxoaF1CfAfj0NpXynf57ryyq53N1sfXVQ2wKk8sd1mG7lOLXLxfrSv3TUPMTInt884ceM7XTPuPUKRsGsSs6zfVDXJhlSZ6uxmmH4YDHRwy3FKjgFcwiQq6fiS0sGf7l0IkBpMi4zlc2Hcr9wSOxYe5TzA5g5Uwre97Ive0IGO2i7a5Lt92UYY9LjHw5zW2Qvq8VVl90CslW14brojLaE7ZTmgo7gJbqk8B5h5gp5SDjgOiPzcgUyrncaERNp2vLCtwMKj4dReWF6zwmr8FE2W56JMzVeRCtcXYzgkM67KZsN1ekay47OjMywdN63ngiz U7oYMfd2XlFtjCaZDVzCHJupabf4hxVRax2OyKcFW0YgIoOCeuCpQQAmcA1
+
+Stack Trace:
+    at com.app.FileUploadClass.method0(File.java:568)
+    at com.app.FileUploadClass.method1(File.java:441)
+    at com.app.FileUploadClass.method2(File.java:932)
+    at com.app.FileUploadClass.method3(File.java:146)
+    at com.app.FileUploadClass.method4(File.java:757)
+    at com.app.FileUploadClass.method5(File.java:519)
+    at com.app.FileUploadClass.method6(File.java:505)
+    at com.app.FileUploadClass.method7(File.java:976)
+    at com.app.FileUploadClass.method8(File.java:86)
+    at com.app.FileUploadClass.method9(File.java:779)
+    at com.app.FileUploadClass.method10(File.java:899)
+    at com.app.FileUploadClass.method11(File.java:810)
+    at com.app.FileUploadClass.method12(File.java:51)
+    at com.app.FileUploadClass.method13(File.java:402)
+    at com.app.FileUploadClass.method14(File.java:598)
+    at com.app.FileUploadClass.method15(File.java:498)
+    at com.app.FileUploadClass.method16(File.java:779)
+    at com.app.FileUploadClass.method17(File.java:117)
+    at com.app.FileUploadClass.method18(File.java:114)
+    at com.app.FileUploadClass.method19(File.java:312)

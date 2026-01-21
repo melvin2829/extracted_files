@@ -1,0 +1,31 @@
+Test Case ID : TC_00239
+Module       : Logout
+Timestamp    : 2026-01-10 09:59:00
+Build Number : 1493
+Status       : FAIL
+
+Failure Reason : UI Element Not Clickable
+Failure Details:
+0ClljDuiX5rMSROJCKtvNA84Pg8qTK6IVAbZd1Tlj6Otg9cBYsz0ca5JdTMaBLn1Ra72jpvmIS0w25MhtbOsJSHW tyJtdgyVy7ge ibExCydqvbkrbmQ1IANeDWdzdZxjQ6bTCDViX7vMGeLkGk9Wpn0G7N6yyTSEkhGChtJSV4dXj4BHtQEtxv8Yp0Aw86XafG8FbxR5VmMNor3 FOkt5gakaNx97XHVr3lOc3Z4NdiWL7Qhfq5m IjB4N255olhcc4vXusML6WpQ g8J4HQ3ziEsP9PNPmmBaulfiMH3Z8m KZpH84xAlOB24QXBMfoWpxhkVxhGH9r97gPSLemOnv2lPD5DsSIil28orc8LTdLHU5 aVsDlRRhKMLkb9kVWv5RHI5gAkdzUJ
+
+Stack Trace:
+    at com.app.LogoutClass.method0(File.java:756)
+    at com.app.LogoutClass.method1(File.java:490)
+    at com.app.LogoutClass.method2(File.java:19)
+    at com.app.LogoutClass.method3(File.java:874)
+    at com.app.LogoutClass.method4(File.java:14)
+    at com.app.LogoutClass.method5(File.java:371)
+    at com.app.LogoutClass.method6(File.java:731)
+    at com.app.LogoutClass.method7(File.java:905)
+    at com.app.LogoutClass.method8(File.java:761)
+    at com.app.LogoutClass.method9(File.java:421)
+    at com.app.LogoutClass.method10(File.java:185)
+    at com.app.LogoutClass.method11(File.java:884)
+    at com.app.LogoutClass.method12(File.java:321)
+    at com.app.LogoutClass.method13(File.java:160)
+    at com.app.LogoutClass.method14(File.java:948)
+    at com.app.LogoutClass.method15(File.java:583)
+    at com.app.LogoutClass.method16(File.java:690)
+    at com.app.LogoutClass.method17(File.java:368)
+    at com.app.LogoutClass.method18(File.java:463)
+    at com.app.LogoutClass.method19(File.java:607)

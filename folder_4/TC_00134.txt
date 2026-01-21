@@ -1,0 +1,31 @@
+Test Case ID : TC_00134
+Module       : Third-party Integration
+Timestamp    : 2026-01-10 08:14:00
+Build Number : 4587
+Status       : FAIL
+
+Failure Reason : Data Mismatch
+Failure Details:
+sKWxLJxA4f1hlmFGl1L Umo2MfGonSAUhifR40 vHP1oT9VvKZ1PgacXygPms9bO78i99AwphuAd 9t9TszcW2W2zax3TQuYERsBISarAiDQQdqxBA74g10nXrR7qrgLD496SDiprt0tUk3iP  a 2GTRRoSVl0ewUFOlwaUNCQXkIpJMGFqDjOFVF RiYA3IKWRkMVpABAMP2b CjCRITbUHRGnoZsGqikuVIPsSJkfm5pfQrdOpx1uVRkGWNq1XgYCTWnJIjwx6n3YbyicsRnfXMd8EOwZZcE9E4lJeBOrjj4CEvvm04AE1ZL7U4FxXxeMHYHuYV2YSK1sRLDDYCmTg42 9dQqIz8ZSEUtMgSi1DDos 44eY0irZwOGPsO3hlSpTYNT9a6hiYN
+
+Stack Trace:
+    at com.app.Third-partyIntegrationClass.method0(File.java:126)
+    at com.app.Third-partyIntegrationClass.method1(File.java:348)
+    at com.app.Third-partyIntegrationClass.method2(File.java:618)
+    at com.app.Third-partyIntegrationClass.method3(File.java:296)
+    at com.app.Third-partyIntegrationClass.method4(File.java:70)
+    at com.app.Third-partyIntegrationClass.method5(File.java:756)
+    at com.app.Third-partyIntegrationClass.method6(File.java:46)
+    at com.app.Third-partyIntegrationClass.method7(File.java:774)
+    at com.app.Third-partyIntegrationClass.method8(File.java:385)
+    at com.app.Third-partyIntegrationClass.method9(File.java:998)
+    at com.app.Third-partyIntegrationClass.method10(File.java:475)
+    at com.app.Third-partyIntegrationClass.method11(File.java:396)
+    at com.app.Third-partyIntegrationClass.method12(File.java:420)
+    at com.app.Third-partyIntegrationClass.method13(File.java:131)
+    at com.app.Third-partyIntegrationClass.method14(File.java:648)
+    at com.app.Third-partyIntegrationClass.method15(File.java:207)
+    at com.app.Third-partyIntegrationClass.method16(File.java:617)
+    at com.app.Third-partyIntegrationClass.method17(File.java:601)
+    at com.app.Third-partyIntegrationClass.method18(File.java:682)
+    at com.app.Third-partyIntegrationClass.method19(File.java:221)

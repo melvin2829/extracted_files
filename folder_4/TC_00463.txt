@@ -1,0 +1,31 @@
+Test Case ID : TC_00463
+Module       : Email Trigger
+Timestamp    : 2026-01-10 13:43:00
+Build Number : 2740
+Status       : FAIL
+
+Failure Reason : AssertionError
+Failure Details:
+dN2gkA3J0FbzPlAyxUxBAtsM7Drmby Hy7JhmvyfnHmrT3iyXdc2n7bRYOkX1v4QbNMpgW7Go79sVfDBc0eHQhQjHQcUA9iuZqL7yxlhIXdDuDSahT7yVGnwuFhy3yQOmJvqR3v3XDx2p7WBOETLbFbmRrHze p5xSAV6 mTfRwlNrlwWfDTmyycdfCd5a8Zg3izm99DUxBDDp5YYNbsXbvvZs Jk2HyulVjKk8EzqQBBWfrxaoTyZoo20Nsem2aI9Pw6I5OOsKGrIfjQtfLwKXdaAQ3n1PJrzD YoA4p3SW2 ZVB5 YhdmJfEp5GitPeg9xPhLvZaoyYzWCGfeH00ZAvs1JbSr0Q8JUoG6Cwetu75kL2cZROWeO78W1QnfLdQZSd4w7SoCIdGKo
+
+Stack Trace:
+    at com.app.EmailTriggerClass.method0(File.java:400)
+    at com.app.EmailTriggerClass.method1(File.java:819)
+    at com.app.EmailTriggerClass.method2(File.java:391)
+    at com.app.EmailTriggerClass.method3(File.java:306)
+    at com.app.EmailTriggerClass.method4(File.java:627)
+    at com.app.EmailTriggerClass.method5(File.java:469)
+    at com.app.EmailTriggerClass.method6(File.java:572)
+    at com.app.EmailTriggerClass.method7(File.java:804)
+    at com.app.EmailTriggerClass.method8(File.java:61)
+    at com.app.EmailTriggerClass.method9(File.java:284)
+    at com.app.EmailTriggerClass.method10(File.java:715)
+    at com.app.EmailTriggerClass.method11(File.java:458)
+    at com.app.EmailTriggerClass.method12(File.java:522)
+    at com.app.EmailTriggerClass.method13(File.java:695)
+    at com.app.EmailTriggerClass.method14(File.java:58)
+    at com.app.EmailTriggerClass.method15(File.java:112)
+    at com.app.EmailTriggerClass.method16(File.java:312)
+    at com.app.EmailTriggerClass.method17(File.java:124)
+    at com.app.EmailTriggerClass.method18(File.java:723)
+    at com.app.EmailTriggerClass.method19(File.java:534)

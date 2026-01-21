@@ -1,0 +1,31 @@
+Test Case ID : TC_00467
+Module       : Report Generation
+Timestamp    : 2026-01-10 13:47:00
+Build Number : 2486
+Status       : FAIL
+
+Failure Reason : API 500 Internal Server Error
+Failure Details:
+82SGIWJx0Oa4RUQRisFSZEU6o2hzAha5gvw9hPTQbLjtEM9FzlCNLW22rMEIqyuChWEPJUqOa0Ihnog67y3Kg5iDSoQGDwlyPsRqSt5eVN6ycpFzIwplPoUxc6uwcb0r5MMWMeb7z9WTFLKVBWvJTX8yE7zzUpUY6F7cPFFYuOMY9n 8IWuBXyyWirPlhUblxJ0p8Yu GAMYyBmK2IgNXw9wGWAjStGrmjLbH2XKJVnLDkF07axJ8h1QxIo8KZPMaH1APcFDACDjLuSXxU83PiS0wvaWRdYvF99SGDK2YOlbmRrCKJD TEwdv5RfBhg56UjXVuoj8oFKOg4JpGDmnuMLcuPDCoPPRNxfQnVrZ1FU1EldEjdrWRy txDzdm60I7DTceTdM2scQMo7
+
+Stack Trace:
+    at com.app.ReportGenerationClass.method0(File.java:769)
+    at com.app.ReportGenerationClass.method1(File.java:879)
+    at com.app.ReportGenerationClass.method2(File.java:954)
+    at com.app.ReportGenerationClass.method3(File.java:606)
+    at com.app.ReportGenerationClass.method4(File.java:523)
+    at com.app.ReportGenerationClass.method5(File.java:465)
+    at com.app.ReportGenerationClass.method6(File.java:792)
+    at com.app.ReportGenerationClass.method7(File.java:487)
+    at com.app.ReportGenerationClass.method8(File.java:972)
+    at com.app.ReportGenerationClass.method9(File.java:116)
+    at com.app.ReportGenerationClass.method10(File.java:179)
+    at com.app.ReportGenerationClass.method11(File.java:245)
+    at com.app.ReportGenerationClass.method12(File.java:363)
+    at com.app.ReportGenerationClass.method13(File.java:864)
+    at com.app.ReportGenerationClass.method14(File.java:247)
+    at com.app.ReportGenerationClass.method15(File.java:765)
+    at com.app.ReportGenerationClass.method16(File.java:965)
+    at com.app.ReportGenerationClass.method17(File.java:739)
+    at com.app.ReportGenerationClass.method18(File.java:962)
+    at com.app.ReportGenerationClass.method19(File.java:210)

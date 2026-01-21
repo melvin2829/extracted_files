@@ -1,0 +1,8 @@
+Test Case ID : TC_00050
+Module       : Logout
+Timestamp    : 2026-01-10 06:50:00
+Build Number : 3038
+Status       : PASS
+
+Execution Log:
+DbFxV5CuU6Gu8N0QTtW9I2bQk1XgLD1Kaesqrb9qt1gLyvZZdRnoyEvot5G2yRGk eCfwDi0dlnUQIl01nXKnSwf2veU5HLUCkUE77N7GLmCjg0WRQckDJV0ojGP3SDxaS288l5SIhsdbewSwU7SjhPXxmljkYPmTGHNm9q12WcGORywnVAQb9JfVAcuPPJ0EuDGHRuI

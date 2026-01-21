@@ -1,0 +1,31 @@
+Test Case ID : TC_00015
+Module       : Database Validation
+Timestamp    : 2026-01-10 06:15:00
+Build Number : 3203
+Status       : FAIL
+
+Failure Reason : API 500 Internal Server Error
+Failure Details:
+r8GNraHLM3wcgp0nDBeeL5gezB8coRb6o8 lHlRbkMLrJsWhVjoVHKaY0YHsDKLL0k0iDWWLz XDY7sWqNk235EMI5eolwouESf6o5bzHailr8KMrZSbWtMQFuP3JiKCUA2Rcl9k8ufU8QksLaRfgihMITRumMxfR1NbbcDdxQ yWlcAr6AshVkGbTt9oJ53YUgsTGnxuCRvawNiSDJHeARIl15eLtkraz75aYzEFXhtsKdSl83LNVFMe13q2 6o9EycfYSOURQ801jRDKNOShottrPdBz7FVmvnmxR0K2KXtvfwlMv62ooKQENxfE3uPZqk7eITCqjeSyRPczMdP8AdiKTfhVlXRwAi2F8KnRlUjRXAfg2cNkkOyXCxe r94O4oBBqIiQmJd5K7
+
+Stack Trace:
+    at com.app.DatabaseValidationClass.method0(File.java:474)
+    at com.app.DatabaseValidationClass.method1(File.java:466)
+    at com.app.DatabaseValidationClass.method2(File.java:636)
+    at com.app.DatabaseValidationClass.method3(File.java:318)
+    at com.app.DatabaseValidationClass.method4(File.java:606)
+    at com.app.DatabaseValidationClass.method5(File.java:135)
+    at com.app.DatabaseValidationClass.method6(File.java:743)
+    at com.app.DatabaseValidationClass.method7(File.java:466)
+    at com.app.DatabaseValidationClass.method8(File.java:116)
+    at com.app.DatabaseValidationClass.method9(File.java:175)
+    at com.app.DatabaseValidationClass.method10(File.java:627)
+    at com.app.DatabaseValidationClass.method11(File.java:141)
+    at com.app.DatabaseValidationClass.method12(File.java:846)
+    at com.app.DatabaseValidationClass.method13(File.java:924)
+    at com.app.DatabaseValidationClass.method14(File.java:27)
+    at com.app.DatabaseValidationClass.method15(File.java:782)
+    at com.app.DatabaseValidationClass.method16(File.java:203)
+    at com.app.DatabaseValidationClass.method17(File.java:141)
+    at com.app.DatabaseValidationClass.method18(File.java:716)
+    at com.app.DatabaseValidationClass.method19(File.java:514)

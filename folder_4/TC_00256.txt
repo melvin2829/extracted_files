@@ -1,0 +1,31 @@
+Test Case ID : TC_00256
+Module       : Logout
+Timestamp    : 2026-01-10 10:16:00
+Build Number : 3781
+Status       : FAIL
+
+Failure Reason : API 500 Internal Server Error
+Failure Details:
+psOpG003RP H8MuzeNyFGWflyNVgye500SERU3je9QYJqjvntGctPJujUA4hsjqkiCxzZAQsWnTC3hzwJeYOLZjBqHaFNBjMD5PnUiGWaLrie34O6Em8GG3pajTJSb5j qdXvdeEMWCq1AYCtyQ6GxOhOCr0Yv3pDqn8aBwq1ruyRpJcv6rl0nURVOUPfy9ZcGzko5tmvEbXH4q68zhDrv tReurIaaGpvogRy4WtmmSTucKBybkCEAE10T9APx1fIaBDM0pVSQ77yzyWNQ0PL4cfHu3fMEb6gBwABvIc Aw64Zo3GAaShKn9nVtbvK7id0PQawqno6BIwrgmNqkYRo72NG3GqnWtyNoDtU1yRh40xQUcIeZdqNG1vrj1iz2bM8w7XynsAWdacCE
+
+Stack Trace:
+    at com.app.LogoutClass.method0(File.java:567)
+    at com.app.LogoutClass.method1(File.java:965)
+    at com.app.LogoutClass.method2(File.java:98)
+    at com.app.LogoutClass.method3(File.java:510)
+    at com.app.LogoutClass.method4(File.java:733)
+    at com.app.LogoutClass.method5(File.java:468)
+    at com.app.LogoutClass.method6(File.java:765)
+    at com.app.LogoutClass.method7(File.java:430)
+    at com.app.LogoutClass.method8(File.java:315)
+    at com.app.LogoutClass.method9(File.java:405)
+    at com.app.LogoutClass.method10(File.java:35)
+    at com.app.LogoutClass.method11(File.java:823)
+    at com.app.LogoutClass.method12(File.java:432)
+    at com.app.LogoutClass.method13(File.java:827)
+    at com.app.LogoutClass.method14(File.java:102)
+    at com.app.LogoutClass.method15(File.java:508)
+    at com.app.LogoutClass.method16(File.java:969)
+    at com.app.LogoutClass.method17(File.java:83)
+    at com.app.LogoutClass.method18(File.java:740)
+    at com.app.LogoutClass.method19(File.java:217)

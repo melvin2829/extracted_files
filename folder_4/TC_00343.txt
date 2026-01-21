@@ -1,0 +1,31 @@
+Test Case ID : TC_00343
+Module       : Logout
+Timestamp    : 2026-01-10 11:43:00
+Build Number : 1068
+Status       : FAIL
+
+Failure Reason : AssertionError
+Failure Details:
+fj9vjv3Gmbow3RuTsCDM 5hl79b1jaE 53vHQXH2SFdNZkSX0r7it3 BWbHTt1x4Gt3GBCjpn4CQfdI2fEM49O7rWLjI5n1hamhFso2sfWSFLE GHwPN758ZV5JFS5umrhYgMADt8OmCNn918o6XW4hMcLuyhCRJCFZ YggKTRpYl9dR 3flGn0Pp2aqlQTx cGGrTvZIfSqWRlXgMrythLVI67LJ7JfW286tMmBvgAPdcBoi626TrmifuzdYa0tyK imart9szLNrkkYhSVSuUyuuUN4cca3ak8d4n6VU4rlOiMsFiUE245sXbnk1I3uAf3Qt0cmGZRS8F5iCDbHo0hbkU4kDZhNelwZW7ey15FXxuTpWWQTLhPFMSbpp8zatP8To5rr5Ot5gpQ
+
+Stack Trace:
+    at com.app.LogoutClass.method0(File.java:710)
+    at com.app.LogoutClass.method1(File.java:49)
+    at com.app.LogoutClass.method2(File.java:633)
+    at com.app.LogoutClass.method3(File.java:122)
+    at com.app.LogoutClass.method4(File.java:37)
+    at com.app.LogoutClass.method5(File.java:831)
+    at com.app.LogoutClass.method6(File.java:970)
+    at com.app.LogoutClass.method7(File.java:538)
+    at com.app.LogoutClass.method8(File.java:518)
+    at com.app.LogoutClass.method9(File.java:101)
+    at com.app.LogoutClass.method10(File.java:593)
+    at com.app.LogoutClass.method11(File.java:605)
+    at com.app.LogoutClass.method12(File.java:110)
+    at com.app.LogoutClass.method13(File.java:642)
+    at com.app.LogoutClass.method14(File.java:798)
+    at com.app.LogoutClass.method15(File.java:296)
+    at com.app.LogoutClass.method16(File.java:232)
+    at com.app.LogoutClass.method17(File.java:334)
+    at com.app.LogoutClass.method18(File.java:527)
+    at com.app.LogoutClass.method19(File.java:790)

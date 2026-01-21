@@ -1,0 +1,31 @@
+Test Case ID : TC_00069
+Module       : Logout
+Timestamp    : 2026-01-10 07:09:00
+Build Number : 2258
+Status       : FAIL
+
+Failure Reason : TimeoutException
+Failure Details:
+h5cl0cMcuT5nw243PcJM2Iy1pCgGBz1c1oMHHXNAhgXmDJ KPyN bExhQZt4cRUZUwvjrnOAfxSnMxJ99vZTBhuV0O9Am6KG9ToQ67D7lLBsaYYu boq9oUVTni7mEFyYXEds6wkaARXRvtI1oGxdEthi CCJXB1jr9c 1SaWH3KY5z93v8y9KMZi6Ig7ZOx5ak95bo8LtmYOKcdKJ3BpVk 1Bma9jmgqVDZksj7PyN2AZ0e02xZrIsceOlaJg4sGtbpPKqob5fZ0GOdgfnjdaQpGyRTmp09sC2eUnl3LEhcpKgxeuORK8V RlHq1dhKuciBX1Nq8GFX3xHTBDdqfO7wEDKpvbFt1k tSjbOA6eBJgz0oa1KtQXBErbf72qe6HZM8FhhwUs19tGY
+
+Stack Trace:
+    at com.app.LogoutClass.method0(File.java:406)
+    at com.app.LogoutClass.method1(File.java:759)
+    at com.app.LogoutClass.method2(File.java:549)
+    at com.app.LogoutClass.method3(File.java:626)
+    at com.app.LogoutClass.method4(File.java:600)
+    at com.app.LogoutClass.method5(File.java:312)
+    at com.app.LogoutClass.method6(File.java:311)
+    at com.app.LogoutClass.method7(File.java:614)
+    at com.app.LogoutClass.method8(File.java:610)
+    at com.app.LogoutClass.method9(File.java:616)
+    at com.app.LogoutClass.method10(File.java:488)
+    at com.app.LogoutClass.method11(File.java:307)
+    at com.app.LogoutClass.method12(File.java:20)
+    at com.app.LogoutClass.method13(File.java:17)
+    at com.app.LogoutClass.method14(File.java:774)
+    at com.app.LogoutClass.method15(File.java:732)
+    at com.app.LogoutClass.method16(File.java:194)
+    at com.app.LogoutClass.method17(File.java:814)
+    at com.app.LogoutClass.method18(File.java:937)
+    at com.app.LogoutClass.method19(File.java:382)

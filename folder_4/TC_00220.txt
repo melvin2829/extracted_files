@@ -1,0 +1,31 @@
+Test Case ID : TC_00220
+Module       : Email Trigger
+Timestamp    : 2026-01-10 09:40:00
+Build Number : 2652
+Status       : FAIL
+
+Failure Reason : UI Element Not Clickable
+Failure Details:
+zQBofPfrVbkn IicZb4joCHyzIzYMsCqsOeBGuUhZj3Wii13atsxJAVEx9c74dOPZ5EE8R6yTuXMCiBI5DGvAqRTpQklSiqaGlsX0xt6u9HaHL6HiSps7LIiUJtpu6hRHXAJVEkBTp9kpxCzk8uhGrJOsl7eUHfJXuOkhuhymSuHZ97cBbt5lLPbdZdJwM5gpD6N77keT5CjWpm1grE19m9P5sepAHr4k027ZL7 i2UGdNd7GTorg3oaVEmNcOXjTXassSr2fVRUhurJmFbXoYN4 YDKaqxdywGssuDxSEy k0uAbFeRs8RanmEOpmR5mHtEnhtti2gMpoz0dMmPEvmjzPAxCSLc3aZj3PXq5g0wStO7GROSSezs6PDT5f6SCbB3UZr7sN1tdymC
+
+Stack Trace:
+    at com.app.EmailTriggerClass.method0(File.java:609)
+    at com.app.EmailTriggerClass.method1(File.java:487)
+    at com.app.EmailTriggerClass.method2(File.java:650)
+    at com.app.EmailTriggerClass.method3(File.java:763)
+    at com.app.EmailTriggerClass.method4(File.java:340)
+    at com.app.EmailTriggerClass.method5(File.java:29)
+    at com.app.EmailTriggerClass.method6(File.java:450)
+    at com.app.EmailTriggerClass.method7(File.java:442)
+    at com.app.EmailTriggerClass.method8(File.java:132)
+    at com.app.EmailTriggerClass.method9(File.java:45)
+    at com.app.EmailTriggerClass.method10(File.java:188)
+    at com.app.EmailTriggerClass.method11(File.java:561)
+    at com.app.EmailTriggerClass.method12(File.java:17)
+    at com.app.EmailTriggerClass.method13(File.java:236)
+    at com.app.EmailTriggerClass.method14(File.java:265)
+    at com.app.EmailTriggerClass.method15(File.java:534)
+    at com.app.EmailTriggerClass.method16(File.java:152)
+    at com.app.EmailTriggerClass.method17(File.java:146)
+    at com.app.EmailTriggerClass.method18(File.java:318)
+    at com.app.EmailTriggerClass.method19(File.java:481)

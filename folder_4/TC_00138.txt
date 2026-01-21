@@ -1,0 +1,31 @@
+Test Case ID : TC_00138
+Module       : Role Management
+Timestamp    : 2026-01-10 08:18:00
+Build Number : 2484
+Status       : FAIL
+
+Failure Reason : AssertionError
+Failure Details:
+GjusJuBLpwNLkBRdBoG5MReloBkA5CFRcZWFhh9BsbbPediz4ABrt0eniUywFiox6bpaYqB5V6DsWH f7JoPV0mYT1s1dmc3BMI6Sf2LCu9D8vXmteTzD7cM khoYjUYDlbM3J2Sls6PQdlzuQ A73b4aFxMxOqspVnI8M84sBESSxMSRBM8SuoUGE2a4Va6q97R4teAwl0WjvxVcxwCPSHs jN5S l2JLNsmzIUgZ66yFra2EqwS4BZG3vuW0CtdMzJn2AhpBDFNsMh4uYb9CpreDqGkxKzSEDGQne1VacTLZWZ0vfPNLZdyyaCOs6ToJbmGGLXCHTooUndPsMzBLa0owyq4gIdRlE SeM7zAdo1pKJpLQ0sEjvnf3uNy0 T2aTByvxUNtwxlmK
+
+Stack Trace:
+    at com.app.RoleManagementClass.method0(File.java:662)
+    at com.app.RoleManagementClass.method1(File.java:846)
+    at com.app.RoleManagementClass.method2(File.java:52)
+    at com.app.RoleManagementClass.method3(File.java:118)
+    at com.app.RoleManagementClass.method4(File.java:819)
+    at com.app.RoleManagementClass.method5(File.java:55)
+    at com.app.RoleManagementClass.method6(File.java:71)
+    at com.app.RoleManagementClass.method7(File.java:242)
+    at com.app.RoleManagementClass.method8(File.java:494)
+    at com.app.RoleManagementClass.method9(File.java:713)
+    at com.app.RoleManagementClass.method10(File.java:174)
+    at com.app.RoleManagementClass.method11(File.java:658)
+    at com.app.RoleManagementClass.method12(File.java:84)
+    at com.app.RoleManagementClass.method13(File.java:354)
+    at com.app.RoleManagementClass.method14(File.java:839)
+    at com.app.RoleManagementClass.method15(File.java:828)
+    at com.app.RoleManagementClass.method16(File.java:238)
+    at com.app.RoleManagementClass.method17(File.java:609)
+    at com.app.RoleManagementClass.method18(File.java:171)
+    at com.app.RoleManagementClass.method19(File.java:660)

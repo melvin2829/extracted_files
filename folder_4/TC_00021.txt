@@ -1,0 +1,31 @@
+Test Case ID : TC_00021
+Module       : Third-party Integration
+Timestamp    : 2026-01-10 06:21:00
+Build Number : 2415
+Status       : FAIL
+
+Failure Reason : Database Connection Failed
+Failure Details:
+My0kGmBCwCwca6p9x0mETQYFrl18liGiGvS8MFY5FRpsRc5sCdlKfsfMcdiiRIW6RzxfzzpVa Yr NCrEaK jx3f2NOcgvNDwxBkpXiQR245z9GgQEHZwlFtRIxw5RQXLNWIdJFx9lFtB0i1 zZRhHghFSB8Dpo6T9fWyJgd3Nam3btuDqlstK9rxFStQsOa6Jgm1Eo451sig4W3gbVf8qNnFSZgOEdxnvh8tMxFYndu2EEOj2xWG6EHGcZfy8XojE311h8XTjUqM0IG9iiiNRORXyxxsSmw6ktc9b0XUACc7WyTmDymvGS3ZnwBeKwr653humT7Eze6Qyrp9xN54Y89G8y4K73PLk9XyltsgndNjF9UyY1sdRx5dnef63kxyaMjN4fYzWFmVqvm
+
+Stack Trace:
+    at com.app.Third-partyIntegrationClass.method0(File.java:940)
+    at com.app.Third-partyIntegrationClass.method1(File.java:795)
+    at com.app.Third-partyIntegrationClass.method2(File.java:803)
+    at com.app.Third-partyIntegrationClass.method3(File.java:932)
+    at com.app.Third-partyIntegrationClass.method4(File.java:804)
+    at com.app.Third-partyIntegrationClass.method5(File.java:613)
+    at com.app.Third-partyIntegrationClass.method6(File.java:180)
+    at com.app.Third-partyIntegrationClass.method7(File.java:724)
+    at com.app.Third-partyIntegrationClass.method8(File.java:245)
+    at com.app.Third-partyIntegrationClass.method9(File.java:967)
+    at com.app.Third-partyIntegrationClass.method10(File.java:290)
+    at com.app.Third-partyIntegrationClass.method11(File.java:708)
+    at com.app.Third-partyIntegrationClass.method12(File.java:45)
+    at com.app.Third-partyIntegrationClass.method13(File.java:295)
+    at com.app.Third-partyIntegrationClass.method14(File.java:629)
+    at com.app.Third-partyIntegrationClass.method15(File.java:638)
+    at com.app.Third-partyIntegrationClass.method16(File.java:804)
+    at com.app.Third-partyIntegrationClass.method17(File.java:160)
+    at com.app.Third-partyIntegrationClass.method18(File.java:576)
+    at com.app.Third-partyIntegrationClass.method19(File.java:345)

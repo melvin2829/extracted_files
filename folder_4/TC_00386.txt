@@ -1,0 +1,31 @@
+Test Case ID : TC_00386
+Module       : Login
+Timestamp    : 2026-01-10 12:26:00
+Build Number : 2607
+Status       : FAIL
+
+Failure Reason : API 500 Internal Server Error
+Failure Details:
+Ad1PlW86HE0xkpY3RR424JlVtXxQN92evtCAI X6ZlunDgb1ajS5l3tiGftbcWg8f4NTlaGPc0MaXN7y7QCAri3swkjvfz8zHIIjbTos9uPY9KS8ZxLcMyK8NQLFTTdJigV9QNz tGOBGb10NdWheAdiID9aHpXBhcpQWqqrkYELEm7PgsECQo3bW6zTMIY4hZ6kmUQ5ijSMIPmRmBjWWhhuWGdIrrKqmqGfzumyERSP9ZnT7YraD6K kAfXql9FVRpZ9ssshFjonWbPfwtrQsmtIDGz32Qro54iuZy6epaYokqogr5iJvuVichGK5Ow4UdzIVEkAX3hJg8gugCJSImiXaIOxi7JladXYfy8xfvYasG1fOlLH2Dtr ylqFNZ4tKfaXa9nzITpBJ1
+
+Stack Trace:
+    at com.app.LoginClass.method0(File.java:646)
+    at com.app.LoginClass.method1(File.java:166)
+    at com.app.LoginClass.method2(File.java:214)
+    at com.app.LoginClass.method3(File.java:899)
+    at com.app.LoginClass.method4(File.java:297)
+    at com.app.LoginClass.method5(File.java:815)
+    at com.app.LoginClass.method6(File.java:227)
+    at com.app.LoginClass.method7(File.java:740)
+    at com.app.LoginClass.method8(File.java:622)
+    at com.app.LoginClass.method9(File.java:319)
+    at com.app.LoginClass.method10(File.java:510)
+    at com.app.LoginClass.method11(File.java:126)
+    at com.app.LoginClass.method12(File.java:725)
+    at com.app.LoginClass.method13(File.java:929)
+    at com.app.LoginClass.method14(File.java:216)
+    at com.app.LoginClass.method15(File.java:361)
+    at com.app.LoginClass.method16(File.java:736)
+    at com.app.LoginClass.method17(File.java:42)
+    at com.app.LoginClass.method18(File.java:321)
+    at com.app.LoginClass.method19(File.java:630)

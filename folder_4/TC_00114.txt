@@ -1,0 +1,31 @@
+Test Case ID : TC_00114
+Module       : Password Reset
+Timestamp    : 2026-01-10 07:54:00
+Build Number : 4777
+Status       : FAIL
+
+Failure Reason : Incorrect Response Code
+Failure Details:
+6v9TzstOB1G8REVlAL8cHygBSA5IG7HZmJ1WNDKsmhFHU9alAaFNcrrX2rt0s2FYLoCfdltynmoLCuaAED8Ww1Q8WTf9W6ngOID NxdTAosuCECf6Xas5R8hcErmgPz6iX6Q1VKYG94YFLHik9Bq eQ4fFpyrnMNDjNMWzLc7f0guebfEB8FllYWKz29zAPreByQ xkWTw3iXPhkBXP5N8mDxdnDMl4IxCT77ImU2l2IfqFCdRjaVMa 06jFlI0yvNMHizwczuukjE2dEizuhWJnbRuAvLB15yYXRKvfhu9ukvO3w2ixD5aiwZ5wfMps6gzwtLh48fjsiDkHfGE8huYOBIULFZqMoze2nfeAPSuzZXIr2Zb0DCTtx7WQGkm0f3uEQMROaSiHAIln
+
+Stack Trace:
+    at com.app.PasswordResetClass.method0(File.java:233)
+    at com.app.PasswordResetClass.method1(File.java:263)
+    at com.app.PasswordResetClass.method2(File.java:291)
+    at com.app.PasswordResetClass.method3(File.java:713)
+    at com.app.PasswordResetClass.method4(File.java:243)
+    at com.app.PasswordResetClass.method5(File.java:970)
+    at com.app.PasswordResetClass.method6(File.java:562)
+    at com.app.PasswordResetClass.method7(File.java:144)
+    at com.app.PasswordResetClass.method8(File.java:293)
+    at com.app.PasswordResetClass.method9(File.java:188)
+    at com.app.PasswordResetClass.method10(File.java:29)
+    at com.app.PasswordResetClass.method11(File.java:780)
+    at com.app.PasswordResetClass.method12(File.java:475)
+    at com.app.PasswordResetClass.method13(File.java:789)
+    at com.app.PasswordResetClass.method14(File.java:787)
+    at com.app.PasswordResetClass.method15(File.java:400)
+    at com.app.PasswordResetClass.method16(File.java:301)
+    at com.app.PasswordResetClass.method17(File.java:600)
+    at com.app.PasswordResetClass.method18(File.java:418)
+    at com.app.PasswordResetClass.method19(File.java:218)

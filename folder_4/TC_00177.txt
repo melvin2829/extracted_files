@@ -1,0 +1,31 @@
+Test Case ID : TC_00177
+Module       : Database Validation
+Timestamp    : 2026-01-10 08:57:00
+Build Number : 2645
+Status       : FAIL
+
+Failure Reason : Incorrect Response Code
+Failure Details:
+aM1DPpVyShZI6pjczK5zFQ2FftzjD97ERpKGgHb IHCRPLAluaZLBLGHUT2KUZWK QQpCCMe5NRJrrid4XigzqWwPNbKg10BFtgeDlZj3vvEoDc1im8fGWJry0HptMIauBz8LaBToxL8nbh9yJN gUUCABEx2BQlgWZuW2wCFKzz5u4TnOFJCBCmZximzd86GBZc 8mSk88zD0H k0sNZp9vpJ1CrcvjvJfwscTffhhu8tFqgSPBckMNjjtHoUZapMf8TXoDSPQo7ihUwYLYYe3LFigLsmxdFo6m3TFjlRsMGorvTBwAFggZC2mVhSdppWmHuy i8lbtG48c5A4MXQ71Uo432bHQZCZ28swpP ODcH loHUPVexTBJfow73zwKxEKSQIh2ShzGZG
+
+Stack Trace:
+    at com.app.DatabaseValidationClass.method0(File.java:738)
+    at com.app.DatabaseValidationClass.method1(File.java:375)
+    at com.app.DatabaseValidationClass.method2(File.java:44)
+    at com.app.DatabaseValidationClass.method3(File.java:311)
+    at com.app.DatabaseValidationClass.method4(File.java:499)
+    at com.app.DatabaseValidationClass.method5(File.java:213)
+    at com.app.DatabaseValidationClass.method6(File.java:192)
+    at com.app.DatabaseValidationClass.method7(File.java:914)
+    at com.app.DatabaseValidationClass.method8(File.java:213)
+    at com.app.DatabaseValidationClass.method9(File.java:387)
+    at com.app.DatabaseValidationClass.method10(File.java:328)
+    at com.app.DatabaseValidationClass.method11(File.java:733)
+    at com.app.DatabaseValidationClass.method12(File.java:27)
+    at com.app.DatabaseValidationClass.method13(File.java:859)
+    at com.app.DatabaseValidationClass.method14(File.java:953)
+    at com.app.DatabaseValidationClass.method15(File.java:894)
+    at com.app.DatabaseValidationClass.method16(File.java:830)
+    at com.app.DatabaseValidationClass.method17(File.java:219)
+    at com.app.DatabaseValidationClass.method18(File.java:991)
+    at com.app.DatabaseValidationClass.method19(File.java:972)

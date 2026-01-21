@@ -1,0 +1,31 @@
+Test Case ID : TC_00156
+Module       : Filter
+Timestamp    : 2026-01-10 08:36:00
+Build Number : 1213
+Status       : FAIL
+
+Failure Reason : Incorrect Response Code
+Failure Details:
+KuLwumDr c5dPlfgpmV4c74LGzridbL6fqvTFSzvG fZpdyPxF5uQR5czrjkQJp8cM6srbN9WDAKXHIU0JjCBxveEvE1cotmp8Q4bMLWlEzPiIz4y WBauLj8ue81 J0On5NTSbjmz VIS6Bbr8j98Ys je71B6pLZWu4UdCr3BpSc3FTrXpvDrM9g6xi5Wn0TaU4KOJG7XOrVgRbsTOgEnkNgtmao2zo6MW P6DtHWN6NdMh5MWPnLnm13InY1ujqh1bGbarnpwpxywy3MsppbpFoWtAQYr9 SDH9OjCC6iXkkaOncoe j2uit6LaZEQ3IqOdQ0r9gm kKgzm9nN9ngy7OWKzJjOQTvWxQIInSsAfIbj9QWaR0K9ZiFt1soeknNwgOvbFazz2CS
+
+Stack Trace:
+    at com.app.FilterClass.method0(File.java:791)
+    at com.app.FilterClass.method1(File.java:330)
+    at com.app.FilterClass.method2(File.java:291)
+    at com.app.FilterClass.method3(File.java:426)
+    at com.app.FilterClass.method4(File.java:882)
+    at com.app.FilterClass.method5(File.java:576)
+    at com.app.FilterClass.method6(File.java:623)
+    at com.app.FilterClass.method7(File.java:305)
+    at com.app.FilterClass.method8(File.java:101)
+    at com.app.FilterClass.method9(File.java:735)
+    at com.app.FilterClass.method10(File.java:55)
+    at com.app.FilterClass.method11(File.java:707)
+    at com.app.FilterClass.method12(File.java:605)
+    at com.app.FilterClass.method13(File.java:670)
+    at com.app.FilterClass.method14(File.java:421)
+    at com.app.FilterClass.method15(File.java:901)
+    at com.app.FilterClass.method16(File.java:319)
+    at com.app.FilterClass.method17(File.java:761)
+    at com.app.FilterClass.method18(File.java:756)
+    at com.app.FilterClass.method19(File.java:132)

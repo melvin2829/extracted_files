@@ -1,0 +1,31 @@
+Test Case ID : TC_00255
+Module       : Email Trigger
+Timestamp    : 2026-01-10 10:15:00
+Build Number : 1310
+Status       : FAIL
+
+Failure Reason : API 401 Unauthorized
+Failure Details:
+yJ8HClkDCIFjIF8uGX0Hxc6ujdvOByElp7w59Pqjlij85L76EXfIF1J0oGx kAJRjIbD6DNLCj3DQEScBX5BFewEKOD2c 1mkdbnG4SE2 qNo3MdwGfxjI3dJDQzWXHZAZShIOsc0yD9rg78w7CrrId08grksuDR62is2SFNMZ46QM3WStNKoi8 JqVHTJTxFCTL3dRmr hhnlfHhllLwwmM7UkGr4hJ5h7YqMzOrIFB4xH3B1dFZQ7kK08wwy4MNvSAZ2iBwDRZoT0vl4Gzq8Vnf1pPooGKqvi7UcYsqbI5KKGGNYYmkd2UDx9foT43Z7iA5KUMefYyHGh3pX7 m15c3OzVIsK1Kxt6YOxuxcRwbbf02LIYAinD5euJjNB0DaYIGDQHhMRuTE1Y
+
+Stack Trace:
+    at com.app.EmailTriggerClass.method0(File.java:475)
+    at com.app.EmailTriggerClass.method1(File.java:296)
+    at com.app.EmailTriggerClass.method2(File.java:542)
+    at com.app.EmailTriggerClass.method3(File.java:637)
+    at com.app.EmailTriggerClass.method4(File.java:317)
+    at com.app.EmailTriggerClass.method5(File.java:552)
+    at com.app.EmailTriggerClass.method6(File.java:218)
+    at com.app.EmailTriggerClass.method7(File.java:221)
+    at com.app.EmailTriggerClass.method8(File.java:974)
+    at com.app.EmailTriggerClass.method9(File.java:154)
+    at com.app.EmailTriggerClass.method10(File.java:464)
+    at com.app.EmailTriggerClass.method11(File.java:819)
+    at com.app.EmailTriggerClass.method12(File.java:173)
+    at com.app.EmailTriggerClass.method13(File.java:513)
+    at com.app.EmailTriggerClass.method14(File.java:764)
+    at com.app.EmailTriggerClass.method15(File.java:543)
+    at com.app.EmailTriggerClass.method16(File.java:703)
+    at com.app.EmailTriggerClass.method17(File.java:19)
+    at com.app.EmailTriggerClass.method18(File.java:563)
+    at com.app.EmailTriggerClass.method19(File.java:214)

@@ -1,0 +1,31 @@
+Test Case ID : TC_00001
+Module       : API Authentication
+Timestamp    : 2026-01-10 06:01:00
+Build Number : 4495
+Status       : FAIL
+
+Failure Reason : Data Mismatch
+Failure Details:
+0udjZG3X4E25Y h9miSZ5ada6U6JBO6yRlcsxMHcyScvv rDWibGIRCOgTKKQ02YXe3erOWLC5NwMxp9 9B3S1SU5BLJu0AtyTZmlPuAJ09wH5Fn6HE0Wutrm7f9RfRZ7wEyt3xT1vQbr OdDcywGliiQ3kguBsKV2OuuTh7a13Vx7WT1RMFSqotged0xRulD312qZMGP7PksNDvVIdWYv8aEZjAljs7GrSfAYqyZ9jKkWVV6Hhabk ng7i6vOwjr18p0vQh1OEX6NYFVvZd3ClOjCEbCZYOOQ4EVyF8Dt8zLRhWhY5BQcIeooxRpBEEZkNaMxwhkDS40GOihn6ldne0nWFfk908JjIGEXx3E9zU8SweMz2J6sjAIoc0A7BXWageWlBk1YswglIh
+
+Stack Trace:
+    at com.app.APIAuthenticationClass.method0(File.java:851)
+    at com.app.APIAuthenticationClass.method1(File.java:159)
+    at com.app.APIAuthenticationClass.method2(File.java:802)
+    at com.app.APIAuthenticationClass.method3(File.java:694)
+    at com.app.APIAuthenticationClass.method4(File.java:406)
+    at com.app.APIAuthenticationClass.method5(File.java:589)
+    at com.app.APIAuthenticationClass.method6(File.java:787)
+    at com.app.APIAuthenticationClass.method7(File.java:263)
+    at com.app.APIAuthenticationClass.method8(File.java:16)
+    at com.app.APIAuthenticationClass.method9(File.java:635)
+    at com.app.APIAuthenticationClass.method10(File.java:836)
+    at com.app.APIAuthenticationClass.method11(File.java:66)
+    at com.app.APIAuthenticationClass.method12(File.java:887)
+    at com.app.APIAuthenticationClass.method13(File.java:65)
+    at com.app.APIAuthenticationClass.method14(File.java:247)
+    at com.app.APIAuthenticationClass.method15(File.java:944)
+    at com.app.APIAuthenticationClass.method16(File.java:86)
+    at com.app.APIAuthenticationClass.method17(File.java:357)
+    at com.app.APIAuthenticationClass.method18(File.java:319)
+    at com.app.APIAuthenticationClass.method19(File.java:867)

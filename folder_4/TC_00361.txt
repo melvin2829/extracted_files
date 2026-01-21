@@ -1,0 +1,31 @@
+Test Case ID : TC_00361
+Module       : Logout
+Timestamp    : 2026-01-10 12:01:00
+Build Number : 1370
+Status       : FAIL
+
+Failure Reason : ElementNotFound
+Failure Details:
+70sAvKlPvpWplgkxPPmg2B5GLVTvWydAr5z00aehYmcNDln9QKHWXtIEeg 3TsjsvotQeskGnpMFDQY4ef9 ujmqAbPtqsaqx1TCEbtTSu6SsU7CjDT4ym7bSIetnZ bsbkhZLvhKKVozNBBCUnZubdMFnUIKt3zWVopc598rMc9IfBOS1n9rJ0DrcHMLK6rZgZJLtyHUFY5H1RhJVjvY59B7a977qANO70HZdfoipKJEqUSAw0QGkYhaXY32Omzm09fHf1XY9 xfWJYc68gMbaHBTwV0WnBdIxTGqNGx XaS1V1n7DjZFDv4gTq gnUa HM1U5gsLAhM2gDtdgP5ZO8RL3qfAMayN85YCRkyqOS0CJGK2bvqUOVAy261TrXcaGnJqnTQIW 5On8
+
+Stack Trace:
+    at com.app.LogoutClass.method0(File.java:103)
+    at com.app.LogoutClass.method1(File.java:832)
+    at com.app.LogoutClass.method2(File.java:637)
+    at com.app.LogoutClass.method3(File.java:82)
+    at com.app.LogoutClass.method4(File.java:940)
+    at com.app.LogoutClass.method5(File.java:600)
+    at com.app.LogoutClass.method6(File.java:967)
+    at com.app.LogoutClass.method7(File.java:433)
+    at com.app.LogoutClass.method8(File.java:111)
+    at com.app.LogoutClass.method9(File.java:629)
+    at com.app.LogoutClass.method10(File.java:120)
+    at com.app.LogoutClass.method11(File.java:620)
+    at com.app.LogoutClass.method12(File.java:989)
+    at com.app.LogoutClass.method13(File.java:432)
+    at com.app.LogoutClass.method14(File.java:396)
+    at com.app.LogoutClass.method15(File.java:962)
+    at com.app.LogoutClass.method16(File.java:391)
+    at com.app.LogoutClass.method17(File.java:30)
+    at com.app.LogoutClass.method18(File.java:423)
+    at com.app.LogoutClass.method19(File.java:487)

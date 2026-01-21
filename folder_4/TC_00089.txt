@@ -1,0 +1,31 @@
+Test Case ID : TC_00089
+Module       : Audit Logs
+Timestamp    : 2026-01-10 07:29:00
+Build Number : 2957
+Status       : FAIL
+
+Failure Reason : Incorrect Response Code
+Failure Details:
+YaqpUB4jN4g4XZFkEYAlvi0MAqK9 i6s8Lp2kcVh98nO94ox1KAiMEdmEKASDCLFjqyQCBLIR zZY JlgeaiU3mvD61jH5dPFAmzg gJQzaNA4cLH0qZradSMaAFBcQE3qSMvOKeatcyjUXJWIrUPPegmav7Sc5vZTmY3BThAD5IndPjHLqy9YoHelg9holDKpSq6lvufCuVKosIgPRpbrw0IQ7CqVNk6g09qv7xh0cTm0GRaUw3WxH7xFWztRX NWW9WcMrfT8goMxVvQvhN3 nBFpwSv0ueoSFry6PCqqmW4KkFm0wz tECICFYNawxxvIgcKSmdUOC6RwPALl7QbIRvKjy2MrTSYOC3yb2tBzX5Vvgz9cjqVWgkNyhV5V1hId YS8uQUESmGW
+
+Stack Trace:
+    at com.app.AuditLogsClass.method0(File.java:860)
+    at com.app.AuditLogsClass.method1(File.java:824)
+    at com.app.AuditLogsClass.method2(File.java:697)
+    at com.app.AuditLogsClass.method3(File.java:111)
+    at com.app.AuditLogsClass.method4(File.java:29)
+    at com.app.AuditLogsClass.method5(File.java:319)
+    at com.app.AuditLogsClass.method6(File.java:628)
+    at com.app.AuditLogsClass.method7(File.java:189)
+    at com.app.AuditLogsClass.method8(File.java:572)
+    at com.app.AuditLogsClass.method9(File.java:992)
+    at com.app.AuditLogsClass.method10(File.java:602)
+    at com.app.AuditLogsClass.method11(File.java:458)
+    at com.app.AuditLogsClass.method12(File.java:10)
+    at com.app.AuditLogsClass.method13(File.java:161)
+    at com.app.AuditLogsClass.method14(File.java:796)
+    at com.app.AuditLogsClass.method15(File.java:930)
+    at com.app.AuditLogsClass.method16(File.java:924)
+    at com.app.AuditLogsClass.method17(File.java:352)
+    at com.app.AuditLogsClass.method18(File.java:349)
+    at com.app.AuditLogsClass.method19(File.java:138)

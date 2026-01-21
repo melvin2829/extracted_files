@@ -1,0 +1,31 @@
+Test Case ID : TC_00316
+Module       : User Registration
+Timestamp    : 2026-01-10 11:16:00
+Build Number : 4495
+Status       : FAIL
+
+Failure Reason : Database Connection Failed
+Failure Details:
+ta5My5CjMaAI1yt6d9hvi1j5mRnRIf9YL9fHnSu9kUbgUJFHhJIUiCSwBtZKVG3cEoHkHTMpFpw0KBxN Iy6h5lUrUES8GPgWV96fB4PS4JungYixwyrXlF2UaYba7kJoG4zS4lTINUj8Bu A7BpdlXT07o68D2iGpQvkZ56TUeNWKDCjDmJo68PYcYZm99uhtGrOYy42Gu xuXZ4Eq1q6izJ9js7ya4HQaGI9lqjfVxDLVR2rW21sLcyoaevcGJjkIUZvea4TNFgggM3xUw0ujevj3Lx8bvxM7rs vLuysyxShaFgU37eCoj7KpFv4eueGrlWQGLuvD7pC9iH6tmwRieW3VBihP8bFn5D 1VXWRkRZlgshxFbwwWajtvSi ADBkeBBWUgYvEfGM
+
+Stack Trace:
+    at com.app.UserRegistrationClass.method0(File.java:544)
+    at com.app.UserRegistrationClass.method1(File.java:697)
+    at com.app.UserRegistrationClass.method2(File.java:484)
+    at com.app.UserRegistrationClass.method3(File.java:576)
+    at com.app.UserRegistrationClass.method4(File.java:937)
+    at com.app.UserRegistrationClass.method5(File.java:608)
+    at com.app.UserRegistrationClass.method6(File.java:98)
+    at com.app.UserRegistrationClass.method7(File.java:261)
+    at com.app.UserRegistrationClass.method8(File.java:918)
+    at com.app.UserRegistrationClass.method9(File.java:254)
+    at com.app.UserRegistrationClass.method10(File.java:623)
+    at com.app.UserRegistrationClass.method11(File.java:435)
+    at com.app.UserRegistrationClass.method12(File.java:135)
+    at com.app.UserRegistrationClass.method13(File.java:779)
+    at com.app.UserRegistrationClass.method14(File.java:205)
+    at com.app.UserRegistrationClass.method15(File.java:308)
+    at com.app.UserRegistrationClass.method16(File.java:255)
+    at com.app.UserRegistrationClass.method17(File.java:351)
+    at com.app.UserRegistrationClass.method18(File.java:503)
+    at com.app.UserRegistrationClass.method19(File.java:840)

@@ -1,0 +1,31 @@
+Test Case ID : TC_00429
+Module       : Database Validation
+Timestamp    : 2026-01-10 13:09:00
+Build Number : 4122
+Status       : FAIL
+
+Failure Reason : AssertionError
+Failure Details:
+cJ04VHC6bKgxGjfeWbPqHf2c24kuTlTK9TGtHT7FLpKgLMnzO6zIH1PwpvF5stzk3UIeeNCc5lpBh9BD5b9FQFo5PLhZPyVapELETym5zGrJWNVfXzUmvRq4TXygjLev3iw0PC nOmhQYy9e3 dDTGypjFdYLNLl hhRGkDoeAosMI4gPInLvRnTvrHvQ5A4RcLx2H5FuKHGy2bHHLQVtyPcwrbO7hCgZ0B249vsArjjKYQNRWBG9poC4ja2Blpi9cwPUGyTCG6OTiqXljcxyAkq1uB1BEp194nW80H1vTHqaJy3MYhWCEoT3LKIV8phnItDPdHYwh1K3AnDLzgDnOX3pG6E9rJhxLorLhOuRgdhjIdyFkrjQF4HAF07mJozZPu5dZa5VMxMsjgI
+
+Stack Trace:
+    at com.app.DatabaseValidationClass.method0(File.java:183)
+    at com.app.DatabaseValidationClass.method1(File.java:616)
+    at com.app.DatabaseValidationClass.method2(File.java:673)
+    at com.app.DatabaseValidationClass.method3(File.java:174)
+    at com.app.DatabaseValidationClass.method4(File.java:483)
+    at com.app.DatabaseValidationClass.method5(File.java:215)
+    at com.app.DatabaseValidationClass.method6(File.java:985)
+    at com.app.DatabaseValidationClass.method7(File.java:200)
+    at com.app.DatabaseValidationClass.method8(File.java:80)
+    at com.app.DatabaseValidationClass.method9(File.java:868)
+    at com.app.DatabaseValidationClass.method10(File.java:348)
+    at com.app.DatabaseValidationClass.method11(File.java:281)
+    at com.app.DatabaseValidationClass.method12(File.java:380)
+    at com.app.DatabaseValidationClass.method13(File.java:229)
+    at com.app.DatabaseValidationClass.method14(File.java:212)
+    at com.app.DatabaseValidationClass.method15(File.java:853)
+    at com.app.DatabaseValidationClass.method16(File.java:278)
+    at com.app.DatabaseValidationClass.method17(File.java:489)
+    at com.app.DatabaseValidationClass.method18(File.java:596)
+    at com.app.DatabaseValidationClass.method19(File.java:379)

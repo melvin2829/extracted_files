@@ -1,0 +1,31 @@
+Test Case ID : TC_00363
+Module       : User Registration
+Timestamp    : 2026-01-10 12:03:00
+Build Number : 1038
+Status       : FAIL
+
+Failure Reason : Incorrect Response Code
+Failure Details:
+s1tMtp4qLLgJSTuj0VkGrcuQdFe0kB9sqeCm0y6KZxUG5rV0amNPxxjxAPxLWXLKfajLx7V3Oj5wzJBLPQ7nw2pXQTHJl82tvXgGv7cjHRlgC4WvJ4KRMyfc5uPLWY3lB sFI09sQONd2r RyUwXVJenhjL3SA7GiIHZI6NaiptwKcss3mAymmmBljm7KhE oQowOJKMg41nTWLeJoAwEhBj3EA1ybs zRH9E8ojJzckAWWepMbSW0WDTKB MXxCzReDw jORQmz8tMJpccIZjRmrkm48 EmZE0j5Ee0msy1X29NjkqBZ9nT3YmwtxnY5kXlLvCmVqPwFYq7 jCVxQNb0gmq7nlPiq9R6fRSImNAE50OzYBpZ9i7 NJhnMyleycn A7fRBMHiNkv
+
+Stack Trace:
+    at com.app.UserRegistrationClass.method0(File.java:844)
+    at com.app.UserRegistrationClass.method1(File.java:234)
+    at com.app.UserRegistrationClass.method2(File.java:334)
+    at com.app.UserRegistrationClass.method3(File.java:650)
+    at com.app.UserRegistrationClass.method4(File.java:772)
+    at com.app.UserRegistrationClass.method5(File.java:913)
+    at com.app.UserRegistrationClass.method6(File.java:869)
+    at com.app.UserRegistrationClass.method7(File.java:214)
+    at com.app.UserRegistrationClass.method8(File.java:110)
+    at com.app.UserRegistrationClass.method9(File.java:275)
+    at com.app.UserRegistrationClass.method10(File.java:152)
+    at com.app.UserRegistrationClass.method11(File.java:648)
+    at com.app.UserRegistrationClass.method12(File.java:787)
+    at com.app.UserRegistrationClass.method13(File.java:82)
+    at com.app.UserRegistrationClass.method14(File.java:324)
+    at com.app.UserRegistrationClass.method15(File.java:884)
+    at com.app.UserRegistrationClass.method16(File.java:793)
+    at com.app.UserRegistrationClass.method17(File.java:513)
+    at com.app.UserRegistrationClass.method18(File.java:563)
+    at com.app.UserRegistrationClass.method19(File.java:989)

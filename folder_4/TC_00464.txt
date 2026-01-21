@@ -1,0 +1,31 @@
+Test Case ID : TC_00464
+Module       : Logout
+Timestamp    : 2026-01-10 13:44:00
+Build Number : 4447
+Status       : FAIL
+
+Failure Reason : API 401 Unauthorized
+Failure Details:
+uCBPmZ66eogoL1cMK55qFFeIcZzVBgnMGj69IOxVmYYZ95bfvkd5cAiG2Ub3hHs4n qY2WPLiI8edHi pGfDSApFMQkwXVxb 4yn1TZi pkcgr5z UvSlY0YWBZrXqZhQrS9wp4ZwJrHZ7b7Et iDlwkgjZhgi4JpBysbc3opf84SYrrD3fG1fepz0684JUSLCtCkP1tVWy7z1ScWpKyHVRT55mDBfLrglhJLPgCtLihvVYt82wMCNblhpptUZWufcA0jP8k5mQftbgk9NJDOpsmsNXKSJaYTp7oPbrycvdcCrLyQQN2MajuCIremxhFY1q1BVyn8nENlHmXe14VJHf52ph2qtNnGJLaMvNI1wF3XdUcXY5DX HH63xbrkckQs5WVOj26jFnlrNz
+
+Stack Trace:
+    at com.app.LogoutClass.method0(File.java:775)
+    at com.app.LogoutClass.method1(File.java:320)
+    at com.app.LogoutClass.method2(File.java:864)
+    at com.app.LogoutClass.method3(File.java:17)
+    at com.app.LogoutClass.method4(File.java:493)
+    at com.app.LogoutClass.method5(File.java:215)
+    at com.app.LogoutClass.method6(File.java:319)
+    at com.app.LogoutClass.method7(File.java:551)
+    at com.app.LogoutClass.method8(File.java:809)
+    at com.app.LogoutClass.method9(File.java:508)
+    at com.app.LogoutClass.method10(File.java:921)
+    at com.app.LogoutClass.method11(File.java:202)
+    at com.app.LogoutClass.method12(File.java:827)
+    at com.app.LogoutClass.method13(File.java:558)
+    at com.app.LogoutClass.method14(File.java:358)
+    at com.app.LogoutClass.method15(File.java:858)
+    at com.app.LogoutClass.method16(File.java:426)
+    at com.app.LogoutClass.method17(File.java:200)
+    at com.app.LogoutClass.method18(File.java:900)
+    at com.app.LogoutClass.method19(File.java:972)

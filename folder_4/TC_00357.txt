@@ -1,0 +1,31 @@
+Test Case ID : TC_00357
+Module       : Login
+Timestamp    : 2026-01-10 11:57:00
+Build Number : 1669
+Status       : FAIL
+
+Failure Reason : TimeoutException
+Failure Details:
+rO1 4dxqxqSVcPZeTtlVC91rYEXUPPycLd0wSW3uCM6753Y62TG r66PPI1ZOWEq8gPIyVc15gv98bkJ1xAhCtRn2MyTDZRNWY5ngWdW9CbxNBiIwJzAGFcT uFy67v5NPQUkZGmXb0lXzLI AkIBRCnpLnOC9PKKPfWDi7dskPpEGEFqE i2KO52LpK FvTanG4Oo6AiFMvyBMn17I7fWXBdbryeswNYvHf7ZVtw2yFaw1du3xoSY HOQKPTsNgGcN9a9U6W41NwHVPNQOjvIwiREqbtoBmUP4wpsHQ8j6iXZmfNLDlXKCMtoDEja0shPTcrHnLjnKUuuq1oBWU9Z3wP2R2DLoTR6KYrAsE71Mwwlj9t8QNYxbVHNW2y6rIMFWsiSpH U4iFr7E
+
+Stack Trace:
+    at com.app.LoginClass.method0(File.java:764)
+    at com.app.LoginClass.method1(File.java:758)
+    at com.app.LoginClass.method2(File.java:612)
+    at com.app.LoginClass.method3(File.java:353)
+    at com.app.LoginClass.method4(File.java:674)
+    at com.app.LoginClass.method5(File.java:731)
+    at com.app.LoginClass.method6(File.java:249)
+    at com.app.LoginClass.method7(File.java:800)
+    at com.app.LoginClass.method8(File.java:155)
+    at com.app.LoginClass.method9(File.java:455)
+    at com.app.LoginClass.method10(File.java:33)
+    at com.app.LoginClass.method11(File.java:230)
+    at com.app.LoginClass.method12(File.java:951)
+    at com.app.LoginClass.method13(File.java:106)
+    at com.app.LoginClass.method14(File.java:333)
+    at com.app.LoginClass.method15(File.java:385)
+    at com.app.LoginClass.method16(File.java:271)
+    at com.app.LoginClass.method17(File.java:351)
+    at com.app.LoginClass.method18(File.java:347)
+    at com.app.LoginClass.method19(File.java:16)

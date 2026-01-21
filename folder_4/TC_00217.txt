@@ -1,0 +1,31 @@
+Test Case ID : TC_00217
+Module       : Filter
+Timestamp    : 2026-01-10 09:37:00
+Build Number : 4551
+Status       : FAIL
+
+Failure Reason : API 500 Internal Server Error
+Failure Details:
+mykjQb IZ9oNteEp7QeSVOyU7ykjteJUa9TjFnKnLUHmb0N Y2fiPPP7zH2UXt93TP SDd8s6TIVHmNrQqzNMDvVA8qwcmdcrsf0RCL0gBg4KeAwNLpyeXdjFEvqx8BPYsJEPw1iKlV1r0w7epmtsrixI7yNzKUPuR9Tw0ZgdOjtHHsprjaxua0xSQrANKCoCilWjVMdxWDcBVBQi3TOyG4i2gmKq3aEpCEuvcPzQVEeB qUEkzbIELmCCFai7gnHHUWyF3VxnCZmv12y1zUILcdWaiu6xvS8IywFVwI0pLTUQc4H1MTucFxH7lFF0hhCmcKI69c9hbtAYJ20Ua1g3aFks5WOsvzqQxyiUttEcoT5gHkVHlitgy4TBd8C XcRMbMbQu6WnMS0ofK
+
+Stack Trace:
+    at com.app.FilterClass.method0(File.java:599)
+    at com.app.FilterClass.method1(File.java:801)
+    at com.app.FilterClass.method2(File.java:83)
+    at com.app.FilterClass.method3(File.java:179)
+    at com.app.FilterClass.method4(File.java:152)
+    at com.app.FilterClass.method5(File.java:90)
+    at com.app.FilterClass.method6(File.java:473)
+    at com.app.FilterClass.method7(File.java:333)
+    at com.app.FilterClass.method8(File.java:504)
+    at com.app.FilterClass.method9(File.java:328)
+    at com.app.FilterClass.method10(File.java:82)
+    at com.app.FilterClass.method11(File.java:302)
+    at com.app.FilterClass.method12(File.java:185)
+    at com.app.FilterClass.method13(File.java:926)
+    at com.app.FilterClass.method14(File.java:672)
+    at com.app.FilterClass.method15(File.java:286)
+    at com.app.FilterClass.method16(File.java:647)
+    at com.app.FilterClass.method17(File.java:321)
+    at com.app.FilterClass.method18(File.java:968)
+    at com.app.FilterClass.method19(File.java:59)

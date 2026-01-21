@@ -1,0 +1,31 @@
+Test Case ID : TC_00423
+Module       : Notification Service
+Timestamp    : 2026-01-10 13:03:00
+Build Number : 1795
+Status       : FAIL
+
+Failure Reason : Incorrect Response Code
+Failure Details:
+e7ZQM3BVP3OilIgdI1tuwkFemqHeZYKLFDXXkcgy5m8zo2Ajf7kemdOTrUfd6Pfl6VN4WSQSkzFPbbn 3gtuiDA3zdqF1RU 8oiGGI2jIoIUowSKniB0ixwOFGRW2E4HVZy9S3v7RlPJb6nZnxy1iYjzF2o4GwnAKrhwInqFfiXLvSIU9WQJIxlU pNfRg5nXkXzCNYlWbOMWAdS8ljru7Fp58WxtuqRpUTF dOrdA97ApIf67qT3ZMWvXAXDnhoGQIeGNatJGcihTY3baY3CkfuUuv0EwJsatSgH84Zf57zgS9pQgXQN9yGe8yoaC4MDZWXPxU35eRGofXWNPz9nxTv2 w5wYMWtY XlQPc3dH5ZFmyGSUoeIaFGIPqSlNERWLJnZDbu768XtCy
+
+Stack Trace:
+    at com.app.NotificationServiceClass.method0(File.java:721)
+    at com.app.NotificationServiceClass.method1(File.java:937)
+    at com.app.NotificationServiceClass.method2(File.java:214)
+    at com.app.NotificationServiceClass.method3(File.java:602)
+    at com.app.NotificationServiceClass.method4(File.java:627)
+    at com.app.NotificationServiceClass.method5(File.java:684)
+    at com.app.NotificationServiceClass.method6(File.java:330)
+    at com.app.NotificationServiceClass.method7(File.java:698)
+    at com.app.NotificationServiceClass.method8(File.java:449)
+    at com.app.NotificationServiceClass.method9(File.java:706)
+    at com.app.NotificationServiceClass.method10(File.java:830)
+    at com.app.NotificationServiceClass.method11(File.java:613)
+    at com.app.NotificationServiceClass.method12(File.java:989)
+    at com.app.NotificationServiceClass.method13(File.java:44)
+    at com.app.NotificationServiceClass.method14(File.java:263)
+    at com.app.NotificationServiceClass.method15(File.java:974)
+    at com.app.NotificationServiceClass.method16(File.java:279)
+    at com.app.NotificationServiceClass.method17(File.java:661)
+    at com.app.NotificationServiceClass.method18(File.java:841)
+    at com.app.NotificationServiceClass.method19(File.java:58)

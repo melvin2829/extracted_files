@@ -1,0 +1,31 @@
+Test Case ID : TC_00472
+Module       : File Download
+Timestamp    : 2026-01-10 13:52:00
+Build Number : 1914
+Status       : FAIL
+
+Failure Reason : Database Connection Failed
+Failure Details:
+C7IARpKfMvZk6RCWp2js3Kv2z0r4exCINa9sektBLFCJpn1l1wtHKLuWsLl6ohGlDxzLKtLAK537rgUbM861IBiIpaaxSBdTbAxywad5r4v2gbcwHTqz8KP8fqxunKUKhYRth1ceN3B xd4A92gf6gklZl9xcYToHkVU0L7wLTcxxNai5x7gJdCtcJhsMi7r14uMTh9EdbRULY5rQS1h64CkfRFS4RjN0UwJL4I5NqpKw1oAjbqVKfRrAKr6L4CUpALhDmd2k2bqerlKm1XCjFHIxCDnuKsTNHKSdq QO556gVC4A1AsqaYTJplFVj6ckeX4v155j1VgKf laTsH1jvbjs SX7W8ez3UOqO9NPvBP7Ev8LrxPIn8i8koEtkPkQzt8E3JVsU3Rf3z
+
+Stack Trace:
+    at com.app.FileDownloadClass.method0(File.java:614)
+    at com.app.FileDownloadClass.method1(File.java:166)
+    at com.app.FileDownloadClass.method2(File.java:827)
+    at com.app.FileDownloadClass.method3(File.java:349)
+    at com.app.FileDownloadClass.method4(File.java:271)
+    at com.app.FileDownloadClass.method5(File.java:675)
+    at com.app.FileDownloadClass.method6(File.java:663)
+    at com.app.FileDownloadClass.method7(File.java:904)
+    at com.app.FileDownloadClass.method8(File.java:945)
+    at com.app.FileDownloadClass.method9(File.java:86)
+    at com.app.FileDownloadClass.method10(File.java:772)
+    at com.app.FileDownloadClass.method11(File.java:325)
+    at com.app.FileDownloadClass.method12(File.java:758)
+    at com.app.FileDownloadClass.method13(File.java:452)
+    at com.app.FileDownloadClass.method14(File.java:345)
+    at com.app.FileDownloadClass.method15(File.java:230)
+    at com.app.FileDownloadClass.method16(File.java:233)
+    at com.app.FileDownloadClass.method17(File.java:13)
+    at com.app.FileDownloadClass.method18(File.java:929)
+    at com.app.FileDownloadClass.method19(File.java:682)

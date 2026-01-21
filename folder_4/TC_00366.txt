@@ -1,0 +1,31 @@
+Test Case ID : TC_00366
+Module       : Settings
+Timestamp    : 2026-01-10 12:06:00
+Build Number : 2078
+Status       : FAIL
+
+Failure Reason : Database Connection Failed
+Failure Details:
+Thvj5qrnH88xsSYFFOV6h5OxwJX keRngW2rmkgbFNzsExBEMBHrOyLOpYYQu4RIC13mapnR6bwPXn6WqgYbolBIaKE AZE8Gl3DxGGLMnhjrvoIf9ReVOQgUS6Llicki3kKcL5dCxSieyjrF8OBaDzqppzLwUcTZ39 cvyX8AEFPvV qe0ntOzwhBVItrGekaa7nqaMtScNAwsQF1zJucV uPjixMA Nwh3YFy9nkRCSF4VQEPFfEcqvvzIq4uvy1CFw04cCT  gEwahRrLahu6AepFbSFnvAsAm6H5YFG pMybx1I4iVTc8KYs9kwZbCSfhnq1VUgt4WnpGxByoIIFgfVwNGMTlT9NdjocSVQcClThAs0X4KVoJeWSsahExgvM M oSbTQvEI 
+
+Stack Trace:
+    at com.app.SettingsClass.method0(File.java:821)
+    at com.app.SettingsClass.method1(File.java:781)
+    at com.app.SettingsClass.method2(File.java:73)
+    at com.app.SettingsClass.method3(File.java:185)
+    at com.app.SettingsClass.method4(File.java:319)
+    at com.app.SettingsClass.method5(File.java:394)
+    at com.app.SettingsClass.method6(File.java:208)
+    at com.app.SettingsClass.method7(File.java:644)
+    at com.app.SettingsClass.method8(File.java:644)
+    at com.app.SettingsClass.method9(File.java:714)
+    at com.app.SettingsClass.method10(File.java:138)
+    at com.app.SettingsClass.method11(File.java:581)
+    at com.app.SettingsClass.method12(File.java:311)
+    at com.app.SettingsClass.method13(File.java:604)
+    at com.app.SettingsClass.method14(File.java:136)
+    at com.app.SettingsClass.method15(File.java:748)
+    at com.app.SettingsClass.method16(File.java:456)
+    at com.app.SettingsClass.method17(File.java:774)
+    at com.app.SettingsClass.method18(File.java:526)
+    at com.app.SettingsClass.method19(File.java:719)

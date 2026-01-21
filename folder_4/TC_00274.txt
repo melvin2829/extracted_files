@@ -1,0 +1,31 @@
+Test Case ID : TC_00274
+Module       : File Upload
+Timestamp    : 2026-01-10 10:34:00
+Build Number : 1012
+Status       : FAIL
+
+Failure Reason : UI Element Not Clickable
+Failure Details:
+Z8iqtiXzkjVdS z4FM8nBAlCS0o4OqqPLRQYjMEqFJNyelhUQKA9BEUarsGTyVghK1sBdo2PG1gXGrbCn1X7NMOqEBzovmQQ6lGcwvmkDX3KMeS5bOVWbPszmKhEP8V1MFH4BkawjcshAFj7Y9bP5ZS4KkXXMvZwRgAIKetA m5HL9URQcNcikbdOVHwLNFUEr3HwStWhfLYT4YjPu3OuhKZg79QMp3K Y bqb8THKf5siPkoq5wsAyP35h0MpxYkDGExYZT9rauxs63wFzgq6GcolQGsRG8xyBn2vRSgGzMJRniwgwwg8gpp6DBz8VHgFoccGIs2vVPWkPudxehsIupu3ewLlGrsjnhUZf4EN1HRxORwZYualhvgDNnbfNwa XprbKHaVCoxEOg
+
+Stack Trace:
+    at com.app.FileUploadClass.method0(File.java:437)
+    at com.app.FileUploadClass.method1(File.java:26)
+    at com.app.FileUploadClass.method2(File.java:56)
+    at com.app.FileUploadClass.method3(File.java:40)
+    at com.app.FileUploadClass.method4(File.java:494)
+    at com.app.FileUploadClass.method5(File.java:148)
+    at com.app.FileUploadClass.method6(File.java:812)
+    at com.app.FileUploadClass.method7(File.java:800)
+    at com.app.FileUploadClass.method8(File.java:621)
+    at com.app.FileUploadClass.method9(File.java:49)
+    at com.app.FileUploadClass.method10(File.java:179)
+    at com.app.FileUploadClass.method11(File.java:716)
+    at com.app.FileUploadClass.method12(File.java:311)
+    at com.app.FileUploadClass.method13(File.java:771)
+    at com.app.FileUploadClass.method14(File.java:303)
+    at com.app.FileUploadClass.method15(File.java:722)
+    at com.app.FileUploadClass.method16(File.java:990)
+    at com.app.FileUploadClass.method17(File.java:429)
+    at com.app.FileUploadClass.method18(File.java:124)
+    at com.app.FileUploadClass.method19(File.java:619)

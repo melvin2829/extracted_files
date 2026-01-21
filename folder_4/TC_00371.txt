@@ -1,0 +1,31 @@
+Test Case ID : TC_00371
+Module       : Report Generation
+Timestamp    : 2026-01-10 12:11:00
+Build Number : 4810
+Status       : FAIL
+
+Failure Reason : TimeoutException
+Failure Details:
+XSQngXbnvucXKMQH4cKzqkvK6 pnTJpHW0cl71gt7AjAP7CxNhXqcLXF 7sutGBxi4ycsmy1R01qZ1P3nM9cuPt7C6GPOfFmz3ZyqaBUgA8fc8Pwb QKCTYKcjA24IxD5R3rDSZdG38r1NuFNWuWjP16Wrw7wOD0MSzZT1P vhyQGv620SNmPL2pSiT5SCNJXCxQpsNMG9B65iqNObPdk52BSpsJDJSFOeYx2p7FTGvNRHs 6EMJWueTGyHF7K1gHgNx4GEleXsqgzgef5aWVb36gVW47N9TEnso0pvlbrpsmj0NQ0MBAB7Yq3uzWKENlzsmyAFmhRdr4y0NUSbuXsLMfR3aifIBoYryWC5m08C2yBFK2DTZMqNQTWcqN5ij6X9yGOb6aK2mzuIc
+
+Stack Trace:
+    at com.app.ReportGenerationClass.method0(File.java:250)
+    at com.app.ReportGenerationClass.method1(File.java:454)
+    at com.app.ReportGenerationClass.method2(File.java:324)
+    at com.app.ReportGenerationClass.method3(File.java:664)
+    at com.app.ReportGenerationClass.method4(File.java:220)
+    at com.app.ReportGenerationClass.method5(File.java:954)
+    at com.app.ReportGenerationClass.method6(File.java:562)
+    at com.app.ReportGenerationClass.method7(File.java:708)
+    at com.app.ReportGenerationClass.method8(File.java:194)
+    at com.app.ReportGenerationClass.method9(File.java:403)
+    at com.app.ReportGenerationClass.method10(File.java:345)
+    at com.app.ReportGenerationClass.method11(File.java:490)
+    at com.app.ReportGenerationClass.method12(File.java:730)
+    at com.app.ReportGenerationClass.method13(File.java:65)
+    at com.app.ReportGenerationClass.method14(File.java:843)
+    at com.app.ReportGenerationClass.method15(File.java:740)
+    at com.app.ReportGenerationClass.method16(File.java:847)
+    at com.app.ReportGenerationClass.method17(File.java:530)
+    at com.app.ReportGenerationClass.method18(File.java:593)
+    at com.app.ReportGenerationClass.method19(File.java:875)

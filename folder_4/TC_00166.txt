@@ -1,0 +1,31 @@
+Test Case ID : TC_00166
+Module       : Sort
+Timestamp    : 2026-01-10 08:46:00
+Build Number : 2026
+Status       : FAIL
+
+Failure Reason : ElementNotFound
+Failure Details:
+Q4bC34t2YeL 5A3EwLCpJC6Euk85rL0tou3eIDFOyhW2tVeYm21OzxbtJx0osAGU31qXuiSl507G353D5D1rMO3zLoXYKqofXH2nE1au6iqvaFbJsoSOyZNR9qzpRvAHLtqdgp9dyGnpcREMFRX1RZOlgu4eXPMVltDwH3mD3gq2MJEIpBgpTUcFudcmyvL5WFLXcklVPGwBfbAH16hcXYcjLJvzC7uTgnraQrBAK4hC1koxRuzjUecHwrP35UKogebIvhJxA4FdVHAjkYhlSPCEeF2wzSV2732HlGt06qgn6jCEvIpMI8qG9AIOpupB8PT8hxnIVMD3k6NyQD8Y5YoF86hOZx6ot5yRCd2hSnys0RvGSJD7UPcnliLGlFfIYm3kUE1fnA1iNred
+
+Stack Trace:
+    at com.app.SortClass.method0(File.java:682)
+    at com.app.SortClass.method1(File.java:29)
+    at com.app.SortClass.method2(File.java:835)
+    at com.app.SortClass.method3(File.java:702)
+    at com.app.SortClass.method4(File.java:143)
+    at com.app.SortClass.method5(File.java:171)
+    at com.app.SortClass.method6(File.java:114)
+    at com.app.SortClass.method7(File.java:870)
+    at com.app.SortClass.method8(File.java:762)
+    at com.app.SortClass.method9(File.java:689)
+    at com.app.SortClass.method10(File.java:579)
+    at com.app.SortClass.method11(File.java:687)
+    at com.app.SortClass.method12(File.java:77)
+    at com.app.SortClass.method13(File.java:530)
+    at com.app.SortClass.method14(File.java:390)
+    at com.app.SortClass.method15(File.java:770)
+    at com.app.SortClass.method16(File.java:287)
+    at com.app.SortClass.method17(File.java:33)
+    at com.app.SortClass.method18(File.java:916)
+    at com.app.SortClass.method19(File.java:645)

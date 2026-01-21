@@ -1,0 +1,31 @@
+Test Case ID : TC_00278
+Module       : Sort
+Timestamp    : 2026-01-10 10:38:00
+Build Number : 3797
+Status       : FAIL
+
+Failure Reason : Incorrect Response Code
+Failure Details:
+2IaaI0j4KEHEEd KhV3iQfc0rus9VngPY2V QDGTlUh6QoVXzUrmyexfwJHghEfiRxJXcJuODLteT7HRS7XtMlb9IcrxCJzpqsc1mU9F6UdfpHjNt8kBLpVSksWXncvlYxizXbk8sG2Qv5YbNpYeHxQopxt7Sir7r9Uwqga21SoUDL78tq8WuPBVdMPfCUps7NUZS1BNgBH8Nlh5bVvFRlm1IEstCouPQrDNzxLB7NVuxIhd7ZDQnlckvN3O0azeavTYot 90VqncmYY0FhnEIhA7PJx5DbZ3YH1qHQr7uAyKGurIQO73qbAW0MB7TM8ddC03CIwcEMkZ9sAuWDH94HMvJR0aC Z52X1lo5lNCA5h MHemqRuUCgcjMoE37AIRRz0UL5HKkh6R9K
+
+Stack Trace:
+    at com.app.SortClass.method0(File.java:160)
+    at com.app.SortClass.method1(File.java:84)
+    at com.app.SortClass.method2(File.java:336)
+    at com.app.SortClass.method3(File.java:695)
+    at com.app.SortClass.method4(File.java:36)
+    at com.app.SortClass.method5(File.java:206)
+    at com.app.SortClass.method6(File.java:175)
+    at com.app.SortClass.method7(File.java:587)
+    at com.app.SortClass.method8(File.java:713)
+    at com.app.SortClass.method9(File.java:831)
+    at com.app.SortClass.method10(File.java:901)
+    at com.app.SortClass.method11(File.java:226)
+    at com.app.SortClass.method12(File.java:873)
+    at com.app.SortClass.method13(File.java:46)
+    at com.app.SortClass.method14(File.java:228)
+    at com.app.SortClass.method15(File.java:110)
+    at com.app.SortClass.method16(File.java:120)
+    at com.app.SortClass.method17(File.java:684)
+    at com.app.SortClass.method18(File.java:949)
+    at com.app.SortClass.method19(File.java:624)

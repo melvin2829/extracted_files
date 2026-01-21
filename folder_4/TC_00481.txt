@@ -1,0 +1,31 @@
+Test Case ID : TC_00481
+Module       : File Download
+Timestamp    : 2026-01-10 14:01:00
+Build Number : 3689
+Status       : FAIL
+
+Failure Reason : Data Mismatch
+Failure Details:
+T0Lcn9i1a4s77EMu09NJyLHXqF5mw lfcXVPipaE5LMuaxlMjHIj9UatQ0YlW79LOJltoc 9F5jxAbMGfeZCV9My5ui1UJAx047PANkPc3oTjOIiUOFsx7BIiRGMbYWRB1l0fW3Vf1YCtyVNDT6YhlmmEv 1wFle behS76boEmnStFOm2ppYg6khvWVxsVPEWWfhSR5bSY1y39ovpW5OzvNksx8eQ f97t7uMChOltGEmEgeohmUehpytY ua4bbCk34zUS LbCA8m5Lj jWRz0Nq5Q0yf6Z kLCEfWjRYoTRZ cJFqvqF2d9TBsg2W3VM90L K1GjaPNyO8eQXgDCICTq4IkD37nizjh60e8FP9vvJP3U5aiYB8e8jyQm0egNXPNiyg642I3ck
+
+Stack Trace:
+    at com.app.FileDownloadClass.method0(File.java:553)
+    at com.app.FileDownloadClass.method1(File.java:260)
+    at com.app.FileDownloadClass.method2(File.java:607)
+    at com.app.FileDownloadClass.method3(File.java:159)
+    at com.app.FileDownloadClass.method4(File.java:552)
+    at com.app.FileDownloadClass.method5(File.java:210)
+    at com.app.FileDownloadClass.method6(File.java:150)
+    at com.app.FileDownloadClass.method7(File.java:367)
+    at com.app.FileDownloadClass.method8(File.java:655)
+    at com.app.FileDownloadClass.method9(File.java:382)
+    at com.app.FileDownloadClass.method10(File.java:112)
+    at com.app.FileDownloadClass.method11(File.java:54)
+    at com.app.FileDownloadClass.method12(File.java:15)
+    at com.app.FileDownloadClass.method13(File.java:598)
+    at com.app.FileDownloadClass.method14(File.java:90)
+    at com.app.FileDownloadClass.method15(File.java:949)
+    at com.app.FileDownloadClass.method16(File.java:827)
+    at com.app.FileDownloadClass.method17(File.java:40)
+    at com.app.FileDownloadClass.method18(File.java:733)
+    at com.app.FileDownloadClass.method19(File.java:332)

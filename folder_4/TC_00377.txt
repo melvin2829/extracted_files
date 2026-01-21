@@ -1,0 +1,31 @@
+Test Case ID : TC_00377
+Module       : Search
+Timestamp    : 2026-01-10 12:17:00
+Build Number : 4219
+Status       : FAIL
+
+Failure Reason : API 401 Unauthorized
+Failure Details:
+t zazrAHsgHXDl1cGmJ4OndA3fT6JjuDAUXwVRR4K3QjtMxA27vmnYDeVmWCBqelGY74m4A89tXM8SDHooddKjsJmBUKXftFO3JdiuniygXZ18e9QWuZR7Q7uJDZc qBC2izRXISVpDwNlJG eD7ffz wq2LTskh7q1TaejCdfjekBH k2hsRIWTWTzFY1R4HJNC0n3RBizaAj6px1QcpXuOnd qecb8fwQwDRWXMSEjG99zNXxa8NjW9Q2rILqmKTnactOJDXR0EykqLwo27ZTKOgR1CYbw8tG6fJGCux1QijQB1YWgtwKcCVMK8WoTtKwt cNKx7WW62WmtXj8E3sC6mOyDu4JAZ0vZcbXyLGp3YPWgLaMkuK1Tz6GugN2tZrii hilctXGxZI
+
+Stack Trace:
+    at com.app.SearchClass.method0(File.java:40)
+    at com.app.SearchClass.method1(File.java:978)
+    at com.app.SearchClass.method2(File.java:388)
+    at com.app.SearchClass.method3(File.java:586)
+    at com.app.SearchClass.method4(File.java:575)
+    at com.app.SearchClass.method5(File.java:275)
+    at com.app.SearchClass.method6(File.java:221)
+    at com.app.SearchClass.method7(File.java:977)
+    at com.app.SearchClass.method8(File.java:710)
+    at com.app.SearchClass.method9(File.java:777)
+    at com.app.SearchClass.method10(File.java:709)
+    at com.app.SearchClass.method11(File.java:290)
+    at com.app.SearchClass.method12(File.java:263)
+    at com.app.SearchClass.method13(File.java:124)
+    at com.app.SearchClass.method14(File.java:973)
+    at com.app.SearchClass.method15(File.java:853)
+    at com.app.SearchClass.method16(File.java:869)
+    at com.app.SearchClass.method17(File.java:833)
+    at com.app.SearchClass.method18(File.java:44)
+    at com.app.SearchClass.method19(File.java:472)

@@ -1,0 +1,31 @@
+Test Case ID : TC_00453
+Module       : Email Trigger
+Timestamp    : 2026-01-10 13:33:00
+Build Number : 3393
+Status       : FAIL
+
+Failure Reason : API 500 Internal Server Error
+Failure Details:
+BxAWNKw9j7bLaZEvlu3aERuNdJ2HuBCK5q9XYstuf014RBpzvsdUcOUpX1k18krDqoJbWI3VNmml8 SWqa1VqAdkAtl5KmsX al8aigzMgLlLyOqWLi59XAsy2QyulMl71bjdOawkWMR3wawo 6SbEXzPjwSOuKY4n9ZtLccKjRVoKiEooNTgNKbLrbN9ESu6SO0CkPyK6T3nnoJnegIchGqyljokbgSRN8lA3vgXTHMpn3lMzk ipPVhNyVDldMQ MHr4aFZeQ4MDzWoWhGy0 5RlpMdvWdPRWQBaO4j3wuvr6K4XbzHtFNYQovWCthl9i01aKrYb1z0SBVKpKQgKQpdGOBNnRfKeVwYLr sg3ENXoIY2n3fGjbGbWtChsKBsDyg7g 7fo5Nwl7
+
+Stack Trace:
+    at com.app.EmailTriggerClass.method0(File.java:840)
+    at com.app.EmailTriggerClass.method1(File.java:587)
+    at com.app.EmailTriggerClass.method2(File.java:966)
+    at com.app.EmailTriggerClass.method3(File.java:501)
+    at com.app.EmailTriggerClass.method4(File.java:329)
+    at com.app.EmailTriggerClass.method5(File.java:741)
+    at com.app.EmailTriggerClass.method6(File.java:504)
+    at com.app.EmailTriggerClass.method7(File.java:88)
+    at com.app.EmailTriggerClass.method8(File.java:197)
+    at com.app.EmailTriggerClass.method9(File.java:706)
+    at com.app.EmailTriggerClass.method10(File.java:609)
+    at com.app.EmailTriggerClass.method11(File.java:266)
+    at com.app.EmailTriggerClass.method12(File.java:634)
+    at com.app.EmailTriggerClass.method13(File.java:303)
+    at com.app.EmailTriggerClass.method14(File.java:941)
+    at com.app.EmailTriggerClass.method15(File.java:460)
+    at com.app.EmailTriggerClass.method16(File.java:209)
+    at com.app.EmailTriggerClass.method17(File.java:540)
+    at com.app.EmailTriggerClass.method18(File.java:275)
+    at com.app.EmailTriggerClass.method19(File.java:349)

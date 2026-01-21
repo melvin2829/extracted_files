@@ -1,0 +1,31 @@
+Test Case ID : TC_00497
+Module       : Filter
+Timestamp    : 2026-01-10 14:17:00
+Build Number : 4487
+Status       : FAIL
+
+Failure Reason : API 401 Unauthorized
+Failure Details:
+DkZqNrQgJfoIr1ZGI4LPWI 9z0L6K6vNHfxDj6dC65T5TQ1TBVqd5E5nRflkDIP4qsblLP4qsub8DBjO9i23JmTyZam0mSuigggFQcO4UGx97DdT7RPSK56hENrLfBRwSO6jqodHk2DfFTKMq5F2LFsaeOYetWWbFmoU2iOWJv73EghPPhVUWZCV7fYEOUPde9H8xaMDXZLpo4 DX9KaZtTseTG2Bhs6D0HfHpbdylauJBVGwjF3sS7F0OtaDb4jota PAJ4TSUGBMinpYDVs0CcY2hYjx0Fam2T5n3ldpYVhqss2llU1fIgBRnN8n9UMXE6jpaG8P3DhISng4kvfmk3dUY0Af4CNYfFkfPkDR7KfBkkq 3KLwtQpzTRZYnYTXrHvMFbynZrIqk2
+
+Stack Trace:
+    at com.app.FilterClass.method0(File.java:250)
+    at com.app.FilterClass.method1(File.java:894)
+    at com.app.FilterClass.method2(File.java:964)
+    at com.app.FilterClass.method3(File.java:644)
+    at com.app.FilterClass.method4(File.java:740)
+    at com.app.FilterClass.method5(File.java:298)
+    at com.app.FilterClass.method6(File.java:90)
+    at com.app.FilterClass.method7(File.java:74)
+    at com.app.FilterClass.method8(File.java:600)
+    at com.app.FilterClass.method9(File.java:221)
+    at com.app.FilterClass.method10(File.java:244)
+    at com.app.FilterClass.method11(File.java:345)
+    at com.app.FilterClass.method12(File.java:176)
+    at com.app.FilterClass.method13(File.java:359)
+    at com.app.FilterClass.method14(File.java:829)
+    at com.app.FilterClass.method15(File.java:444)
+    at com.app.FilterClass.method16(File.java:386)
+    at com.app.FilterClass.method17(File.java:756)
+    at com.app.FilterClass.method18(File.java:237)
+    at com.app.FilterClass.method19(File.java:914)

@@ -1,0 +1,31 @@
+Test Case ID : TC_00024
+Module       : Filter
+Timestamp    : 2026-01-10 06:24:00
+Build Number : 1204
+Status       : FAIL
+
+Failure Reason : UI Element Not Clickable
+Failure Details:
+HJJRzmkUDualtZ5QFtpmW1r8zOFRD6iuFjY4I8BKcmgibX3xCm8JwJvPPLceW0E4Q4yEx7bjUrsMrdg511 bYEQfp5Wj2X5H59c39AYVdnGFVn9vjVedONI1NtOdkkTbpLikAimypS9XMlb 1YypD1OxZ4ForNvral5ZmqWQoVNINF6eOKBiUKH0dzyjvn5D9DNBwXu52XJcSxJlWEvcuxKds5AK7A6yui6XcEQf3gmJNqZ1vtLD6rOn2WeQmxGwIRwz3Uk 7qPGFSoPDqR5aXko8AxuMOVR49Ssv1Nibcc4lwh5WjE4CxuiPaRQGpVTi8Hd1WggoWlLF1ScLvVzdzVKRYVNIG0gcfMQNyEpwiXDliuqYSS4dLvt8fckjv5qPGkb9hIY5SenguaZ
+
+Stack Trace:
+    at com.app.FilterClass.method0(File.java:678)
+    at com.app.FilterClass.method1(File.java:630)
+    at com.app.FilterClass.method2(File.java:289)
+    at com.app.FilterClass.method3(File.java:116)
+    at com.app.FilterClass.method4(File.java:84)
+    at com.app.FilterClass.method5(File.java:430)
+    at com.app.FilterClass.method6(File.java:259)
+    at com.app.FilterClass.method7(File.java:159)
+    at com.app.FilterClass.method8(File.java:766)
+    at com.app.FilterClass.method9(File.java:362)
+    at com.app.FilterClass.method10(File.java:197)
+    at com.app.FilterClass.method11(File.java:221)
+    at com.app.FilterClass.method12(File.java:937)
+    at com.app.FilterClass.method13(File.java:396)
+    at com.app.FilterClass.method14(File.java:362)
+    at com.app.FilterClass.method15(File.java:849)
+    at com.app.FilterClass.method16(File.java:406)
+    at com.app.FilterClass.method17(File.java:753)
+    at com.app.FilterClass.method18(File.java:178)
+    at com.app.FilterClass.method19(File.java:172)

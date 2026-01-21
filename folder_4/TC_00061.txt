@@ -1,0 +1,31 @@
+Test Case ID : TC_00061
+Module       : Search
+Timestamp    : 2026-01-10 07:01:00
+Build Number : 2934
+Status       : FAIL
+
+Failure Reason : Database Connection Failed
+Failure Details:
+YcOWDdcgkM ns4v f0J2apJPic3qlhAuhNB7QgeQtIv7Bua7ciPoCBGVk mRhXeo9Z8GYK2xKcad16w7JShOeBR0VfpDmDoIwlZXyLvVKkiYvfVBTG0apMZ6dFwBpGzyap6iIG6F2nSCmkAi77tSsYYNF6Kga9JCa1mxs5NkxBw10AlloN8FY2lLxxr UaGJ3Qxk 8GSMqXqgMgw1cT5kTQBSPkZmrHxqH0VYUeov8ELfsyXrgnFlnY4ZGFTppRkBdCeU2HozTxI4YEIP0XCU8SJHU4 4RzFUW2Jz0 ikRrE2DWJk3rB8RsiEBhadguWoiXOXMWeQE7Y9FVNUFkgBj1pBpTV2eECBzeyq76DW4ByAs00mFuG2vGmkp6N1bBq YiYcXytwfsuUQXJ
+
+Stack Trace:
+    at com.app.SearchClass.method0(File.java:786)
+    at com.app.SearchClass.method1(File.java:232)
+    at com.app.SearchClass.method2(File.java:311)
+    at com.app.SearchClass.method3(File.java:456)
+    at com.app.SearchClass.method4(File.java:478)
+    at com.app.SearchClass.method5(File.java:113)
+    at com.app.SearchClass.method6(File.java:878)
+    at com.app.SearchClass.method7(File.java:973)
+    at com.app.SearchClass.method8(File.java:491)
+    at com.app.SearchClass.method9(File.java:862)
+    at com.app.SearchClass.method10(File.java:312)
+    at com.app.SearchClass.method11(File.java:19)
+    at com.app.SearchClass.method12(File.java:178)
+    at com.app.SearchClass.method13(File.java:598)
+    at com.app.SearchClass.method14(File.java:648)
+    at com.app.SearchClass.method15(File.java:701)
+    at com.app.SearchClass.method16(File.java:711)
+    at com.app.SearchClass.method17(File.java:909)
+    at com.app.SearchClass.method18(File.java:904)
+    at com.app.SearchClass.method19(File.java:617)

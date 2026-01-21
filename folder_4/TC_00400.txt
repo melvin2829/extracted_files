@@ -1,0 +1,31 @@
+Test Case ID : TC_00400
+Module       : Password Reset
+Timestamp    : 2026-01-10 12:40:00
+Build Number : 4709
+Status       : FAIL
+
+Failure Reason : UI Element Not Clickable
+Failure Details:
+s6fMqR8idXKxiiysaFfGRsypbRV2jlrA In8hD702cRlr58dUrvfgfOQqzkGhs7YNbdVd9p2GT2zqkctuTgIaMb91XCXDxfoddH5dlyItBqemDKZ36iidHovIZ4MOhWv1NJ9H0JOG9evn4x5NIx8lXI0RDH5Etx5jT4SHAH5yJDIBHLLWV8s6AWuPE1nObCvyBYP2WpTPITdio9BKgGzM4bmzxLiT x8TuRoSw6ICM7ZarxMa5gpxlVM1zsshfplRJQYvJig6LnjVxReZv4JiB8G5RrnpazT3wx08mUURdodT GImW9am4CD9w1MKEjxKNVIYUdVDOoPxemiHBrrlV77vn7UK9PVR65F n9U15N8OctV7xN6eU7uFnlrhntyAk4Gd0ZshKolVdQ1
+
+Stack Trace:
+    at com.app.PasswordResetClass.method0(File.java:331)
+    at com.app.PasswordResetClass.method1(File.java:39)
+    at com.app.PasswordResetClass.method2(File.java:215)
+    at com.app.PasswordResetClass.method3(File.java:31)
+    at com.app.PasswordResetClass.method4(File.java:156)
+    at com.app.PasswordResetClass.method5(File.java:215)
+    at com.app.PasswordResetClass.method6(File.java:601)
+    at com.app.PasswordResetClass.method7(File.java:397)
+    at com.app.PasswordResetClass.method8(File.java:303)
+    at com.app.PasswordResetClass.method9(File.java:699)
+    at com.app.PasswordResetClass.method10(File.java:997)
+    at com.app.PasswordResetClass.method11(File.java:519)
+    at com.app.PasswordResetClass.method12(File.java:901)
+    at com.app.PasswordResetClass.method13(File.java:67)
+    at com.app.PasswordResetClass.method14(File.java:165)
+    at com.app.PasswordResetClass.method15(File.java:998)
+    at com.app.PasswordResetClass.method16(File.java:120)
+    at com.app.PasswordResetClass.method17(File.java:871)
+    at com.app.PasswordResetClass.method18(File.java:426)
+    at com.app.PasswordResetClass.method19(File.java:434)

@@ -1,0 +1,8 @@
+Test Case ID : TC_00152
+Module       : Logout
+Timestamp    : 2026-01-10 08:32:00
+Build Number : 1722
+Status       : PASS
+
+Execution Log:
+3T8As2HQQdBX3vDpq17eqHn 40BUMGynezl1iiJLd9CinUNNN8Kdyh7LR xR57tKpd88KNutYckFatgoSWs0kjmSrH LZt6TOskqGlN9fIKnwn4hPTvgEDAP5A4trlRarIQEpsJGj023mL1EYPyoORFKl7EOPNQPQa9GfPRVxaZlMH0EN1q6gBaGIQWHGIs44IxfnlV1

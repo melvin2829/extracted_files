@@ -1,0 +1,31 @@
+Test Case ID : TC_00238
+Module       : Email Trigger
+Timestamp    : 2026-01-10 09:58:00
+Build Number : 2252
+Status       : FAIL
+
+Failure Reason : Data Mismatch
+Failure Details:
+ kZ9Tj2Lrtgz8qTyovx1qUMGg98AewjWFaX8CTkwL8UBRSS6m3TcyqWZWbcIwififXbslqNWE3iy2vzHfyGmSVt8ySfvpsUUaneV9dgx0WQC1y6wWuOk7fb9 EwmTgswd36Ans70ikcCw0vq6aQ6fjUVmLqHZg KpdofGpBPfh3AIDDH9Kg2FCtQ7IGtycAqROXTsxmwMgYq55DAKORj6mJpIgjeysWGefRAulUMg70Nz8HNsfJ9EZwoJBx3MhbZj2Nz9fCNAHWT0k2p8ggUxbS4GPdGfekYmgPGzwSuVVCM1aQKTEzhyhcJmbsUQ0Z8qQFOQoe3SWslQNPy5V73p1KUinY4UobAB2AT8xMCpPUWzJtgHJ4f7pW46vxS8Ez4pwbz5p131NFh5mNk
+
+Stack Trace:
+    at com.app.EmailTriggerClass.method0(File.java:573)
+    at com.app.EmailTriggerClass.method1(File.java:901)
+    at com.app.EmailTriggerClass.method2(File.java:231)
+    at com.app.EmailTriggerClass.method3(File.java:897)
+    at com.app.EmailTriggerClass.method4(File.java:651)
+    at com.app.EmailTriggerClass.method5(File.java:879)
+    at com.app.EmailTriggerClass.method6(File.java:421)
+    at com.app.EmailTriggerClass.method7(File.java:478)
+    at com.app.EmailTriggerClass.method8(File.java:706)
+    at com.app.EmailTriggerClass.method9(File.java:221)
+    at com.app.EmailTriggerClass.method10(File.java:51)
+    at com.app.EmailTriggerClass.method11(File.java:104)
+    at com.app.EmailTriggerClass.method12(File.java:95)
+    at com.app.EmailTriggerClass.method13(File.java:239)
+    at com.app.EmailTriggerClass.method14(File.java:524)
+    at com.app.EmailTriggerClass.method15(File.java:762)
+    at com.app.EmailTriggerClass.method16(File.java:240)
+    at com.app.EmailTriggerClass.method17(File.java:628)
+    at com.app.EmailTriggerClass.method18(File.java:983)
+    at com.app.EmailTriggerClass.method19(File.java:558)

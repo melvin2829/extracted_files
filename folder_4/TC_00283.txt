@@ -1,0 +1,31 @@
+Test Case ID : TC_00283
+Module       : Third-party Integration
+Timestamp    : 2026-01-10 10:43:00
+Build Number : 2931
+Status       : FAIL
+
+Failure Reason : AssertionError
+Failure Details:
+6hgRmxkZ3us1yYvFKSyLznyVEpnEzZkUBRpq wbY6SBawdamTcwJv7qcGicrinikxdOsbkC6XBMmYj9Txmmy15BPqMNasthxI4YywrXnLT FVEtil6eFX0NVH9TLOwxipIZYfNQ7ltfC6LaHfN F9O2vLa1si6ViImWhFoS7nrykX OfrmmCgqAlVyvFyUzTEpPjcycv4Q2 CnG nmihWbu7xidwF8zQsewwAvjNcL37VHWByb89c2JxEEroWh3gzLDqJMmm8EQjqKOjboJ4Wu64t8wxbwgUeEapBT7 Gt5mKbj 28HOOr7wa72MYXjxsKblP6VGBWKjm4mWhoxIMaNxIBTof4eu1WSXBLQs1C0iii7B9fkroxviVagOQPcKZVXiE6h91ujTQf5G
+
+Stack Trace:
+    at com.app.Third-partyIntegrationClass.method0(File.java:623)
+    at com.app.Third-partyIntegrationClass.method1(File.java:10)
+    at com.app.Third-partyIntegrationClass.method2(File.java:247)
+    at com.app.Third-partyIntegrationClass.method3(File.java:777)
+    at com.app.Third-partyIntegrationClass.method4(File.java:606)
+    at com.app.Third-partyIntegrationClass.method5(File.java:321)
+    at com.app.Third-partyIntegrationClass.method6(File.java:780)
+    at com.app.Third-partyIntegrationClass.method7(File.java:105)
+    at com.app.Third-partyIntegrationClass.method8(File.java:532)
+    at com.app.Third-partyIntegrationClass.method9(File.java:958)
+    at com.app.Third-partyIntegrationClass.method10(File.java:920)
+    at com.app.Third-partyIntegrationClass.method11(File.java:125)
+    at com.app.Third-partyIntegrationClass.method12(File.java:740)
+    at com.app.Third-partyIntegrationClass.method13(File.java:382)
+    at com.app.Third-partyIntegrationClass.method14(File.java:841)
+    at com.app.Third-partyIntegrationClass.method15(File.java:354)
+    at com.app.Third-partyIntegrationClass.method16(File.java:13)
+    at com.app.Third-partyIntegrationClass.method17(File.java:62)
+    at com.app.Third-partyIntegrationClass.method18(File.java:528)
+    at com.app.Third-partyIntegrationClass.method19(File.java:199)

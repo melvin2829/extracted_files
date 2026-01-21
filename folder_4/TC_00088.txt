@@ -1,0 +1,31 @@
+Test Case ID : TC_00088
+Module       : Login
+Timestamp    : 2026-01-10 07:28:00
+Build Number : 1639
+Status       : FAIL
+
+Failure Reason : Incorrect Response Code
+Failure Details:
+mZoS1UPwaDRPLIZVAyYG7mlklXFg5YVPxSLhiIcDK4dDnX3c5X4qIFiMObwYPYFrdmvnwQIbczSeecpGazAZ3qHFLpytO4ooQ0booK5bP67OMiP8W3CsLOkRSQ3kbOMaN3WxhB Te3sL7PlX8VoZmiAqy7mEGlsWoOYFM1u5ZlabS2PAVZ2w0zV9g5JfrIvaqAvH VIlUSf0kHfsCxsPA9IFIYdgUFEemP3oyAq4xwBASRXtmdNxD43cO1zwN17PIq0FY6LcRiOCMEIj6SVKb9xPNaVxXGA65KN0yZRot4FVQCDsouKdbsjGOw58oT mMp0fPaX9JlcB8yk6eQ0CQd Wl2v1DFTEbK2cfWLLEvptrjyj5Y7LVt7ytKx2Yo04C5KPLOFUZRg2Krfs
+
+Stack Trace:
+    at com.app.LoginClass.method0(File.java:719)
+    at com.app.LoginClass.method1(File.java:585)
+    at com.app.LoginClass.method2(File.java:745)
+    at com.app.LoginClass.method3(File.java:288)
+    at com.app.LoginClass.method4(File.java:494)
+    at com.app.LoginClass.method5(File.java:892)
+    at com.app.LoginClass.method6(File.java:138)
+    at com.app.LoginClass.method7(File.java:819)
+    at com.app.LoginClass.method8(File.java:746)
+    at com.app.LoginClass.method9(File.java:67)
+    at com.app.LoginClass.method10(File.java:124)
+    at com.app.LoginClass.method11(File.java:831)
+    at com.app.LoginClass.method12(File.java:953)
+    at com.app.LoginClass.method13(File.java:110)
+    at com.app.LoginClass.method14(File.java:28)
+    at com.app.LoginClass.method15(File.java:418)
+    at com.app.LoginClass.method16(File.java:779)
+    at com.app.LoginClass.method17(File.java:807)
+    at com.app.LoginClass.method18(File.java:477)
+    at com.app.LoginClass.method19(File.java:378)

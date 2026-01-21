@@ -1,0 +1,31 @@
+Test Case ID : TC_00123
+Module       : Email Trigger
+Timestamp    : 2026-01-10 08:03:00
+Build Number : 4576
+Status       : FAIL
+
+Failure Reason : ElementNotFound
+Failure Details:
+GmYqcPiKyhLdTOCr8Y1f8 4EHAC92OHNhClVUeNpRg63bCu9jrXbVWNHgHxkc4wpMAHesiS0EQ1oL8opXTnEAU0QidAf3txyL3GkJ1gP5aYHteV tG06CE4cdBsUV1dn3FWxx kBj6sRDKwATVU68L 0TQvG6dJZR HmO2mv9iQQ7ngXmfGj40KfGGIMWpRYQBGxkF4wf3Upl7h0 LIWexi0 7PPhALCbRdGUXNFB9taGzMpGUTLI0JZEqPeOhhHPWUA CvGYPPRRJhXYBeUK7d9MCczgkM2Q0aI0ZA6Hl5zTzh3yVjAFLxTc4tHqrNlARDMQNW6hE5kyKQ3zjr7f0qTHoisx28hfRBOso3HwAaJbFfkrOknql0odJ7wkcghwMUIoYhd1keFRxbl
+
+Stack Trace:
+    at com.app.EmailTriggerClass.method0(File.java:735)
+    at com.app.EmailTriggerClass.method1(File.java:133)
+    at com.app.EmailTriggerClass.method2(File.java:814)
+    at com.app.EmailTriggerClass.method3(File.java:853)
+    at com.app.EmailTriggerClass.method4(File.java:934)
+    at com.app.EmailTriggerClass.method5(File.java:524)
+    at com.app.EmailTriggerClass.method6(File.java:358)
+    at com.app.EmailTriggerClass.method7(File.java:919)
+    at com.app.EmailTriggerClass.method8(File.java:744)
+    at com.app.EmailTriggerClass.method9(File.java:455)
+    at com.app.EmailTriggerClass.method10(File.java:555)
+    at com.app.EmailTriggerClass.method11(File.java:938)
+    at com.app.EmailTriggerClass.method12(File.java:341)
+    at com.app.EmailTriggerClass.method13(File.java:91)
+    at com.app.EmailTriggerClass.method14(File.java:942)
+    at com.app.EmailTriggerClass.method15(File.java:70)
+    at com.app.EmailTriggerClass.method16(File.java:545)
+    at com.app.EmailTriggerClass.method17(File.java:401)
+    at com.app.EmailTriggerClass.method18(File.java:831)
+    at com.app.EmailTriggerClass.method19(File.java:827)

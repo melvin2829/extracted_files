@@ -1,0 +1,31 @@
+Test Case ID : TC_00117
+Module       : Access Control
+Timestamp    : 2026-01-10 07:57:00
+Build Number : 4882
+Status       : FAIL
+
+Failure Reason : UI Element Not Clickable
+Failure Details:
+5UTpjA0uER6Hyz6w7UFQhq0rp3jMb s7AENzs8ComaUmy8 QnGhmgR Ut33rnE0kj74jmoD9MzWq8mFLREgLvw9eEn0QisJ7Qrgr8g3icBGDyDmlHWgOelSVkFElYh76riYsJOXbQZbN2n5VToUX2T2U8jHRNO4Vcqc68L7AZWJthDzNkqe7LFlgz5zafkPOPwm4jz8HOLGLKuX75WbCAS YhCADlYs FtGmdnCVF4GcM9ZSVesRAjUZSiV8cTT4htq6tkIbhS 39mmJVU2vHITklMkNjm6ggQ4kQXC2 S7UbXSdjOEuGbfXDfrE3qyZIReTrQ2OkYye4z2JP6EIFMqIF02dsDNqi96oOjpYbAZkL 1sgBsJtGvClstHLak0Hl4IMBQBoVcf6QAA
+
+Stack Trace:
+    at com.app.AccessControlClass.method0(File.java:740)
+    at com.app.AccessControlClass.method1(File.java:702)
+    at com.app.AccessControlClass.method2(File.java:388)
+    at com.app.AccessControlClass.method3(File.java:791)
+    at com.app.AccessControlClass.method4(File.java:288)
+    at com.app.AccessControlClass.method5(File.java:218)
+    at com.app.AccessControlClass.method6(File.java:713)
+    at com.app.AccessControlClass.method7(File.java:620)
+    at com.app.AccessControlClass.method8(File.java:173)
+    at com.app.AccessControlClass.method9(File.java:610)
+    at com.app.AccessControlClass.method10(File.java:32)
+    at com.app.AccessControlClass.method11(File.java:346)
+    at com.app.AccessControlClass.method12(File.java:609)
+    at com.app.AccessControlClass.method13(File.java:626)
+    at com.app.AccessControlClass.method14(File.java:799)
+    at com.app.AccessControlClass.method15(File.java:711)
+    at com.app.AccessControlClass.method16(File.java:758)
+    at com.app.AccessControlClass.method17(File.java:38)
+    at com.app.AccessControlClass.method18(File.java:408)
+    at com.app.AccessControlClass.method19(File.java:669)

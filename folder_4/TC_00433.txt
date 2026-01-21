@@ -1,0 +1,31 @@
+Test Case ID : TC_00433
+Module       : Settings
+Timestamp    : 2026-01-10 13:13:00
+Build Number : 1168
+Status       : FAIL
+
+Failure Reason : ElementNotFound
+Failure Details:
+oTDODOJQkWJzONN5a7 UzIR4e23qj2jhzxUGTG2b09Pf8RIOfcUsySPmSWN4Go40SzyhXfYOr56V5kCk2wbfyPqUaxv43GMdaaw1vhfqi2A8ZGDEAX1VGIbjcvkGUSayPtW1fiXEEsE4dmxpkYYnFM8dPg1hUNq9W5gkcZDcIJiWIsmsVliLvdVPRzMEezRY0Inlr ajC7uROiK6eCkBZUtiaO0icCPM0WYtImTFBZ3of0DKeJJFcdvORNPB0IEUE11AjfA1p o6pXQ4R29ECUkcraSIVFfHUlubU5sKlJ99ffFPaD2uDkzGVN1slPg8KHxrRYc9xY98SJL3WUEj fQFIG2h64nfd0BwXLpJopd7bqR3scsT5cjldvIyQpzfSHN0vsBPr9GUHsXW
+
+Stack Trace:
+    at com.app.SettingsClass.method0(File.java:322)
+    at com.app.SettingsClass.method1(File.java:690)
+    at com.app.SettingsClass.method2(File.java:172)
+    at com.app.SettingsClass.method3(File.java:386)
+    at com.app.SettingsClass.method4(File.java:62)
+    at com.app.SettingsClass.method5(File.java:367)
+    at com.app.SettingsClass.method6(File.java:566)
+    at com.app.SettingsClass.method7(File.java:137)
+    at com.app.SettingsClass.method8(File.java:88)
+    at com.app.SettingsClass.method9(File.java:480)
+    at com.app.SettingsClass.method10(File.java:910)
+    at com.app.SettingsClass.method11(File.java:22)
+    at com.app.SettingsClass.method12(File.java:874)
+    at com.app.SettingsClass.method13(File.java:377)
+    at com.app.SettingsClass.method14(File.java:328)
+    at com.app.SettingsClass.method15(File.java:559)
+    at com.app.SettingsClass.method16(File.java:872)
+    at com.app.SettingsClass.method17(File.java:871)
+    at com.app.SettingsClass.method18(File.java:490)
+    at com.app.SettingsClass.method19(File.java:667)

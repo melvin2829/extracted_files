@@ -1,0 +1,31 @@
+Test Case ID : TC_00337
+Module       : Password Reset
+Timestamp    : 2026-01-10 11:37:00
+Build Number : 2483
+Status       : FAIL
+
+Failure Reason : Database Connection Failed
+Failure Details:
+kpXmB HsWrkMR6pnZfSkhxAq7200sUZjut5KrJ64DryJtWWYrnjvPx11vdJVLZJR3jgzZxOZZsXKrL5fwzUCDgPonCAjYpj3SVzO0zljfVsGAdDiUP 3Si8pBHmfLiXAOigg194OCI9vkrTiLxwndgYHCLFPBnvrTXHlMB4Yzo9SXzU3njCgQ6NZvxqzQ0vMr5P1FchjZpLiYtfxnTlvGVuU0rVFQOb47tLgN1AclKk1U92r9COoCCVhLiIq5BdCQ5US XBCs7DhnwigmlsHYWI1FlCfp4ikvIClt01EHKfZ8yMxin8Do0bO0om4MeV6 1INF5AbAT4JexhYm62EXgHlV9uA zXtyYC7x pNxuSLWiVnqK1z0b7KfzvAJYu1lbudOC906QcDGDmP
+
+Stack Trace:
+    at com.app.PasswordResetClass.method0(File.java:305)
+    at com.app.PasswordResetClass.method1(File.java:461)
+    at com.app.PasswordResetClass.method2(File.java:594)
+    at com.app.PasswordResetClass.method3(File.java:487)
+    at com.app.PasswordResetClass.method4(File.java:218)
+    at com.app.PasswordResetClass.method5(File.java:372)
+    at com.app.PasswordResetClass.method6(File.java:60)
+    at com.app.PasswordResetClass.method7(File.java:726)
+    at com.app.PasswordResetClass.method8(File.java:304)
+    at com.app.PasswordResetClass.method9(File.java:541)
+    at com.app.PasswordResetClass.method10(File.java:483)
+    at com.app.PasswordResetClass.method11(File.java:796)
+    at com.app.PasswordResetClass.method12(File.java:257)
+    at com.app.PasswordResetClass.method13(File.java:72)
+    at com.app.PasswordResetClass.method14(File.java:545)
+    at com.app.PasswordResetClass.method15(File.java:986)
+    at com.app.PasswordResetClass.method16(File.java:554)
+    at com.app.PasswordResetClass.method17(File.java:919)
+    at com.app.PasswordResetClass.method18(File.java:465)
+    at com.app.PasswordResetClass.method19(File.java:843)

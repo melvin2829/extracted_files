@@ -1,0 +1,31 @@
+Test Case ID : TC_00116
+Module       : User Registration
+Timestamp    : 2026-01-10 07:56:00
+Build Number : 3391
+Status       : FAIL
+
+Failure Reason : Data Mismatch
+Failure Details:
+6oWDRpDf0T4KW 2KmxevYU0vxb7OAHzfqGKptFiXo7b8ttHaOD1mKnXSYFn1SOBAdoiG 7IC6KIyclmEOjhSDlyKHUu99SJc7KjRo0KXxvTCP6URkClmwA5hj0LJPTR8RQG7750jY6P5tjbgKmCGm7mYdLFfiUabuYqN3ziwNNjxh3O09QILIq7qHjjNhTimyrXxL58Q7nIfowZHAq5EOqF5RaMV1y5 8OlgoFIeiAk0GzNvWbyPHHlztqbtYpVINRndjDa5lGIBF1fLzmJaFD7YpJ1JUX2HC2CkKOwdfdS0wzQVNs32o cPBm8PgaYdTyxKYzYS0OUC9v9j7B6Cwxnd1cLUoR1sTUC5qeIJR6pLI7baG q4baaF3qPcPHwa9mRLOVFTQALzV6Bu
+
+Stack Trace:
+    at com.app.UserRegistrationClass.method0(File.java:600)
+    at com.app.UserRegistrationClass.method1(File.java:824)
+    at com.app.UserRegistrationClass.method2(File.java:698)
+    at com.app.UserRegistrationClass.method3(File.java:418)
+    at com.app.UserRegistrationClass.method4(File.java:31)
+    at com.app.UserRegistrationClass.method5(File.java:782)
+    at com.app.UserRegistrationClass.method6(File.java:603)
+    at com.app.UserRegistrationClass.method7(File.java:425)
+    at com.app.UserRegistrationClass.method8(File.java:629)
+    at com.app.UserRegistrationClass.method9(File.java:354)
+    at com.app.UserRegistrationClass.method10(File.java:580)
+    at com.app.UserRegistrationClass.method11(File.java:701)
+    at com.app.UserRegistrationClass.method12(File.java:645)
+    at com.app.UserRegistrationClass.method13(File.java:117)
+    at com.app.UserRegistrationClass.method14(File.java:429)
+    at com.app.UserRegistrationClass.method15(File.java:172)
+    at com.app.UserRegistrationClass.method16(File.java:825)
+    at com.app.UserRegistrationClass.method17(File.java:955)
+    at com.app.UserRegistrationClass.method18(File.java:833)
+    at com.app.UserRegistrationClass.method19(File.java:77)

@@ -1,0 +1,31 @@
+Test Case ID : TC_00461
+Module       : User Registration
+Timestamp    : 2026-01-10 13:41:00
+Build Number : 2422
+Status       : FAIL
+
+Failure Reason : API 500 Internal Server Error
+Failure Details:
+TJepVhxdaOws KUau82wZlWJOznwKkMoKcBqRHME9qZWxiOv4DRpfZ3lHuVmT8IkoslHIHkbtKKs8MFySnPHpnxVzFsniktJdBCx7sEr6DR 1RhrrQfJYyV9mxtIuepZHU5gTwKyFKv5nSSsk3KqQ uduDpRLTZDFGzXIKSCp7fM9jef dUR3Pq51X2PltskO3u5npm2fWtCKvfYxcrZzql21DJChBCppMQajyIu3tH6H6 CwJfZxXN6gMBjixPoWtrZ1vs66QbUC3k4td5jlTybc5muyrWQKIByTVmtJmNf2nOw9TIW3PZnXGp29u6afWHp 5HhgKehwDwCCs5iFLFBOLNWSr7SppteczqBAN4wAU9cZOclIqVES8D5rBnDiSRbxiMmWpVPdpjQ
+
+Stack Trace:
+    at com.app.UserRegistrationClass.method0(File.java:241)
+    at com.app.UserRegistrationClass.method1(File.java:395)
+    at com.app.UserRegistrationClass.method2(File.java:500)
+    at com.app.UserRegistrationClass.method3(File.java:931)
+    at com.app.UserRegistrationClass.method4(File.java:440)
+    at com.app.UserRegistrationClass.method5(File.java:246)
+    at com.app.UserRegistrationClass.method6(File.java:724)
+    at com.app.UserRegistrationClass.method7(File.java:709)
+    at com.app.UserRegistrationClass.method8(File.java:918)
+    at com.app.UserRegistrationClass.method9(File.java:598)
+    at com.app.UserRegistrationClass.method10(File.java:573)
+    at com.app.UserRegistrationClass.method11(File.java:561)
+    at com.app.UserRegistrationClass.method12(File.java:454)
+    at com.app.UserRegistrationClass.method13(File.java:515)
+    at com.app.UserRegistrationClass.method14(File.java:707)
+    at com.app.UserRegistrationClass.method15(File.java:860)
+    at com.app.UserRegistrationClass.method16(File.java:914)
+    at com.app.UserRegistrationClass.method17(File.java:399)
+    at com.app.UserRegistrationClass.method18(File.java:487)
+    at com.app.UserRegistrationClass.method19(File.java:514)

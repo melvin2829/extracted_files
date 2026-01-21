@@ -1,0 +1,31 @@
+Test Case ID : TC_00406
+Module       : File Upload
+Timestamp    : 2026-01-10 12:46:00
+Build Number : 4667
+Status       : FAIL
+
+Failure Reason : API 401 Unauthorized
+Failure Details:
+lB1LXAbXMnwsYPngmGfPXvlEpm1dxzzxNmXKC2pRrYWtpBRBSGexoSqTvpe9bPrjxHWU9EKkO0jjtNDtKS3DdLmolxh91aXpK9A4ayxCMN5h8xS9SrBOUCRLeVGqFBLHsFV9vkvNbo 1VsR9wjcnaPww0x1H0kbroc0HPfMSEr91sS OtB10w8S0IRCCprlKSXAnRcdi3hd0Vqu4fsUCbFNa7KBRI3BwKXmbEzi5kA7umy5Or3dZUWRJHml5mzoVWTXADIDNXi2PBT5 Lln6HPOToYVQHBSfobMSmvDIQ8GLUWSrB2sWRpP8hQnJDkrrwVxzArAsOdCNoQfL38B6jhJLS5r42cYv925Zwfl0qgIfPBouS711TCTro5Zl 2MvodiFWYTfp7qQR39g
+
+Stack Trace:
+    at com.app.FileUploadClass.method0(File.java:598)
+    at com.app.FileUploadClass.method1(File.java:935)
+    at com.app.FileUploadClass.method2(File.java:394)
+    at com.app.FileUploadClass.method3(File.java:647)
+    at com.app.FileUploadClass.method4(File.java:56)
+    at com.app.FileUploadClass.method5(File.java:325)
+    at com.app.FileUploadClass.method6(File.java:539)
+    at com.app.FileUploadClass.method7(File.java:112)
+    at com.app.FileUploadClass.method8(File.java:333)
+    at com.app.FileUploadClass.method9(File.java:576)
+    at com.app.FileUploadClass.method10(File.java:632)
+    at com.app.FileUploadClass.method11(File.java:984)
+    at com.app.FileUploadClass.method12(File.java:99)
+    at com.app.FileUploadClass.method13(File.java:479)
+    at com.app.FileUploadClass.method14(File.java:32)
+    at com.app.FileUploadClass.method15(File.java:288)
+    at com.app.FileUploadClass.method16(File.java:218)
+    at com.app.FileUploadClass.method17(File.java:286)
+    at com.app.FileUploadClass.method18(File.java:85)
+    at com.app.FileUploadClass.method19(File.java:578)

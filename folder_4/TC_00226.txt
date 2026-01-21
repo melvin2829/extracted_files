@@ -1,0 +1,31 @@
+Test Case ID : TC_00226
+Module       : Database Validation
+Timestamp    : 2026-01-10 09:46:00
+Build Number : 4749
+Status       : FAIL
+
+Failure Reason : ElementNotFound
+Failure Details:
+fBdIVycd1rgJlU36kmWQFE90yyNIlVMlJXAsZI3ExrrwHERwJ92e1C3E0IIvokSrvuhKfOrIgAwkHMbY9TdhrjlxnPilZKuuvOTv0 Kc0UfNgVPKB03nk2gxvwJxpnr8upmsoR3uoywMLPcDQdYUlzS AVU r0VfbZH2Lhyp 7IbqTRuBR0OrDg13rKZgXjViyc6Q5TRND  yy4NerYBP9kNnGTWv6GKSn1GR6HW2dvilTQb6ShPzj4aJobBFdDpStjmeROEgxZNMlKGvwAlyRbVIWviLbZDcTSI3twi3Bpl2hK3U9U1ZP2CNYYWYiB3e6aOVOlh1XNLQf4i61qXGCEbH5ewGjZco6c77V7xJ5yc3pwxUcP2tfppIljWI8CPWgmdyYfPPbulZVfk
+
+Stack Trace:
+    at com.app.DatabaseValidationClass.method0(File.java:643)
+    at com.app.DatabaseValidationClass.method1(File.java:54)
+    at com.app.DatabaseValidationClass.method2(File.java:965)
+    at com.app.DatabaseValidationClass.method3(File.java:299)
+    at com.app.DatabaseValidationClass.method4(File.java:124)
+    at com.app.DatabaseValidationClass.method5(File.java:530)
+    at com.app.DatabaseValidationClass.method6(File.java:411)
+    at com.app.DatabaseValidationClass.method7(File.java:447)
+    at com.app.DatabaseValidationClass.method8(File.java:824)
+    at com.app.DatabaseValidationClass.method9(File.java:662)
+    at com.app.DatabaseValidationClass.method10(File.java:593)
+    at com.app.DatabaseValidationClass.method11(File.java:743)
+    at com.app.DatabaseValidationClass.method12(File.java:681)
+    at com.app.DatabaseValidationClass.method13(File.java:97)
+    at com.app.DatabaseValidationClass.method14(File.java:264)
+    at com.app.DatabaseValidationClass.method15(File.java:377)
+    at com.app.DatabaseValidationClass.method16(File.java:205)
+    at com.app.DatabaseValidationClass.method17(File.java:966)
+    at com.app.DatabaseValidationClass.method18(File.java:598)
+    at com.app.DatabaseValidationClass.method19(File.java:637)

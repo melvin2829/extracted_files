@@ -1,0 +1,31 @@
+Test Case ID : TC_00321
+Module       : Settings
+Timestamp    : 2026-01-10 11:21:00
+Build Number : 3332
+Status       : FAIL
+
+Failure Reason : UI Element Not Clickable
+Failure Details:
+nBhEBCBLE3Holbvldx310rHMt1J9WKJy4OtkOc1008el0FK7LoYDbbHdkz3r gxCCwStIv0aBKQtX9yU0hVdcAxmpILm3fsDTsqwYUR0QCodHs5yyXRx6 j4Ut n92uHYZduxdsHbAhy9KR7MKNLxEQSpneHqvm5IcW3xvckwDTcgSAFCuvxHIMJNsSuKb4WjgnTSuUlXZqPZ9h1YFoT9YrUbzHIVVShhEWjLvRY221ieAL10XSAcy3ml0FLeqy 7mgriaSA7i33bOzjaQ5I4xULyJmK2uhOLONy1691gzBEQTHvfo0d9Xt8yQX425DlnYhcw9CnoCzuEy7 dtBTy8 CyOBymMHKkcW3alWS4L573 gjBvovHAvyXgYTkUnpmb LAeK0rV35tn2U
+
+Stack Trace:
+    at com.app.SettingsClass.method0(File.java:923)
+    at com.app.SettingsClass.method1(File.java:399)
+    at com.app.SettingsClass.method2(File.java:51)
+    at com.app.SettingsClass.method3(File.java:650)
+    at com.app.SettingsClass.method4(File.java:733)
+    at com.app.SettingsClass.method5(File.java:850)
+    at com.app.SettingsClass.method6(File.java:840)
+    at com.app.SettingsClass.method7(File.java:414)
+    at com.app.SettingsClass.method8(File.java:582)
+    at com.app.SettingsClass.method9(File.java:314)
+    at com.app.SettingsClass.method10(File.java:439)
+    at com.app.SettingsClass.method11(File.java:24)
+    at com.app.SettingsClass.method12(File.java:972)
+    at com.app.SettingsClass.method13(File.java:190)
+    at com.app.SettingsClass.method14(File.java:475)
+    at com.app.SettingsClass.method15(File.java:556)
+    at com.app.SettingsClass.method16(File.java:52)
+    at com.app.SettingsClass.method17(File.java:389)
+    at com.app.SettingsClass.method18(File.java:784)
+    at com.app.SettingsClass.method19(File.java:803)

@@ -1,0 +1,31 @@
+Test Case ID : TC_00313
+Module       : Settings
+Timestamp    : 2026-01-10 11:13:00
+Build Number : 4149
+Status       : FAIL
+
+Failure Reason : NullPointerException
+Failure Details:
+CSmymiOvt2ypd6ZhMblhcCbED4ukRkQWt5oy5UG6RA 8NCdpjJ9wl 1BI8IWTEzCrPAQLhA75QHYcJ6vOi2nCZ9C8VcS AzLk9dHzRqp9FtHU9RxsuQnpxFNuvnMlR1EbKOPMf1RcEVRNzuySvgxjqbfcITF kvdostwqaB7KnfYbdqWjqFaOUjF7v4 0PrydgSq5hQOFXzz6oRLxnpdUWXzZZmxKK9Iq4MYcJDiDorMdk78Juqq9q8z0xZjcNxemH2tS3AG20s6Q5kK6 OwIHguKmoWRNLk14xb1RwDOz3 6xz4KwfqJqQRwYesCExlsLWRuo3TnwYXaqY3D8Z3CgCFofhm5t4BUwpI2TZ23ZcaHktYaHiXsAdKOt529InRzBrIoRK9YEq6lFTk
+
+Stack Trace:
+    at com.app.SettingsClass.method0(File.java:423)
+    at com.app.SettingsClass.method1(File.java:485)
+    at com.app.SettingsClass.method2(File.java:97)
+    at com.app.SettingsClass.method3(File.java:533)
+    at com.app.SettingsClass.method4(File.java:658)
+    at com.app.SettingsClass.method5(File.java:893)
+    at com.app.SettingsClass.method6(File.java:706)
+    at com.app.SettingsClass.method7(File.java:426)
+    at com.app.SettingsClass.method8(File.java:774)
+    at com.app.SettingsClass.method9(File.java:484)
+    at com.app.SettingsClass.method10(File.java:772)
+    at com.app.SettingsClass.method11(File.java:624)
+    at com.app.SettingsClass.method12(File.java:874)
+    at com.app.SettingsClass.method13(File.java:525)
+    at com.app.SettingsClass.method14(File.java:979)
+    at com.app.SettingsClass.method15(File.java:801)
+    at com.app.SettingsClass.method16(File.java:358)
+    at com.app.SettingsClass.method17(File.java:876)
+    at com.app.SettingsClass.method18(File.java:308)
+    at com.app.SettingsClass.method19(File.java:933)

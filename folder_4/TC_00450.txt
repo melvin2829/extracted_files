@@ -1,0 +1,31 @@
+Test Case ID : TC_00450
+Module       : Search
+Timestamp    : 2026-01-10 13:30:00
+Build Number : 1212
+Status       : FAIL
+
+Failure Reason : AssertionError
+Failure Details:
+IsPs3fr1iy3sbccMpev1DP77MuAOMjSQGRzQdVZDyg3gv3Ss8MJC3PT5xvbo7WbBGd9n6MdyQWt0clHzznsO4FKIEJ79XQ0wuwkJ9Xa bvQiG6siOB98FGvy dNC9qFSVqcatWJ824PxWXy Fmd5i9Ny8QFujGTlxU0auSxfrnUxAHwiTJzYeKOJyIHAFRkmfKg1kQQqtbjpprhasPpqLcTVeqtJUYdeWO3xRSMws85svviuOQIQqPqSWba9fkCX6artZLBx02TVwp16CDUj7h25B Nvi6BrhlHq4FcmVcx6SfLb qRLPOyqfBEiYGcqa9KkkBENNS6bQ4t3qBsWdS7Lk7QUu3E6278OCZDC0Tky9WjtYj5PYtiy4 KsyO0Pq3lb0tBv7cCeX5eW
+
+Stack Trace:
+    at com.app.SearchClass.method0(File.java:698)
+    at com.app.SearchClass.method1(File.java:354)
+    at com.app.SearchClass.method2(File.java:501)
+    at com.app.SearchClass.method3(File.java:68)
+    at com.app.SearchClass.method4(File.java:104)
+    at com.app.SearchClass.method5(File.java:336)
+    at com.app.SearchClass.method6(File.java:860)
+    at com.app.SearchClass.method7(File.java:209)
+    at com.app.SearchClass.method8(File.java:324)
+    at com.app.SearchClass.method9(File.java:412)
+    at com.app.SearchClass.method10(File.java:423)
+    at com.app.SearchClass.method11(File.java:338)
+    at com.app.SearchClass.method12(File.java:624)
+    at com.app.SearchClass.method13(File.java:150)
+    at com.app.SearchClass.method14(File.java:304)
+    at com.app.SearchClass.method15(File.java:911)
+    at com.app.SearchClass.method16(File.java:392)
+    at com.app.SearchClass.method17(File.java:216)
+    at com.app.SearchClass.method18(File.java:701)
+    at com.app.SearchClass.method19(File.java:409)

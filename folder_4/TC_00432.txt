@@ -1,0 +1,31 @@
+Test Case ID : TC_00432
+Module       : API Authentication
+Timestamp    : 2026-01-10 13:12:00
+Build Number : 1730
+Status       : FAIL
+
+Failure Reason : Incorrect Response Code
+Failure Details:
+hqxVElSt7hnWXwMFS5e4pYSbh3NJEdMWJSksSeXW2VjiXYytHjSe4rI9jNKyutQdHZVscZcCvwsuWwx9KfdOlv3duO4st8K9ZMIOF2AZ4QGLQzvABvFH4QyTTEtcrQhXj4OmKtDouP7VpUgc3yyBcFhQSWH3awCickM1bpJ2Su7OFg018eIMQBa5Lp0WXbaOHrlkp1klPj1oYwlrLiEaypQOGJAAOneO9Z5gJgcIdyQQZid1Ud6fM2I8ve2c2y2H9c5lvvafcp2GI09sIqffTEQEYzqNZ6msfg5cKr5OXA2BgfYFXco4LVDEmBrnH c5GFikRljjyOuTguwW48xDbdrVy7i47POmlN3AfKB t VPYZYGQJVxg9PCaA24LFBzrdxxCn3yfmmW4p3A
+
+Stack Trace:
+    at com.app.APIAuthenticationClass.method0(File.java:890)
+    at com.app.APIAuthenticationClass.method1(File.java:779)
+    at com.app.APIAuthenticationClass.method2(File.java:903)
+    at com.app.APIAuthenticationClass.method3(File.java:606)
+    at com.app.APIAuthenticationClass.method4(File.java:858)
+    at com.app.APIAuthenticationClass.method5(File.java:708)
+    at com.app.APIAuthenticationClass.method6(File.java:499)
+    at com.app.APIAuthenticationClass.method7(File.java:685)
+    at com.app.APIAuthenticationClass.method8(File.java:360)
+    at com.app.APIAuthenticationClass.method9(File.java:732)
+    at com.app.APIAuthenticationClass.method10(File.java:214)
+    at com.app.APIAuthenticationClass.method11(File.java:795)
+    at com.app.APIAuthenticationClass.method12(File.java:634)
+    at com.app.APIAuthenticationClass.method13(File.java:52)
+    at com.app.APIAuthenticationClass.method14(File.java:504)
+    at com.app.APIAuthenticationClass.method15(File.java:331)
+    at com.app.APIAuthenticationClass.method16(File.java:975)
+    at com.app.APIAuthenticationClass.method17(File.java:618)
+    at com.app.APIAuthenticationClass.method18(File.java:573)
+    at com.app.APIAuthenticationClass.method19(File.java:502)

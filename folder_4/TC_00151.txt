@@ -1,0 +1,31 @@
+Test Case ID : TC_00151
+Module       : Notification Service
+Timestamp    : 2026-01-10 08:31:00
+Build Number : 2451
+Status       : FAIL
+
+Failure Reason : API 500 Internal Server Error
+Failure Details:
+0IjBECsjWQiowdXTn1DZZNEWQUwrWWzb6vEXZKXHY1Go2lO0gzF2vr7ObIJE7D1FeplIn11Bf4nQuvC1XClcWWSHcb pq80bdWq3wRZwVydu5EhBWZ 00Ex7k9mAGTXkd6VNFvqDy3tyl6q vP9pzw20ZZu8QNRKJawxAewgMMdsPvphcR1Fd5vEvtnaqH84jfeFL3Pq7mAlowcvqhZwo2OFL00EtYXGxKbEuVW22lN0alCO2H93KvqKqJqFv2h3ybhA9emOe9 bYM9w6ncZ0Hl5ue4AdJLgwj3TTC5rC4U6jRJKdG4qxwGg b2m Hw4KTT4WWIUojJfJG s TOPkPiUzcp3miBwfs9I9BCb2s1FUM3kncTAhq6dgS30Ai2OU4F0dxTA74sn5hjs
+
+Stack Trace:
+    at com.app.NotificationServiceClass.method0(File.java:182)
+    at com.app.NotificationServiceClass.method1(File.java:610)
+    at com.app.NotificationServiceClass.method2(File.java:926)
+    at com.app.NotificationServiceClass.method3(File.java:11)
+    at com.app.NotificationServiceClass.method4(File.java:366)
+    at com.app.NotificationServiceClass.method5(File.java:150)
+    at com.app.NotificationServiceClass.method6(File.java:602)
+    at com.app.NotificationServiceClass.method7(File.java:426)
+    at com.app.NotificationServiceClass.method8(File.java:393)
+    at com.app.NotificationServiceClass.method9(File.java:30)
+    at com.app.NotificationServiceClass.method10(File.java:617)
+    at com.app.NotificationServiceClass.method11(File.java:859)
+    at com.app.NotificationServiceClass.method12(File.java:620)
+    at com.app.NotificationServiceClass.method13(File.java:330)
+    at com.app.NotificationServiceClass.method14(File.java:306)
+    at com.app.NotificationServiceClass.method15(File.java:440)
+    at com.app.NotificationServiceClass.method16(File.java:394)
+    at com.app.NotificationServiceClass.method17(File.java:440)
+    at com.app.NotificationServiceClass.method18(File.java:754)
+    at com.app.NotificationServiceClass.method19(File.java:560)

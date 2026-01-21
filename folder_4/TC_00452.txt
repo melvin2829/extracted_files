@@ -1,0 +1,31 @@
+Test Case ID : TC_00452
+Module       : Settings
+Timestamp    : 2026-01-10 13:32:00
+Build Number : 1527
+Status       : FAIL
+
+Failure Reason : Data Mismatch
+Failure Details:
+06pZsLZF03vTzS2d0BWqtLZBdL5beom2quhN9J43u6bTfolmg YK3D5B7nL rysEK7 2ogMFy0yN7zspxP1Vg4CBqIaghHKLqyEKlXM6SpOx33UUXSuR 7rfFxgbzFv3bsTlekg IwQnOkob8d0 q7 bprmt2lAz0u58rMS6R8O48SOv3fiVe3ICrA6Bf2ntGep9c4B2GtTkK9lBpdhfikNQuqig LTYV3MXcEN awAsB5RPiQkT6fPl7YcWtudWc64JJ02kq1HSDyEokmvw1HIMrQo980TevT5Ke73slhRIDe1eeL19obSvlJscJfOIFr5KIaFZtAaUq5n2EoRo65mR4LYcEGMRsDYVkjwiohav5d2avV2xF7 jTIfPnXNhSNzQovi51f8Kcwiq
+
+Stack Trace:
+    at com.app.SettingsClass.method0(File.java:552)
+    at com.app.SettingsClass.method1(File.java:276)
+    at com.app.SettingsClass.method2(File.java:707)
+    at com.app.SettingsClass.method3(File.java:23)
+    at com.app.SettingsClass.method4(File.java:512)
+    at com.app.SettingsClass.method5(File.java:779)
+    at com.app.SettingsClass.method6(File.java:159)
+    at com.app.SettingsClass.method7(File.java:385)
+    at com.app.SettingsClass.method8(File.java:623)
+    at com.app.SettingsClass.method9(File.java:519)
+    at com.app.SettingsClass.method10(File.java:885)
+    at com.app.SettingsClass.method11(File.java:103)
+    at com.app.SettingsClass.method12(File.java:594)
+    at com.app.SettingsClass.method13(File.java:514)
+    at com.app.SettingsClass.method14(File.java:825)
+    at com.app.SettingsClass.method15(File.java:247)
+    at com.app.SettingsClass.method16(File.java:280)
+    at com.app.SettingsClass.method17(File.java:277)
+    at com.app.SettingsClass.method18(File.java:919)
+    at com.app.SettingsClass.method19(File.java:385)

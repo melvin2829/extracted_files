@@ -1,0 +1,31 @@
+Test Case ID : TC_00168
+Module       : User Registration
+Timestamp    : 2026-01-10 08:48:00
+Build Number : 1745
+Status       : FAIL
+
+Failure Reason : Database Connection Failed
+Failure Details:
+NhpzW05IMeEp9f5vZR4cAJRCF2CUhAZs19ND3nU8kqoQbRHRo2S7ARXiNtZPzS9BLvF0GoXEz1yAGIEFiLAlRq60xjMXnwdy8QZ5j4IIhbWv3XbHh zXoR0RtSqwT 23 pNW8s5oBITSO1u9N5AV2e2FFRS 1NJL8NMmoin4RZGjNMxaY8YOILTns1JPTKLoAO9VigBC6uSlS0Z5qpB0q9fCUkHv7KWWu0M21j3WO8fuyNsxrfNrQyYQzpy8ZkEiGbzgSdl1kZRzhP X4vGYFlZNksTTkD5sZs2GOfMIghCcGCU2AL6VJLYKkR9W6zgKJyO7rSNcXOPH4MpYQHEJyKnakc5aLCs5xLvr11QNLBibV3CSsnV70AWUJyUpDFwE93v5JBdTU 7PmXz3
+
+Stack Trace:
+    at com.app.UserRegistrationClass.method0(File.java:367)
+    at com.app.UserRegistrationClass.method1(File.java:887)
+    at com.app.UserRegistrationClass.method2(File.java:527)
+    at com.app.UserRegistrationClass.method3(File.java:152)
+    at com.app.UserRegistrationClass.method4(File.java:855)
+    at com.app.UserRegistrationClass.method5(File.java:302)
+    at com.app.UserRegistrationClass.method6(File.java:673)
+    at com.app.UserRegistrationClass.method7(File.java:283)
+    at com.app.UserRegistrationClass.method8(File.java:959)
+    at com.app.UserRegistrationClass.method9(File.java:277)
+    at com.app.UserRegistrationClass.method10(File.java:237)
+    at com.app.UserRegistrationClass.method11(File.java:991)
+    at com.app.UserRegistrationClass.method12(File.java:521)
+    at com.app.UserRegistrationClass.method13(File.java:327)
+    at com.app.UserRegistrationClass.method14(File.java:670)
+    at com.app.UserRegistrationClass.method15(File.java:109)
+    at com.app.UserRegistrationClass.method16(File.java:978)
+    at com.app.UserRegistrationClass.method17(File.java:834)
+    at com.app.UserRegistrationClass.method18(File.java:842)
+    at com.app.UserRegistrationClass.method19(File.java:374)

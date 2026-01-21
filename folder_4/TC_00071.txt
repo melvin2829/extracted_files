@@ -1,0 +1,31 @@
+Test Case ID : TC_00071
+Module       : Sort
+Timestamp    : 2026-01-10 07:11:00
+Build Number : 2222
+Status       : FAIL
+
+Failure Reason : UI Element Not Clickable
+Failure Details:
+S5lr67xupr7IzfxzfFw8wLToYmGELrnpFsYiuYZfxUexks Hr3EEvHkXXHTeeseKepOZ9rRLiyoYxh0QfHbk2FmRFZeEqrlYc4emR0LrqmePA4R6BS9lrmJ0Ep8KYdVrw6abwyDHWhETCm7xMvwm09AOM8S60jumdBhQH1FlyD5ZtZDAhx87234GCvqcs2FK0PaKb0NMWt3E1KP6YUjqjv1QAcrjB398UCPcwIeoUWL DERjxLmSIl3o7KWdDJPPBYwT2Bwwek 6hGlLR69Jqe4yjnP oQn94SymqM5BR7HjkvAJLeuD0I9MmVXDB0UY7OS54zkFe4dcLYS8pUvgE8p3N2JOj5odSWg1SwX5 a38Kb4Ab PTj9nuK PrgtlBbeC BZjdzLaxvOvf
+
+Stack Trace:
+    at com.app.SortClass.method0(File.java:878)
+    at com.app.SortClass.method1(File.java:824)
+    at com.app.SortClass.method2(File.java:480)
+    at com.app.SortClass.method3(File.java:692)
+    at com.app.SortClass.method4(File.java:876)
+    at com.app.SortClass.method5(File.java:159)
+    at com.app.SortClass.method6(File.java:782)
+    at com.app.SortClass.method7(File.java:303)
+    at com.app.SortClass.method8(File.java:606)
+    at com.app.SortClass.method9(File.java:244)
+    at com.app.SortClass.method10(File.java:351)
+    at com.app.SortClass.method11(File.java:262)
+    at com.app.SortClass.method12(File.java:533)
+    at com.app.SortClass.method13(File.java:817)
+    at com.app.SortClass.method14(File.java:626)
+    at com.app.SortClass.method15(File.java:376)
+    at com.app.SortClass.method16(File.java:307)
+    at com.app.SortClass.method17(File.java:432)
+    at com.app.SortClass.method18(File.java:201)
+    at com.app.SortClass.method19(File.java:512)

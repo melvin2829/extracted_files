@@ -1,0 +1,31 @@
+Test Case ID : TC_00277
+Module       : Dashboard Load
+Timestamp    : 2026-01-10 10:37:00
+Build Number : 1540
+Status       : FAIL
+
+Failure Reason : ElementNotFound
+Failure Details:
+xQtMU4mWMIVfSY7zU1Naf70H2NoAzogkgSNJsHylypmY8wbacwJLEmpgMZm3OhbILrfvlH1GARb1b4gQ7r4TxRU2M1KY4w8eEFiAboTCSEMpz31JF6ns56rsQUrkuvM1rtm2cn422yCaDvoKIHMuTQ4pYOgKa80KXJKc5YTA6myfezfu vDLQh0WQnqYYqQGyyoUNuHfSZLLArBI2uIuZlqmHIEe7UOa5wDCDMsDHGjy2i0 Xe6N7lvUdCAYza7IWU24ByRgRTjQv0qeZeOpw 8s d3WItBnfISbGtSunWkE okFjdVMxgEY3jHs5XDcYOLJZxFvoA38U4lqWdo57SNfgcd36jSz43Jif0EuRXnzrdRGh0NL2 s1lbyFlBcKOGzmnbMugu39vSU3
+
+Stack Trace:
+    at com.app.DashboardLoadClass.method0(File.java:271)
+    at com.app.DashboardLoadClass.method1(File.java:879)
+    at com.app.DashboardLoadClass.method2(File.java:634)
+    at com.app.DashboardLoadClass.method3(File.java:84)
+    at com.app.DashboardLoadClass.method4(File.java:922)
+    at com.app.DashboardLoadClass.method5(File.java:389)
+    at com.app.DashboardLoadClass.method6(File.java:603)
+    at com.app.DashboardLoadClass.method7(File.java:205)
+    at com.app.DashboardLoadClass.method8(File.java:410)
+    at com.app.DashboardLoadClass.method9(File.java:751)
+    at com.app.DashboardLoadClass.method10(File.java:792)
+    at com.app.DashboardLoadClass.method11(File.java:827)
+    at com.app.DashboardLoadClass.method12(File.java:273)
+    at com.app.DashboardLoadClass.method13(File.java:180)
+    at com.app.DashboardLoadClass.method14(File.java:403)
+    at com.app.DashboardLoadClass.method15(File.java:216)
+    at com.app.DashboardLoadClass.method16(File.java:907)
+    at com.app.DashboardLoadClass.method17(File.java:73)
+    at com.app.DashboardLoadClass.method18(File.java:221)
+    at com.app.DashboardLoadClass.method19(File.java:183)

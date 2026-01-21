@@ -1,0 +1,31 @@
+Test Case ID : TC_00214
+Module       : File Upload
+Timestamp    : 2026-01-10 09:34:00
+Build Number : 2996
+Status       : FAIL
+
+Failure Reason : Database Connection Failed
+Failure Details:
+IwlZ MASiRaRDo39HWYs2CTf2bghHbvC0iVisfM5aeoycm1SqE3A iwZMEKqLcqMAa8gGaOE16CS3gE uL5oBNGgQfIImwke VZP2J8vWm DPn47bC2LAvSN36PVaBh2rlIadprXVtBYqA8vTcUntuR WHmzacnzpzTPszF0xz6Pa5cdd0x3DGBCD2PRMbaulDY0xt1LOXdibH8VT3IHcjiIZ9gdQF8tJhns5d3rx9qGZBr8Pkon3fA1RdsS7jSuEqCK1mGUvutHg9lASaecIFkUDDYMEAoKPS8u8UUyv 1g8hhWk2MFHZH8Ka 5PTpu s83DvGVpTap3AqhYjnlhnX8uPbzF1ksx6ExkjJidpJ8wdjjAE1T6MX8p3rDeq1l8vLxvMPwq1Dh3m1q
+
+Stack Trace:
+    at com.app.FileUploadClass.method0(File.java:212)
+    at com.app.FileUploadClass.method1(File.java:317)
+    at com.app.FileUploadClass.method2(File.java:149)
+    at com.app.FileUploadClass.method3(File.java:994)
+    at com.app.FileUploadClass.method4(File.java:636)
+    at com.app.FileUploadClass.method5(File.java:825)
+    at com.app.FileUploadClass.method6(File.java:734)
+    at com.app.FileUploadClass.method7(File.java:979)
+    at com.app.FileUploadClass.method8(File.java:930)
+    at com.app.FileUploadClass.method9(File.java:122)
+    at com.app.FileUploadClass.method10(File.java:645)
+    at com.app.FileUploadClass.method11(File.java:423)
+    at com.app.FileUploadClass.method12(File.java:309)
+    at com.app.FileUploadClass.method13(File.java:196)
+    at com.app.FileUploadClass.method14(File.java:763)
+    at com.app.FileUploadClass.method15(File.java:942)
+    at com.app.FileUploadClass.method16(File.java:767)
+    at com.app.FileUploadClass.method17(File.java:149)
+    at com.app.FileUploadClass.method18(File.java:460)
+    at com.app.FileUploadClass.method19(File.java:359)

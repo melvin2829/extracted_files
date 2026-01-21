@@ -1,0 +1,8 @@
+Test Case ID : TC_00326
+Module       : Logout
+Timestamp    : 2026-01-10 11:26:00
+Build Number : 3413
+Status       : PASS
+
+Execution Log:
+r6KIkZ8gLoJTBERbVl42HwSXmgxFalekP8J0gKRLpnGESfp4WrjGxTxSLaM9YTBqsMLTTOBd5LLQNs8iJqX8 woEGr8Z9acWT5INJOCtk4UVji L3jl1PFQD9XLmip6bxMTea9NhvwSoM1N6g6VwDxmP4OhnpchJW9Vaxsy45jEcKc79ooledXr5npum9TwXAEad4UHx

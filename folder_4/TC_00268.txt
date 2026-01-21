@@ -1,0 +1,31 @@
+Test Case ID : TC_00268
+Module       : Login
+Timestamp    : 2026-01-10 10:28:00
+Build Number : 3262
+Status       : FAIL
+
+Failure Reason : ElementNotFound
+Failure Details:
+43TlPjaDHZJnhfSXNttZgPvVoyuyi5WOZsHJmOXgpfVaSFAFCOZ0Hn7cBf5x5nfuH9vZBFsU4rpxK3sVtbIPg6fu5QIMlIDsKTNhj1sdWZqGaqPq3LoBNA2tsItW3W3dFme35m9oZ3CNWwbuAT4gpGP2fWLvDxo8aqriSdPDhVc5tHinrP4VZfLRtPq0u9PT6OSSmJK2pzfNCw2MW7sYl1iJ487WwDPKnJlq0fqpIuyb0PUIE4aJUn471glr1HUtVzauIlyyJBEWauwkpfOyg8YoRig vu0DwSY12bhB6AO93opTNEcwZ1iptpv6q8SIZo30yDrS3e7cBES9407ig5tKRayqEjQN8kQuSwQVvep4q6fSOFNyhz3SXv4iPjJAfYmIUvZOHOwT9Ohm
+
+Stack Trace:
+    at com.app.LoginClass.method0(File.java:261)
+    at com.app.LoginClass.method1(File.java:769)
+    at com.app.LoginClass.method2(File.java:906)
+    at com.app.LoginClass.method3(File.java:902)
+    at com.app.LoginClass.method4(File.java:531)
+    at com.app.LoginClass.method5(File.java:964)
+    at com.app.LoginClass.method6(File.java:652)
+    at com.app.LoginClass.method7(File.java:868)
+    at com.app.LoginClass.method8(File.java:969)
+    at com.app.LoginClass.method9(File.java:785)
+    at com.app.LoginClass.method10(File.java:122)
+    at com.app.LoginClass.method11(File.java:836)
+    at com.app.LoginClass.method12(File.java:479)
+    at com.app.LoginClass.method13(File.java:668)
+    at com.app.LoginClass.method14(File.java:967)
+    at com.app.LoginClass.method15(File.java:228)
+    at com.app.LoginClass.method16(File.java:365)
+    at com.app.LoginClass.method17(File.java:620)
+    at com.app.LoginClass.method18(File.java:52)
+    at com.app.LoginClass.method19(File.java:152)

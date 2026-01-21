@@ -1,0 +1,8 @@
+Test Case ID : TC_00396
+Module       : Email Trigger
+Timestamp    : 2026-01-10 12:36:00
+Build Number : 3913
+Status       : PASS
+
+Execution Log:
+vuXAEWQ758DpFvc3ViFRFPeHj56AB4PGrz WgLedvjABHRHoKsfxmwvvmLOY4aWglQO6E3 iAS Ya6MHIrjLlaJgulMcrGxWKnEkYI15yTr1WxqKz5UFR2GQLkAd3smQVVU9pE7cWW50HriJNgWEf4lpdtWh 0cpcSgEXUkDUpeJ8G8XIYZx7s8MZe2V0pGrZuupeH7c

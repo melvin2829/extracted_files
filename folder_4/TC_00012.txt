@@ -1,0 +1,31 @@
+Test Case ID : TC_00012
+Module       : Dashboard Load
+Timestamp    : 2026-01-10 06:12:00
+Build Number : 2051
+Status       : FAIL
+
+Failure Reason : NullPointerException
+Failure Details:
+xD74Al 0iSbdKbwQWxuAsn vIHIm66tbgpCxdF794o4x5TgOpgvCUihyhh5Cn6x3QFSIp1y5uFltHi07IF0937HBQTYYYi58D3qYwbSX7ZYp7uSPMYQ3Gi5Mx4xUIF1dvrqG9ftRjrW3UCiklOpESj7Ui5tyovOnQjvKz6k45v3zPC7ODrns7oNg6 uQsdb7eE UVu6ZAC0kIYYiw68GVyW mvEohUC60 6A2Cpm5XKpwUSQzjpRc1enI4qNMJpy6GXg7SOlzA6XLGi5wMVIZntoyeBpOXOO1cysyhM1jWX0J9Yx1gJBiEKe5XA7ZyjbB Ec9oq9WIHWeet7bLCGdXVyi8wQv6ose62wA8nMsdssejpUdpJOEj3W772NCR6t0xWHOa7CQ5r4ZG9w
+
+Stack Trace:
+    at com.app.DashboardLoadClass.method0(File.java:199)
+    at com.app.DashboardLoadClass.method1(File.java:228)
+    at com.app.DashboardLoadClass.method2(File.java:103)
+    at com.app.DashboardLoadClass.method3(File.java:83)
+    at com.app.DashboardLoadClass.method4(File.java:407)
+    at com.app.DashboardLoadClass.method5(File.java:71)
+    at com.app.DashboardLoadClass.method6(File.java:623)
+    at com.app.DashboardLoadClass.method7(File.java:289)
+    at com.app.DashboardLoadClass.method8(File.java:470)
+    at com.app.DashboardLoadClass.method9(File.java:858)
+    at com.app.DashboardLoadClass.method10(File.java:865)
+    at com.app.DashboardLoadClass.method11(File.java:380)
+    at com.app.DashboardLoadClass.method12(File.java:781)
+    at com.app.DashboardLoadClass.method13(File.java:830)
+    at com.app.DashboardLoadClass.method14(File.java:156)
+    at com.app.DashboardLoadClass.method15(File.java:925)
+    at com.app.DashboardLoadClass.method16(File.java:36)
+    at com.app.DashboardLoadClass.method17(File.java:168)
+    at com.app.DashboardLoadClass.method18(File.java:56)
+    at com.app.DashboardLoadClass.method19(File.java:18)

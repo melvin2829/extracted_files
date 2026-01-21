@@ -1,0 +1,31 @@
+Test Case ID : TC_00029
+Module       : Access Control
+Timestamp    : 2026-01-10 06:29:00
+Build Number : 3514
+Status       : FAIL
+
+Failure Reason : API 401 Unauthorized
+Failure Details:
+lHcUMTAHvXUamo4U DupuukAvI2lEaUNFUTXOdAQIIX37uzDEksXwHRtscb k7d4cTyc74pscCIRCQkwRMrCRrPtWOHSTirlu7hDHG1wwkqEDRU50CIYSpB9dJH6yaK0MgyEvUeF9E0tjOmQVrVaeOAD32vb1Uxd1Gnc5nDpNjN9sk3gwFjaYUiUhJv25YizCIDwLnTjjTXGI9U vEA4y0pAwVzBPortlFK0B24MYktPQ8a9XxKjxxGnYZfXzen1gczm5be2p6 KfqXCtM47pv9AdDJ6iUZDS67iRtfUaYxH a9Acvegea eVpibF4aP1nn84qVkzq0 8YmqT7oWV1mPFp61kiQIZM33IdzBChlH9taBg5WhTvAtJjoGJs1AKsM73oHFa1giJkCe
+
+Stack Trace:
+    at com.app.AccessControlClass.method0(File.java:759)
+    at com.app.AccessControlClass.method1(File.java:523)
+    at com.app.AccessControlClass.method2(File.java:604)
+    at com.app.AccessControlClass.method3(File.java:979)
+    at com.app.AccessControlClass.method4(File.java:225)
+    at com.app.AccessControlClass.method5(File.java:598)
+    at com.app.AccessControlClass.method6(File.java:552)
+    at com.app.AccessControlClass.method7(File.java:906)
+    at com.app.AccessControlClass.method8(File.java:962)
+    at com.app.AccessControlClass.method9(File.java:721)
+    at com.app.AccessControlClass.method10(File.java:230)
+    at com.app.AccessControlClass.method11(File.java:778)
+    at com.app.AccessControlClass.method12(File.java:267)
+    at com.app.AccessControlClass.method13(File.java:734)
+    at com.app.AccessControlClass.method14(File.java:293)
+    at com.app.AccessControlClass.method15(File.java:59)
+    at com.app.AccessControlClass.method16(File.java:340)
+    at com.app.AccessControlClass.method17(File.java:737)
+    at com.app.AccessControlClass.method18(File.java:917)
+    at com.app.AccessControlClass.method19(File.java:311)

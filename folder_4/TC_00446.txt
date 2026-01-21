@@ -1,0 +1,31 @@
+Test Case ID : TC_00446
+Module       : Report Generation
+Timestamp    : 2026-01-10 13:26:00
+Build Number : 2334
+Status       : FAIL
+
+Failure Reason : UI Element Not Clickable
+Failure Details:
+blIIcQGTcEdTrjD2r6O9Ta6WRJmESkSMZqylZxdTqIxVxC3bQMQTggBrELAJlZFAqsbgv7EAnkQy4XSMBEpoI9NobFgjSlIwQsdWjLMLLWnT44BwsML1O0eRJgPKrwmSrnF3xjCMN2RHxyyFP2ZxizFIDtLblv6Izrb5BxpVgSLDoejXsbNDCcXeO kmvwanRTJ0Ozv2FMrygsMjvBrHbeQc4YLwT9bzoBGGaddCeSVcTkLwftmNgqBpXylLsyT78lDipbpKzjjVPuctrNmQke7VuURUXsoc8hoXp2cknfPXqQdqw7MsoDfPxdwt5TLOiD0GOyuw8Xb8JmXf5AzcjRrOSe9UR04I8M9n8xiay0QgRpNzxN2FmEVxJm3qHVyRVu1A9qVUkWgEZd4C
+
+Stack Trace:
+    at com.app.ReportGenerationClass.method0(File.java:333)
+    at com.app.ReportGenerationClass.method1(File.java:769)
+    at com.app.ReportGenerationClass.method2(File.java:939)
+    at com.app.ReportGenerationClass.method3(File.java:493)
+    at com.app.ReportGenerationClass.method4(File.java:237)
+    at com.app.ReportGenerationClass.method5(File.java:939)
+    at com.app.ReportGenerationClass.method6(File.java:622)
+    at com.app.ReportGenerationClass.method7(File.java:130)
+    at com.app.ReportGenerationClass.method8(File.java:497)
+    at com.app.ReportGenerationClass.method9(File.java:806)
+    at com.app.ReportGenerationClass.method10(File.java:508)
+    at com.app.ReportGenerationClass.method11(File.java:963)
+    at com.app.ReportGenerationClass.method12(File.java:679)
+    at com.app.ReportGenerationClass.method13(File.java:579)
+    at com.app.ReportGenerationClass.method14(File.java:42)
+    at com.app.ReportGenerationClass.method15(File.java:24)
+    at com.app.ReportGenerationClass.method16(File.java:807)
+    at com.app.ReportGenerationClass.method17(File.java:484)
+    at com.app.ReportGenerationClass.method18(File.java:23)
+    at com.app.ReportGenerationClass.method19(File.java:592)
